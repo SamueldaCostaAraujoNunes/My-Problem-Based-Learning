@@ -1,0 +1,1793 @@
+Posição;Município;Código do IBGE;Abreviação;Unidade federativa;Área (km²)
+4404;Abaiara;2300101;CE;Ceará;179.906
+866;Abaré;2900207;BA;Bahia;1 693.690
+2210;Abaíra;2900108;BA;Bahia;578.359
+4894;Abreu e Lima;2600054;PE;Pernambuco;125.991
+3656;Acajutiba;2900306;BA;Bahia;267.662
+4609;Acarapé;2300150;CE;Ceará;155.188
+1631;Acaraú;2300200;CE;Ceará;842.884
+2131;Acari;2400109;RN; Rio Grande do Norte;608.565
+1376;Acauã;2200053;PI;Piauí;1 029.410
+667;Acopiara;2300309;CE;Ceará;2 265.316
+2099;Adustina;2900355;BA;Bahia;619.664
+2953;Afogados da Ingazeira;2600104;PE;Pernambuco;377.863
+2218;Afonso Bezerra;2400307;RN; Rio Grande do Norte;576.248
+2984;Afonso Cunha;2100105;MA;Maranhão;371.247
+982;Afrânio;2600203;PE;Pernambuco;1 490.615
+4191;Agrestina;2600302;PE;Pernambuco;201.437
+5017;Agricolândia;2200103;PI;Piauí;112.419
+3141;Aguiar;2500205;PB;Paraíba;344.691
+4252;Aiquara;2900603;BA;Bahia;195.174
+624;Aiuaba;2300408;CE;Ceará;2 434.414
+3293;Alagoa Grande;2500304;PB;Paraíba;320.558
+4923;Alagoa Nova;2500403;PB;Paraíba;122.254
+5255;Alagoinha;2500502;PB;Paraíba;85.060
+4204;Alagoinha;2600609;PE;Pernambuco;200.422
+2637;Alagoinha do Piauí;2200251;PI;Piauí;448.101
+1842;Alagoinhas;2900702;BA;Bahia;733.969
+3391;Alcantil;2500536;PB;Paraíba;305.391
+975;Alcobaça;2900801;BA;Bahia;1 505.992
+987;Alcântara;2100204;MA;Maranhão;1 483.232
+4777;Alcântaras;2300507;CE;Ceará;138.598
+772;Aldeias Altas;2100303;MA;Maranhão;1 942.128
+3568;Alegrete do Piauí;2200277;PI;Piauí;281.271
+2946;Alexandria;2400505;RN; Rio Grande do Norte;381.202
+4021;Algodão de Jandaíra;2500577;PB;Paraíba;220.246
+4382;Alhandra;2500601;PB;Paraíba;182.656
+3627;Aliança;2600708;PE;Pernambuco;272.728
+3808;Almadina;2900900;BA;Bahia;246.894
+4876;Almino Afonso;2400604;RN; Rio Grande do Norte;128.029
+1985;Altamira do Maranhão;2100402;MA;Maranhão;668.690
+5356;Altaneira;2300606;CE;Ceará;73.296
+2621;Altinho;2600807;PE;Pernambuco;454.486
+2757;Alto Alegre do Maranhão;2100436;MA;Maranhão;420.874
+774;Alto Alegre do Pindaré;2100477;MA;Maranhão;1 932.317
+4291;Alto do Rodrigues;2400703;RN; Rio Grande do Norte;191.311
+903;Alto Longá;2200301;PI;Piauí;1 621.354
+123;Alto Parnaíba;2100501;MA;Maranhão;11 132.105
+1092;Alto Santo;2300705;CE;Ceará;1 338.743
+1465;Altos;2200400;PI;Piauí;957.617
+701;Alvorada do Gurguéia;2200459;PI;Piauí;2 131.942
+2657;Amapá do Maranhão;2100550;MA;Maranhão;442.319
+3901;Amaraji;2600906;PE;Pernambuco;234.780
+189;Amarante do Maranhão;2100600;MA;Maranhão;7 669.090
+1118;Amarantedesambiguação;2200509;PI;Piauí;1 304.775
+2685;Amargosa;2901007;BA;Bahia;435.932
+1239;Amontada;2300754;CE;Ceará;1 179.590
+5523;Amparo de São Francisco;2800100;SE;Sergipe;35.173
+4926;Amparodesambiguação;2500734;PB;Paraíba;121.983
+4910;Amélia Rodrigues;2901106;BA;Bahia;124.075
+1824;América Dourada;2901155;BA;Bahia;743.889
+4318;Anadia;2700201;AL;Alagoas;189.471
+795;Anagé;2901205;BA;Bahia;1 852.554
+1291;Anajatuba;2100709;MA;Maranhão;1 116.947
+2134;Anapurus;2100808;MA;Maranhão;608.274
+785;Andaraí;2901304;BA;Bahia;1 895.162
+1214;Andorinha;2901353;BA;Bahia;1 207.680
+4962;Angelim;2601003;PE;Pernambuco;118.032
+895;Angical;2901403;BA;Bahia;1 638.717
+4195;Angical do Piauí;2200608;PI;Piauí;201.208
+1828;Angicos;2400802;RN; Rio Grande do Norte;741.654
+4578;Anguera;2901502;BA;Bahia;158.729
+2930;Antasdesambiguação;2901601;BA;Bahia;383.991
+3704;Antonina do Norte;2300804;CE;Ceará;260.101
+2017;Antônio Almeida;2200806;PI;Piauí;652.732
+3478;Antônio Cardoso;2901700;BA;Bahia;293.217
+3318;Antônio Gonçalves;2901809;BA;Bahia;316.131
+3830;Antônio Martins;2400901;RN; Rio Grande do Norte;244.620
+3241;Anísio de Abreu;2200707;PI;Piauí;326.822
+3944;Aparecida;2500775;PB;Paraíba;229.153
+2021;Apicum-Açu;2100832;MA;Maranhão;651.915
+917;Apodi;2401008;RN; Rio Grande do Norte;1 602.659
+2225;Aporá;2901908;BA;Bahia;572.226
+4664;Apuarema;2901957;BA;Bahia;150.686
+2301;Apuiarés;2300903;CE;Ceará;544.744
+3062;Aquidabã;2800209;SE;Sergipe;357.003
+2513;Aquiraz;2301000;CE;Ceará;480.976
+4446;Aracaju;2800308;SE;Sergipe;174.053
+1186;Aracati;2301109;CE;Ceará;1 229.194
+961;Aracatu;2902005;BA;Bahia;1 535.887
+964;Araci;2902104;BA;Bahia;1 524.068
+2006;Aracoiaba;2301208;CE;Ceará;656.532
+1710;Araguanãdesambiguação;2100873;MA;Maranhão;804.394
+830;Araioses;2100907;MA;Maranhão;1 782.564
+3096;Aramari;2902203;BA;Bahia;352.535
+509;Arame;2100956;MA;Maranhão;3 044.801
+3102;Arapiraca;2700300;AL;Alagoas;351.475
+5231;Arara;2500908;PB;Paraíba;88.858
+3143;Ararendá;2301257;CE;Ceará;344.132
+1313;Arari;2101004;MA;Maranhão;1 100.285
+1083;Araripe;2301307;CE;Ceará;1 347.047
+801;Araripina;2601102;PE;Pernambuco;1 847.470
+3817;Ararunadesambiguação;2501005;PB;Paraíba;245.720
+2879;Arataca;2902252;BA;Bahia;396.086
+4742;Aratuba;2301406;CE;Ceará;142.538
+4429;Aratuípe;2902302;BA;Bahia;177.150
+4270;Arauá;2800407;SE;Sergipe;192.723
+3938;Araçagi;2500809;PB;Paraíba;229.722
+2762;Araças;2902054;BA;Bahia;419.933
+5164;Araçoiaba;2601052;PE;Pernambuco;96.381
+3086;Arcoverde;2601201;PE;Pernambuco;353.383
+3642;Areia;2501104;PB;Paraíba;269.424
+3057;Areia Brancadesambiguação;2401107;RN; Rio Grande do Norte;357.580
+4870;Areia Brancadesambiguação;2800506;SE;Sergipe;128.392
+5165;Areia de Baraúnas;2501153;PB;Paraíba;96.342
+5532;Areial;2501203;PB;Paraíba;33.935
+1347;Arneiroz;2301505;CE;Ceará;1 066.426
+1690;Aroazes;2200905;PI;Piauí;816.609
+2967;Aroeiras;2501302;PB;Paraíba;374.674
+2062;Arraial;2201002;PI;Piauí;635.818
+5015;Arês;2401206;RN; Rio Grande do Norte;112.584
+1293;Assaré;2301604;CE;Ceará;1 116.320
+4891;Assunção;2501351;PB;Paraíba;126.427
+868;Assunção do Piauí;2201051;PI;Piauí;1 690.716
+2340;Atalaia;2700409;AL;Alagoas;531.983
+1552;Augusto Severodesambiguação;2401305;RN; Rio Grande do Norte;896.962
+2645;Aurelino Leal;2902401;BA;Bahia;446.446
+1569;Auroradesambiguação;2301703;CE;Ceará;885.827
+1211;Avelino Lopes;2201101;PI;Piauí;1 209.379
+4175;Axixá;2101103;MA;Maranhão;203.194
+258;Açailândia;2100055;MA;Maranhão;5 806.307
+1146;Açu;2400208;RN; Rio Grande do Norte;1 269.235
+870;Bacabal;2101202;MA;Maranhão;1 682.601
+2112;Bacabeira;2101251;MA;Maranhão;615.761
+1740;Bacuri;2101301;MA;Maranhão;788.062
+1973;Bacurituba;2101350;MA;Maranhão;674.512
+450;Baianópolis;2902500;BA;Bahia;3 360.088
+1430;Baixa Grande;2902609;BA;Bahia;982.657
+185;Baixa Grande do Ribeiro;2201150;PI;Piauí;7 808.945
+4709;Baixio;2301802;CE;Ceará;146.442
+92;Balsas;2101400;MA;Maranhão;13 141.637
+1330;Banabuiú;2301851;CE;Ceará;1 079.987
+3727;Bananeiras;2501500;PB;Paraíba;257.981
+4088;Banzaê;2902658;BA;Bahia;212.316
+5481;Baraúnadesambiguação;2501534;PB;Paraíba;50.577
+1667;Baraúnadesambiguação;2401453;RN; Rio Grande do Norte;825.802
+2522;Barbalha;2301901;CE;Ceará;479.184
+4640;Barcelona;2401503;RN; Rio Grande do Norte;152.629
+120;Barra;2902708;BA;Bahia;11 332.950
+3103;Barra d'Alcântara;2201176;PI;Piauí;351.028
+1042;Barra da Estiva;2902807;BA;Bahia;1 401.979
+4998;Barra de Guabiraba;2601300;PE;Pernambuco;114.216
+1669;Barra de Santa Rosa;2501609;PB;Paraíba;825.097
+2997;Barra de Santana;2501575;PB;Paraíba;369.290
+4784;Barra de Santo Antônio;2700508;AL;Alagoas;137.977
+5332;Barra de São Migueldesambiguação;2700607;AL;Alagoas;76.612
+2172;Barra de São Migueldesambiguação;2501708;PB;Paraíba;595.205
+1763;Barra do Choça;2902906;BA;Bahia;778.335
+181;Barra do Corda;2101608;MA;Maranhão;7 962.428
+1164;Barra do Mendes;2903003;BA;Bahia;1 252.094
+4273;Barra do Rocha;2903102;BA;Bahia;192.556
+5215;Barra dos Coqueiros;2800605;SE;Sergipe;91.101
+852;Barras;2201200;PI;Piauí;1 721.586
+3815;Barreiradesambiguação;2301950;CE;Ceará;245.946
+183;Barreiras;2903201;BA;Bahia;7 895.241
+742;Barreiras do Piauí;2201309;PI;Piauí;2 028.282
+497;Barreirinhas;2101707;MA;Maranhão;3 111.296
+3913;Barreirosdesambiguação;2601409;PE;Pernambuco;233.370
+2735;Barro Altodesambiguação;2903235;BA;Bahia;425.750
+4843;Barro Duro;2201408;PI;Piauí;131.116
+4333;Barrocas;2903276;BA;Bahia;188.105
+1897;Barrodesambiguação;2302008;CE;Ceará;709.655
+2935;Barroquinha;2302057;CE;Ceará;383.426
+673;Barão de Grajaú;2101509;MA;Maranhão;2 247.229
+3287;Batalha;2700706;AL;Alagoas;321.131
+924;Batalha;2201507;PI;Piauí;1 588.905
+3369;Baturité;2302107;CE;Ceará;308.780
+5539;Bayeux;2501807;PB;Paraíba;31.784
+5117;Baía da Traição;2501401;PB;Paraíba;102.364
+3825;Baía Formosa;2401404;RN; Rio Grande do Norte;245.510
+908;Beberibedesambiguação;2302206;CE;Ceará;1 616.389
+1634;Bela Cruz;2302305;CE;Ceará;841.718
+3770;Bela Vista do Maranhão;2101772;MA;Maranhão;252.524
+3342;Bela Vista do Piauí;2201556;PI;Piauí;312.361
+747;Belmonte;2903409;BA;Bahia;2 009.896
+2130;Belo Campo;2903508;BA;Bahia;608.594
+2035;Belo Jardim;2601706;PE;Pernambuco;647.696
+3199;Belo Monte;2700904;AL;Alagoas;334.047
+2449;Belágua;2101731;MA;Maranhão;499.427
+5491;Belém;2700805;AL;Alagoas;48.196
+5135;Belém;2501906;PB;Paraíba;100.143
+5379;Belém de Maria;2601508;PE;Pernambuco;69.465
+807;Belém de São Francisco;2601607;PE;Pernambuco;1 830.807
+2148;Belém do Brejo do Cruz;2502003;PB;Paraíba;603.038
+4013;Belém do Piauí;2201572;PI;Piauí;220.933
+1732;Beneditinos;2201606;PI;Piauí;792.562
+831;Benedito Leite;2101806;MA;Maranhão;1 781.662
+3426;Bento Fernandes;2401602;RN; Rio Grande do Norte;301.075
+1778;Bequimão;2101905;MA;Maranhão;768.957
+5479;Bernardino Batista;2502052;PB;Paraíba;50.628
+3693;Bernardo do Mearim;2101939;MA;Maranhão;261.401
+1193;Bertolínia;2201705;PI;Piauí;1 225.168
+1171;Betânia;2601805;PE;Pernambuco;1 244.071
+1321;Betânia do Piauí;2201739;PI;Piauí;1 092.305
+2477;Bezerros;2601904;PE;Pernambuco;492.556
+2713;Biritinga;2903607;BA;Bahia;430.602
+3187;Boa Hora;2201770;PI;Piauí;335.747
+1598;Boa Nova;2903706;BA;Bahia;856.886
+4341;Boa Saúde;2405306;RN; Rio Grande do Norte;187.211
+4837;Boa Venturadesambiguação;2502102;PB;Paraíba;132.136
+543;Boa Viagemdesambiguação;2302404;CE;Ceará;2 836.774
+2857;Boa Vista do Gurupi;2101970;MA;Maranhão;401.433
+582;Boa Vista do Tupim;2903805;BA;Bahia;2 629.822
+2529;Boa Vistadesambiguação;2502151;PB;Paraíba;476.539
+4346;Boca da Mata;2701001;AL;Alagoas;186.568
+3730;Bocainadesambiguação;2201804;PI;Piauí;257.302
+946;Bodocó;2602001;PE;Pernambuco;1 553.853
+3761;Bodó;2401651;RN; Rio Grande do Norte;253.513
+1744;Bom Conselho;2602100;PE;Pernambuco;786.195
+221;Bom Jardimdesambiguação;2102002;MA;Maranhão;6 590.475
+3995;Bom Jardimdesambiguação;2602209;PE;Pernambuco;222.883
+380;Bom Jesus da Lapa;2903904;BA;Bahia;3 951.425
+2805;Bom Jesus da Serra;2903953;BA;Bahia;410.033
+569;Bom Jesus das Selvas;2102036;MA;Maranhão;2 679.418
+5493;Bom Jesusdesambiguação;2502201;PB;Paraíba;47.421
+279;Bom Jesusdesambiguação;2201903;PI;Piauí;5 469.156
+4925;Bom Jesusdesambiguação;2401701;RN; Rio Grande do Norte;122.033
+2646;Bom Lugar;2102077;MA;Maranhão;446.444
+2376;Bom Princípio do Piauí;2201919;PI;Piauí;521.571
+4366;Bom Sucessodesambiguação;2502300;PB;Paraíba;184.101
+3474;Bonfim do Piauí;2201929;PI;Piauí;293.593
+1614;Boninal;2904001;BA;Bahia;847.905
+3955;Bonito de Santa Fé;2502409;PB;Paraíba;228.326
+2047;Bonitodesambiguação;2904050;BA;Bahia;641.229
+2867;Bonitodesambiguação;2602308;PE;Pernambuco;399.503
+2740;Boqueirão;2502508;PB;Paraíba;424.646
+3569;Boqueirão do Piauí;2201945;PI;Piauí;281.194
+4070;Boquim;2800670;SE;Sergipe;214.566
+1022;Boquira;2904100;BA;Bahia;1 430.780
+5550;Borboremadesambiguação;2502706;PB;Paraíba;25.984
+2279;Botuporã;2904209;BA;Bahia;552.570
+4297;Branquinha;2701100;AL;Alagoas;191.011
+1573;Brasileira;2201960;PI;Piauí;880.893
+5083;Brejinhodesambiguação;2602506;PE;Pernambuco;106.297
+5448;Brejinhodesambiguação;2401800;RN; Rio Grande do Norte;58.528
+1786;Brejo da Madre de Deus;2602605;PE;Pernambuco;762.088
+2505;Brejo de Areia;2102150;MA;Maranhão;482.892
+2870;Brejo do Cruz;2502805;PB;Paraíba;398.917
+683;Brejo do Piauí;2201988;PI;Piauí;2 212.932
+5188;Brejo dos Santos;2502904;PB;Paraíba;93.848
+4673;Brejo Grande;2800704;SE;Sergipe;149.952
+1995;Brejo Santo;2302503;CE;Ceará;661.959
+1337;Brejodesambiguação;2102101;MA;Maranhão;1 074.500
+586;Brejolândia;2904407;BA;Bahia;2 619.439
+4565;Brejão;2602407;PE;Pernambuco;159.791
+2511;Brejões;2904308;BA;Bahia;481.292
+642;Brotas de Macaúbas;2904506;BA;Bahia;2 372.644
+695;Brumado;2904605;BA;Bahia;2 166.532
+5160;Buenos Aires;2602704;PE;Pernambuco;96.686
+4111;Buerarema;2904704;BA;Bahia;209.559
+993;Buriti;2102200;MA;Maranhão;1 474.041
+930;Buriti Bravo;2102309;MA;Maranhão;1 582.525
+1934;Buriti dos Lopes;2202000;PI;Piauí;691.363
+575;Buriti dos Montes;2202026;PI;Piauí;2 652.103
+599;Buriticupu;2102325;MA;Maranhão;2 544.975
+397;Buritirama;2904753;BA;Bahia;3 797.871
+1684;Buritirana;2102358;MA;Maranhão;818.416
+1084;Buíque;2602803;PE;Pernambuco;1 345.124
+4671;Caaporã;2503001;PB;Paraíba;150.168
+2011;Caatiba;2904803;BA;Bahia;655.581
+2865;Cabaceiras;2503100;PB;Paraíba;400.222
+4076;Cabaceiras do Paraguaçu;2904852;BA;Bahia;213.550
+2132;Cabeceiras do Piauí;2202059;PI;Piauí;608.505
+5540;Cabedelo;2503209;PB;Paraíba;31.265
+2639;Cabo de Santo Agostinho;2602902;PE;Pernambuco;447.875
+885;Cabrobó;2603009;PE;Pernambuco;1 658.075
+2872;Cachoeira;2904902;BA;Bahia;398.472
+4454;Cachoeira dos Índios;2503308;PB;Paraíba;172.906
+1907;Cachoeira Grande;2102374;MA;Maranhão;705.636
+4413;Cachoeirinhadesambiguação;2603108;PE;Pernambuco;179.268
+3917;Cacimba de Areia;2503407;PB;Paraíba;233.037
+4396;Cacimba de Dentro;2503506;PB;Paraíba;181.221
+4737;Cacimbas;2503555;PB;Paraíba;142.926
+3623;Cacimbinhas;2701209;AL;Alagoas;272.978
+1949;Caculé;2905008;BA;Bahia;685.914
+1597;Caetanos;2905156;BA;Bahia;857.282
+659;Caetité;2905206;BA;Bahia;2 306.382
+3220;Caetésdesambiguação;2603207;PE;Pernambuco;330.472
+1516;Cafarnaum;2905305;BA;Bahia;927.491
+1188;Caicó;2402006;RN; Rio Grande do Norte;1 228.574
+2628;Cairu;2905404;BA;Bahia;451.194
+4878;Caiçara;2503605;PB;Paraíba;127.911
+4317;Caiçara do Norte;2401859;RN; Rio Grande do Norte;189.495
+3698;Caiçara do Rio do Vento;2401909;RN; Rio Grande do Norte;261.191
+1536;Cajapió;2102408;MA;Maranhão;908.721
+2302;Cajari;2102507;MA;Maranhão;544.050
+2193;Cajazeiras;2503704;PB;Paraíba;586.275
+2268;Cajazeiras do Piauí;2202075;PI;Piauí;555.553
+3513;Cajazeirinhas;2503753;PB;Paraíba;287.891
+4906;Cajueiro;2701308;AL;Alagoas;124.344
+3635;Cajueiro da Praia;2202083;PI;Piauí;271.348
+5461;Caldas Brandão;2503803;PB;Paraíba;55.853
+2463;Caldeirão Grande;2905503;BA;Bahia;495.837
+2399;Caldeirão Grande do Piauí;2202091;PI;Piauí;514.307
+4011;Calumbi;2603405;PE;Pernambuco;221.038
+4992;Calçado;2603306;PE;Pernambuco;114.440
+2067;Camacan;2905602;BA;Bahia;632.926
+2147;Camalaú;2503902;PB;Paraíba;603.060
+1570;Camamu;2905800;BA;Bahia;885.195
+5463;Camaragibe;2603454;PE;Pernambuco;55.083
+1788;Camaçari;2905701;BA;Bahia;759.802
+1286;Camocim;2302602;CE;Ceará;1 123.937
+5472;Camocim de São Félix;2603504;PE;Pernambuco;53.576
+2115;Campestre do Maranhão;2102556;MA;Maranhão;615.379
+5469;Campestredesambiguação;2701357;AL;Alagoas;53.988
+2098;Campina Grande;2504009;PB;Paraíba;620.628
+1726;Campinas do Piauí;2202109;PI;Piauí;796.953
+554;Campo Alegre de Lourdes;2905909;BA;Bahia;2 753.919
+1798;Campo Alegre do Fidalgo;2202117;PI;Piauí;755.529
+3374;Campo Alegredesambiguação;2701407;AL;Alagoas;308.058
+3810;Campo de Santanadesambiguação;2516409;PB;Paraíba;246.656
+4188;Campo do Brito;2801009;SE;Sergipe;201.724
+216;Campo Formoso;2906006;BA;Bahia;6 806.097
+4518;Campo Grande;2701506;AL;Alagoas;166.404
+3487;Campo Grande do Piauí;2202133;PI;Piauí;291.581
+2526;Campo Largo do Piauí;2202174;PI;Piauí;477.915
+864;Campo Maiordesambiguação;2202208;PI;Piauí;1 699.383
+4074;Campo Redondo;2402105;RN; Rio Grande do Norte;213.729
+1329;Campos Sales;2302701;CE;Ceará;1 082.771
+5519;Camutanga;2603603;PE;Pernambuco;37.297
+2226;Canapi;2701605;AL;Alagoas;571.855
+2102;Canaranadesambiguação;2906204;BA;Bahia;617.991
+819;Canavieiradesambiguação;2202251;PI;Piauí;1 803.466
+1059;Canavieiras;2906303;BA;Bahia;1 375.556
+2615;Candeal;2906402;BA;Bahia;455.278
+3677;Candeiasdesambiguação;2906501;BA;Bahia;264.487
+2873;Candiba;2906600;BA;Bahia;397.965
+3824;Canguaretama;2402204;RN; Rio Grande do Norte;245.529
+4482;Canhoba;2801108;SE;Sergipe;170.052
+2750;Canhotinho;2603702;PE;Pernambuco;423.075
+1547;Canindé de São Francisco;2801207;SE;Sergipe;902.251
+474;Canindédesambiguação;2302800;CE;Ceará;3 218.423
+1104;Cansanção;2906808;BA;Bahia;1 319.495
+1724;Cantanhededesambiguação;2102705;MA;Maranhão;797.887
+335;Canto do Buriti;2202307;PI;Piauí;4 409.804
+519;Canudos;2906824;BA;Bahia;2 984.883
+2581;Canápolisdesambiguação;2906105;BA;Bahia;464.307
+4153;Capela;2701704;AL;Alagoas;205.283
+2664;Capela;2801306;SE;Sergipe;440.716
+2010;Capela do Alto Alegre;2906857;BA;Bahia;655.805
+5318;Capim;2504033;PB;Paraíba;78.165
+3108;Capim Grosso;2906873;BA;Bahia;350.032
+2085;Capinzal do Norte;2102754;MA;Maranhão;626.873
+4260;Capistrano;2302909;CE;Ceará;194.797
+2321;Capitão de Campos;2202406;PI;Piauí;538.681
+1296;Capitão Gervásio Oliveira;2202455;PI;Piauí;1 114.408
+3193;Capoeiras;2603801;PE;Pernambuco;335.258
+2633;Caracol;2202505;PI;Piauí;449.465
+646;Caravelasdesambiguação;2906907;BA;Bahia;2 361.278
+1285;Caraíbas;2906899;BA;Bahia;1 125.474
+2649;Caraúbas;2504074;PB;Paraíba;445.575
+1318;Caraúbas;2402303;RN; Rio Grande do Norte;1 095.001
+2546;Caraúbas do Piauí;2202539;PI;Piauí;471.447
+4359;Cardeal da Silva;2907004;BA;Bahia;184.859
+1621;Caridade;2303006;CE;Ceará;846.373
+2749;Caridade do Piauí;2202554;PI;Piauí;423.369
+555;Carinhanha;2907103;BA;Bahia;2 751.856
+2061;Carira;2801405;SE;Sergipe;636.404
+2091;Caririaçu;2303204;CE;Ceará;623.823
+1795;Cariré;2303105;CE;Ceará;756.893
+1352;Cariús;2303303;CE;Ceará;1 061.825
+5497;Carmópolis;2801504;SE;Sergipe;45.905
+2346;Carnaubais;2402501;RN; Rio Grande do Norte;529.835
+3017;Carnaubaldesambiguação;2303402;CE;Ceará;364.750
+1397;Carnaubeira da Penha;2603926;PE;Pernambuco;1 010.171
+2681;Carnaíba;2603900;PE;Pernambuco;436.981
+3819;Carnaúba dos Dantas;2402402;RN; Rio Grande do Norte;245.648
+5009;Carneiros;2701803;AL;Alagoas;113.058
+226;Carolinadesambiguação;2102804;MA;Maranhão;6 441.559
+4712;Carpina;2604007;PE;Pernambuco;146.124
+5359;Carrapateira;2504108;PB;Paraíba;72.778
+1522;Caruaru;2604106;PE;Pernambuco;920.610
+1162;Carutapera;2102903;MA;Maranhão;1 255.555
+137;Casa Nova;2907202;BA;Bahia;9 657.505
+1641;Cascavel;2303501;CE;Ceará;837.967
+4902;Casinhas;2604155;PE;Pernambuco;125.282
+4194;Casserengue;2504157;PB;Paraíba;201.379
+725;Castelo do Piauí;2202604;PI;Piauí;2 063.960
+1784;Castro Alves;2907301;BA;Bahia;762.981
+2492;Catarinadesambiguação;2303600;CE;Ceará;486.859
+4137;Catende;2604205;PE;Pernambuco;206.923
+2347;Catingueira;2504207;PB;Paraíba;529.456
+1999;Catolândia;2907400;BA;Bahia;659.717
+2283;Catolé do Rocha;2504306;PB;Paraíba;552.098
+2670;Catu;2907509;BA;Bahia;439.573
+1736;Catunda;2303659;CE;Ceará;790.483
+2036;Caturama;2907558;BA;Bahia;646.080
+4960;Caturité;2504355;PB;Paraíba;118.089
+1189;Caucaia;2303709;CE;Ceará;1 227.895
+292;Caxiasdesambiguação;2103000;MA;Maranhão;5 223.981
+2488;Caxingó;2202653;PI;Piauí;488.162
+2455;Caém;2905107;BA;Bahia;497.467
+1832;Ceará-Mirim;2402600;RN; Rio Grande do Norte;739.686
+3690;Cedraldesambiguação;2103109;MA;Maranhão;262.278
+5305;Cedro de São João;2801603;SE;Sergipe;79.594
+1859;Cedrodesambiguação;2303808;CE;Ceará;725.786
+4727;Cedrodesambiguação;2604304;PE;Pernambuco;144.085
+3009;Central do Maranhão;2103125;MA;Maranhão;366.458
+2137;Centraldesambiguação;2907608;BA;Bahia;606.999
+1338;Centro do Guilherme;2103158;MA;Maranhão;1 074.039
+170;Centro Novo do Maranhão;2103174;MA;Maranhão;8 294.828
+2892;Cerro Corádesambiguação;2402709;RN; Rio Grande do Norte;393.569
+468;Chapadinha;2103208;MA;Maranhão;3 247.159
+3881;Chaval;2303907;CE;Ceará;238.228
+3583;Chorozinho;2303956;CE;Ceará;278.400
+577;Chorrochó;2907707;BA;Bahia;2 647.887
+1693;Choró;2303931;CE;Ceará;815.759
+5490;Chã de Alegria;2604403;PE;Pernambuco;48.453
+5373;Chã Grande;2604502;PE;Pernambuco;70.192
+4200;Chã Preta;2701902;AL;Alagoas;200.802
+1000;Cidelândia;2103257;MA;Maranhão;1 464.421
+4506;Cipódesambiguação;2907905;BA;Bahia;166.953
+3451;Coaraci;2908002;BA;Bahia;296.820
+1147;Cocal;2202703;PI;Piauí;1 269.066
+3278;Cocal de Telha;2202711;PI;Piauí;322.103
+3054;Cocal dos Alves;2202729;PI;Piauí;358.104
+133;Cocos;2908101;BA;Bahia;10 084.274
+345;Codó;2103307;MA;Maranhão;4 364.499
+1439;Coelho Neto;2103406;MA;Maranhão;975.523
+5237;Coité do Nóia;2702009;AL;Alagoas;88.488
+2415;Coivaras;2202737;PI;Piauí;506.719
+739;Colinasdesambiguação;2103505;MA;Maranhão;2 033.570
+2712;Colônia do Gurguéia;2202752;PI;Piauí;430.613
+1483;Colônia do Piauí;2202778;PI;Piauí;947.934
+3517;Colônia Leopoldina;2702108;AL;Alagoas;287.459
+4566;Conceição da Feira;2908200;BA;Bahia;159.776
+3554;Conceição do Almeida;2908309;BA;Bahia;281.903
+1544;Conceição do Canindé;2202802;PI;Piauí;903.884
+1327;Conceição do Coité;2908408;BA;Bahia;1 086.224
+4982;Conceição do Jacuípe;2908507;BA;Bahia;115.680
+1657;Conceição do Lago-Açu;2103554;MA;Maranhão;827.426
+2208;Conceiçãodesambiguação;2504405;PB;Paraíba;579.432
+3560;Condado;2504504;PB;Paraíba;280.913
+5224;Condado;2604601;PE;Pernambuco;89.643
+1479;Conde;2908606;BA;Bahia;950.620
+4453;Conde;2504603;PB;Paraíba;172.949
+1180;Condeúba;2908705;BA;Bahia;1 236.889
+3615;Congodesambiguação;2504702;PB;Paraíba;274.075
+1591;Contendas do Sincorá;2908804;BA;Bahia;862.085
+5510;Coqueiro Seco;2702207;AL;Alagoas;40.262
+2977;Coração de Maria;2908903;BA;Bahia;372.315
+2271;Cordeiros;2909000;BA;Bahia;554.511
+1765;Coreaú;2304004;CE;Ceará;775.746
+2949;Coremas;2504801;PB;Paraíba;379.491
+570;Coribe;2909109;BA;Bahia;2 678.441
+669;Coroatá;2103604;MA;Maranhão;2 263.823
+4350;Coronel Ezequiel;2402808;RN; Rio Grande do Norte;185.752
+811;Coronel José Dias;2202851;PI;Piauí;1 822.115
+4968;Coronel João Pessoa;2402907;RN; Rio Grande do Norte;117.140
+1668;Coronel João Sá;2909208;BA;Bahia;825.767
+506;Correntedesambiguação;2202901;PI;Piauí;3 051.161
+3165;Correntes;2604700;PE;Pernambuco;339.303
+104;Correntina;2909307;BA;Bahia;12 142.427
+5126;Cortês;2604809;PE;Pernambuco;101.332
+1531;Coruripe;2702306;AL;Alagoas;912.716
+370;Cotegipe;2909406;BA;Bahia;4 018.594
+4948;Coxixola;2504850;PB;Paraíba;119.059
+518;Crateús;2304103;CE;Ceará;2 985.411
+1398;Cratodesambiguação;2304202;CE;Ceará;1 009.202
+4567;Cravolândia;2909505;BA;Bahia;159.645
+3608;Craíbas;2702355;AL;Alagoas;275.325
+1216;Cristalândia do Piauí;2203008;PI;Piauí;1 202.901
+799;Cristino Castro;2203107;PI;Piauí;1 848.690
+3758;Cristinápolis;2801702;SE;Sergipe;253.867
+1556;Cristópolis;2909703;BA;Bahia;896.458
+2424;Crisópolis;2909604;BA;Bahia;505.433
+1918;Croatá;2304236;CE;Ceará;700.356
+3195;Cruz;2304251;CE;Ceará;334.833
+4660;Cruz das Almas;2909802;BA;Bahia;150.903
+4243;Cruz do Espírito Santo;2504900;PB;Paraíba;195.596
+3461;Cruzeta;2403004;RN; Rio Grande do Norte;295.829
+4792;Cubati;2505006;PB;Paraíba;136.965
+5513;Cuitegi;2505204;PB;Paraíba;39.302
+5046;Cuité de Mamanguape;2505238;PB;Paraíba;109.806
+1840;Cuitédesambiguação;2505105;PB;Paraíba;735.334
+3481;Cumaru;2604908;PE;Pernambuco;292.242
+4865;Cumbedesambiguação;2801900;SE;Sergipe;129.196
+5085;Cupira;2605004;PE;Pernambuco;105.924
+225;Curaçá;2909901;BA;Bahia;6 442.190
+647;Curimatá;2203206;PI;Piauí;2 360.527
+486;Currais;2203230;PI;Piauí;3 156.647
+1588;Currais Novos;2403103;RN; Rio Grande do Norte;864.341
+5254;Curral de Cima;2505279;PB;Paraíba;85.096
+1781;Curral Novo do Piauí;2203271;PI;Piauí;765.534
+4403;Curral Velho;2505303;PB;Paraíba;180.585
+3025;Curralinhos;2203255;PI;Piauí;362.793
+1502;Cururupu;2103703;MA;Maranhão;935.586
+1039;Custódia;2605103;PE;Pernambuco;1 404.100
+849;Cândido Mendes;2102606;MA;Maranhão;1 731.794
+1124;Cândido Sales;2906709;BA;Bahia;1 301.378
+2003;Cícero Dantas;2907806;BA;Bahia;658.940
+5048;Damião;2505352;PB;Paraíba;109.760
+3177;Davinópolisdesambiguação;2103752;MA;Maranhão;337.041
+2140;Delmiro Gouveia;2702405;AL;Alagoas;605.395
+4012;Demerval Lobão;2203305;PI;Piauí;221.023
+2554;Deputado Irapuan Pinheiro;2304269;CE;Ceará;470.421
+4408;Desterro;2505402;PB;Paraíba;179.388
+3645;Diamante;2505600;PB;Paraíba;269.109
+4129;Dias d'Ávila;2910057;BA;Bahia;207.504
+1403;Dirceu Arcoverde;2203354;PI;Piauí;1 005.706
+5204;Divina Pastora;2802007;SE;Sergipe;92.249
+4758;Dois Riachos;2702504;AL;Alagoas;140.472
+2014;Dom Basílio;2910107;BA;Bahia;653.025
+4032;Dom Expedito Lopes;2203404;PI;Piauí;219.070
+366;Dom Inocêncio;2203453;PI;Piauí;4 024.385
+5196;Dom Macedo Costa;2910206;BA;Bahia;93.215
+2991;Dom Pedro;2103802;MA;Maranhão;369.964
+1619;Domingos Mourão;2203420;PI;Piauí;846.831
+4830;Dona Inês;2505709;PB;Paraíba;132.445
+959;Dormentes;2605152;PE;Pernambuco;1 537.588
+5064;Doutor Severiano;2403202;RN; Rio Grande do Norte;108.277
+5549;Duas Estradas;2505808;PB;Paraíba;26.361
+3310;Duque Bacelar;2103901;MA;Maranhão;317.924
+2864;Dário Meira;2910008;BA;Bahia;400.330
+1136;Elesbão Veloso;2203503;PI;Piauí;1 285.678
+1324;Eliseu Martins;2203602;PI;Piauí;1 090.496
+4210;Elísio Medrado;2910305;BA;Bahia;199.541
+3859;Emas;2505907;PB;Paraíba;240.898
+4897;Encantodesambiguação;2403301;RN; Rio Grande do Norte;125.747
+736;Encruzilhadadesambiguação;2910404;BA;Bahia;2 041.093
+1182;Entre Riosdesambiguação;2910503;BA;Bahia;1 235.821
+3672;Equador;2403400;RN; Rio Grande do Norte;264.983
+2940;Ererê;2304277;CE;Ceará;382.730
+3128;Escada;2605202;PE;Pernambuco;347.197
+1533;Esperantina;2203701;PI;Piauí;911.213
+2514;Esperantinópolis;2104008;MA;Maranhão;480.943
+4527;Esperança;2506004;PB;Paraíba;165.189
+1064;Esplanada;2910602;BA;Bahia;1 370.693
+4733;Espírito Santo;2403509;RN; Rio Grande do Norte;143.673
+563;Estreito;2104057;MA;Maranhão;2 718.960
+3680;Estrela de Alagoas;2702553;AL;Alagoas;264.203
+2045;Estância;2802106;SE;Sergipe;642.306
+654;Euclides da Cunha;2910701;BA;Bahia;2 324.965
+1222;Eunápolis;2910727;BA;Bahia;1 196.695
+5333;Eusébio;2304285;CE;Ceará;76.583
+4900;Extremoz;2403608;RN; Rio Grande do Norte;125.665
+994;Exudesambiguação;2605301;PE;Pernambuco;1 473.958
+4554;Fagundes;2506103;PB;Paraíba;162.101
+2433;Farias Brito;2304301;CE;Ceará;503.574
+1878;Fartura do Piauí;2203750;PI;Piauí;717.991
+888;Feira da Mata;2910776;BA;Bahia;1 655.819
+1069;Feira de Santana;2910800;BA;Bahia;1 362.880
+4600;Feira Grande;2702603;AL;Alagoas;155.974
+995;Feira Nova do Maranhão;2104073;MA;Maranhão;1 473.272
+5070;Feira Novadesambiguação;2605400;PE;Pernambuco;107.745
+4334;Feira Novadesambiguação;2802205;SE;Sergipe;188.012
+3650;Felipe Guerra;2403707;RN; Rio Grande do Norte;268.427
+5210;Feliz Deserto;2702702;AL;Alagoas;91.824
+5557;Fernando de Noronha;2605459;PE;Pernambuco;16.987
+435;Fernando Falcão;2104081;MA;Maranhão;3 506.445
+3275;Fernando Pedroza;2403756;RN; Rio Grande do Norte;322.540
+5208;Ferreiros;2605509;PE;Pernambuco;92.103
+2247;Filadélfia;2910859;BA;Bahia;564.017
+4568;Firmino Alves;2910909;BA;Bahia;159.397
+3320;Flexeiras;2702801;AL;Alagoas;315.791
+1442;Flores do Piauí;2203800;PI;Piauí;972.209
+1476;Floresdesambiguação;2605608;PE;Pernambuco;953.846
+417;Floresta;2605707;PE;Pernambuco;3 643.970
+3101;Floresta Azul;2911006;BA;Bahia;351.596
+4144;Floresta do Piauí;2203859;PI;Piauí;206.144
+446;Florianodesambiguação;2203909;PI;Piauí;3 409.664
+2429;Florânia;2403806;RN; Rio Grande do Norte;504.022
+383;Formosa da Serra Negra;2104099;MA;Maranhão;3 941.185
+74;Formosa do Rio Preto;2911105;BA;Bahia;16 185.171
+2393;Forquilha;2304350;CE;Ceará;516.988
+3336;Fortaleza;2304400;CE;Ceará;313.140
+880;Fortaleza dos Nogueiras;2104107;MA;Maranhão;1 664.058
+3570;Fortim;2304459;CE;Ceará;280.184
+1929;Fortunadesambiguação;2104206;MA;Maranhão;694.981
+3754;Francinópolis;2204006;PI;Piauí;254.407
+2008;Francisco Ayres;2204105;PI;Piauí;656.448
+4391;Francisco Dantas;2403905;RN; Rio Grande do Norte;181.593
+4967;Francisco Macedo;2204154;PI;Piauí;117.317
+2233;Francisco Santos;2204204;PI;Piauí;569.502
+4395;Frecheirinha;2304509;CE;Ceará;181.240
+3834;Frei Martinho;2506202;PB;Paraíba;244.315
+4083;Frei Miguelinho;2605806;PE;Pernambuco;212.702
+2868;Frei Paulo;2802304;SE;Sergipe;399.439
+1737;Fronteiras;2204303;PI;Piauí;789.828
+5418;Frutuoso Gomes;2404002;RN; Rio Grande do Norte;63.278
+3068;Fátima;2910750;BA;Bahia;356.278
+4275;Gado Bravo;2506251;PB;Paraíba;192.424
+3152;Galinhos;2404101;RN; Rio Grande do Norte;342.442
+3728;Gameleira;2605905;PE;Pernambuco;257.716
+3945;Gandu;2911204;BA;Bahia;229.121
+2541;Garanhuns;2606002;PE;Pernambuco;472.462
+2039;Gararu;2802403;SE;Sergipe;644.722
+3190;Gavião;2911253;BA;Bahia;335.567
+2544;Geminiano;2204352;PI;Piauí;471.570
+5553;General Maynard;2802502;SE;Sergipe;20.221
+4143;General Sampaio;2304608;CE;Ceará;206.198
+411;Gentio do Ouro;2911303;BA;Bahia;3 671.237
+437;Gilbués;2204402;PI;Piauí;3 495.016
+2437;Girau do Ponciano;2702900;AL;Alagoas;502.150
+3926;Glória do Goitá;2606101;PE;Pernambuco;231.185
+1041;Glóriadesambiguação;2911402;BA;Bahia;1 402.488
+2049;Godofredo Viana;2104305;MA;Maranhão;640.093
+2445;Goiana;2606200;PE;Pernambuco;501.170
+4278;Goianinha;2404200;RN; Rio Grande do Norte;192.277
+4220;Gongogi;2911501;BA;Bahia;198.305
+1577;Gonçalves Dias;2104404;MA;Maranhão;875.975
+2686;Governador Archer;2104503;MA;Maranhão;435.731
+1279;Governador Dix-Sept Rosado;2404309;RN; Rio Grande do Norte;1 129.356
+2111;Governador Edison Lobão;2104552;MA;Maranhão;615.850
+1688;Governador Eugênio Barros;2104602;MA;Maranhão;816.952
+4939;Governador Lomanto Júnior;2903300;BA;Bahia;120.570
+2975;Governador Luiz Rocha;2104628;MA;Maranhão;372.991
+5180;Governador Mangabeira;2911600;BA;Bahia;94.359
+1257;Governador Newton Bello;2104651;MA;Maranhão;1 160.866
+1371;Governador Nunes Freire;2104677;MA;Maranhão;1 037.121
+3853;Gracho Cardoso;2802601;SE;Sergipe;242.148
+197;Grajaúdesambiguação;2104800;MA;Maranhão;7 407.824
+2374;Granito;2606309;PE;Pernambuco;521.857
+567;Granja;2304707;CE;Ceará;2 697.202
+5136;Granjeiro;2304806;CE;Ceará;100.135
+2401;Gravatá;2606408;PE;Pernambuco;513.367
+3555;Graça;2304657;CE;Ceará;281.890
+3634;Graça Aranha;2104701;MA;Maranhão;271.457
+4601;Groaíras;2304905;CE;Ceará;155.963
+4890;Grossos;2404408;RN; Rio Grande do Norte;126.451
+1392;Guadalupe;2204501;PI;Piauí;1 019.645
+3657;Guaiúba;2304954;CE;Ceará;267.203
+2042;Guajeru;2911659;BA;Bahia;643.439
+3718;Guamaré;2404507;RN; Rio Grande do Norte;259.181
+1123;Guanambi;2911709;BA;Bahia;1 301.799
+4401;Guarabira;2506301;PB;Paraíba;180.764
+2125;Guaraciaba do Norte;2305001;CE;Ceará;611.463
+5441;Guaramiranga;2305100;CE;Ceará;59.471
+655;Guaratinga;2911808;BA;Bahia;2 324.317
+349;Guaribas;2204550;PI;Piauí;4 279.673
+2163;Guimarães;2104909;MA;Maranhão;598.796
+3365;Gurinhém;2506400;PB;Paraíba;309.276
+3146;Gurjão;2506509;PB;Paraíba;343.214
+3264;Heliópolis;2911857;BA;Bahia;324.005
+1455;Hidrolândiadesambiguação;2305209;CE;Ceará;966.572
+4562;Horizonte;2305233;CE;Ceará;159.972
+3619;Hugo Napoleão;2204600;PI;Piauí;273.721
+702;Humberto de Campos;2105005;MA;Maranhão;2 131.079
+2065;Iati;2606507;PE;Pernambuco;635.143
+621;Iaçu;2911907;BA;Bahia;2 442.840
+1575;Ibaretama;2305266;CE;Ceará;877.260
+3696;Ibateguara;2703007;AL;Alagoas;261.277
+2784;Ibiapina;2305308;CE;Ceará;414.902
+3831;Ibiara;2506608;PB;Paraíba;244.480
+2943;Ibiassucê;2912004;BA;Bahia;382.472
+4044;Ibicaraí;2912103;BA;Bahia;217.914
+1437;Ibicoara;2912202;BA;Bahia;977.170
+2742;Ibicuitinga;2305332;CE;Ceará;424.242
+1254;Ibicuí;2912301;BA;Bahia;1 163.296
+738;Ibimirim;2606606;PE;Pernambuco;2 033.593
+1030;Ibipeba;2912400;BA;Bahia;1 417.141
+1487;Ibipitanga;2912509;BA;Bahia;945.222
+1396;Ibiquera;2912608;BA;Bahia;1 010.776
+4315;Ibirajuba;2606705;PE;Pernambuco;189.591
+2556;Ibirapitanga;2912707;BA;Bahia;470.264
+1746;Ibirapuã;2912806;BA;Bahia;786.058
+3972;Ibirataia;2912905;BA;Bahia;226.139
+843;Ibitiara;2913002;BA;Bahia;1 748.846
+2242;Ibititá;2913101;BA;Bahia;564.921
+1049;Ibotirama;2913200;BA;Bahia;1 391.232
+2722;Icapuí;2305357;CE;Ceará;428.688
+1011;Icatu;2105104;MA;Maranhão;1 448.796
+4877;Ichu;2913309;BA;Bahia;127.965
+793;Icó;2305407;CE;Ceará;1 871.980
+3393;Ielmo Marinho;2404606;RN; Rio Grande do Norte;305.185
+3203;Igaci;2703106;AL;Alagoas;333.586
+1739;Igaporã;2913408;BA;Bahia;789.252
+4279;Igaracy;2502607;PB;Paraíba;192.258
+2893;Igarapé do Meio;2105153;MA;Maranhão;392.847
+2969;Igarapé Grande;2105203;MA;Maranhão;374.283
+3388;Igarassu;2606804;PE;Pernambuco;305.565
+2403;Igrapiúna;2913457;BA;Bahia;512.837
+2725;Igreja Nova;2703205;AL;Alagoas;428.550
+1639;Iguaraci;2606903;PE;Pernambuco;838.124
+1378;Iguatudesambiguação;2305506;CE;Ceará;1 029.002
+1649;Iguaí;2913507;BA;Bahia;833.333
+5476;Ilha das Floresdesambiguação;2802700;SE;Sergipe;52.816
+5399;Ilha de Itamaracá;2607604;PE;Pernambuco;65.411
+4812;Ilha Grandedesambiguação;2204659;PI;Piauí;134.318
+803;Ilhéus;2913606;BA;Bahia;1 840.991
+2869;Imaculada;2506707;PB;Paraíba;399.409
+1066;Imperatriz;2105302;MA;Maranhão;1 367.901
+1237;Inajá;2607000;PE;Pernambuco;1 182.159
+473;Independência;2305605;CE;Ceará;3 218.641
+3330;Indiaroba;2802809;SE;Sergipe;313.576
+3842;Ingazeira;2607109;PE;Pernambuco;243.666
+3512;Ingá;2506806;PB;Paraíba;287.969
+1253;Inhambupe;2913705;BA;Bahia;1 163.561
+2971;Inhapi;2703304;AL;Alagoas;374.161
+1367;Inhuma;2204709;PI;Piauí;1 042.815
+2970;Ipanguaçu;2404705;RN; Rio Grande do Norte;374.239
+1911;Ipaporanga;2305654;CE;Ceará;701.990
+3620;Ipaumirim;2305704;CE;Ceará;273.696
+2889;Ipecaetá;2913804;BA;Bahia;393.904
+3520;Ipiaú;2913903;BA;Bahia;286.597
+2354;Ipiranga do Piauí;2204808;PI;Piauí;527.716
+515;Ipirá;2914000;BA;Bahia;3 023.659
+2356;Ipojuca;2607208;PE;Pernambuco;527.317
+2074;Ipu;2305803;CE;Ceará;630.468
+1988;Ipubi;2607307;PE;Pernambuco;665.624
+4882;Ipueira;2404804;RN; Rio Grande do Norte;127.347
+992;Ipueirasdesambiguação;2305902;CE;Ceará;1 474.108
+1240;Ipupiara;2914109;BA;Bahia;1 179.535
+1676;Iracema;2306009;CE;Ceará;822.833
+2936;Irajuba;2914208;BA;Bahia;383.371
+769;Iramaia;2914307;BA;Bahia;1 948.488
+1720;Iraquara;2914406;BA;Bahia;800.332
+3873;Irará;2914505;BA;Bahia;239.659
+1003;Irauçuba;2306108;CE;Ceará;1 461.223
+3329;Irecê;2914604;BA;Bahia;313.695
+1991;Isaías Coelho;2204907;PI;Piauí;664.660
+4037;Itabaianadesambiguação;2506905;PB;Paraíba;218.847
+3180;Itabaianadesambiguação;2802908;SE;Sergipe;336.685
+2473;Itabaianinha;2803005;SE;Sergipe;493.310
+1604;Itabela;2914653;BA;Bahia;853.267
+648;Itaberaba;2914703;BA;Bahia;2 357.185
+4254;Itabi;2803104;SE;Sergipe;195.086
+2654;Itabuna;2914802;BA;Bahia;443.198
+1848;Itacaré;2914901;BA;Bahia;730.280
+2717;Itacuruba;2607406;PE;Pernambuco;430.010
+1224;Itaetê;2915007;BA;Bahia;1 194.489
+3409;Itagi;2915106;BA;Bahia;303.462
+1702;Itagibá;2915205;BA;Bahia;810.340
+1687;Itagimirim;2915304;BA;Bahia;817.306
+340;Itaguaçu da Bahia;2915353;BA;Bahia;4 396.339
+1701;Itainópolis;2205003;PI;Piauí;810.752
+956;Itaipava do Grajaú;2105351;MA;Maranhão;1 540.286
+4663;Itaitinga;2306256;CE;Ceará;150.788
+4112;Itaiçaba;2306207;CE;Ceará;209.490
+1198;Itaju do Colônia;2915403;BA;Bahia;1 217.535
+3460;Itajuípe;2915502;BA;Bahia;295.912
+4172;Itajádesambiguação;2404853;RN; Rio Grande do Norte;203.623
+644;Itamaraju;2915601;BA;Bahia;2 369.912
+4839;Itamari;2915700;BA;Bahia;131.469
+901;Itambédesambiguação;2915809;BA;Bahia;1 625.681
+3403;Itambédesambiguação;2607653;PE;Pernambuco;304.383
+2625;Itanagra;2915908;BA;Bahia;452.375
+1013;Itanhém;2916005;BA;Bahia;1 445.063
+2671;Itapagé;2306306;CE;Ceará;439.501
+4981;Itaparica;2916104;BA;Bahia;115.922
+1443;Itapebi;2916302;BA;Bahia;972.036
+1250;Itapecuru Mirim;2105401;MA;Maranhão;1 165.585
+2838;Itapetim;2607703;PE;Pernambuco;404.824
+912;Itapetinga;2916401;BA;Bahia;1 609.515
+950;Itapicuru;2916500;BA;Bahia;1 550.832
+909;Itapipoca;2306405;CE;Ceará;1 614.682
+5344;Itapissuma;2607752;PE;Pernambuco;74.249
+2804;Itapitanga;2916609;BA;Bahia;410.422
+2186;Itapiúna;2306504;CE;Ceará;588.684
+1793;Itaporanga d'Ajuda;2803203;SE;Sergipe;757.283
+2566;Itaporangadesambiguação;2507002;PB;Paraíba;468.069
+4715;Itapororoca;2507101;PB;Paraíba;146.067
+2653;Itapé;2916203;BA;Bahia;443.270
+3450;Itaquara;2916708;BA;Bahia;296.896
+5107;Itaquitinga;2607802;PE;Pernambuco;103.442
+828;Itarantim;2916807;BA;Bahia;1 783.747
+1870;Itarema;2306553;CE;Ceará;720.668
+2221;Itatim;2916856;BA;Bahia;574.259
+1753;Itatira;2306603;CE;Ceará;783.347
+3835;Itatuba;2507200;PB;Paraíba;244.205
+601;Itaueira;2205102;PI;Piauí;2 534.502
+1345;Itaíba;2607505;PE;Pernambuco;1 068.286
+4823;Itaú;2404903;RN; Rio Grande do Norte;133.032
+423;Itinga do Maranhão;2105427;MA;Maranhão;3 590.033
+3414;Itiruçu;2916906;BA;Bahia;302.926
+850;Itiúba;2917003;BA;Bahia;1 730.792
+3217;Itororó;2917102;BA;Bahia;330.716
+1201;Ituaçu;2917201;BA;Bahia;1 216.149
+2773;Ituberá;2917300;BA;Bahia;417.542
+1317;Iuiú;2917334;BA;Bahia;1 095.715
+3743;Jaboatão dos Guararapes;2607901;PE;Pernambuco;256.073
+143;Jaborandi;2917359;BA;Bahia;9 479.853
+1175;Jacaraci;2917409;BA;Bahia;1 241.918
+3764;Jacaraú;2507309;PB;Paraíba;253.206
+4746;Jacaré dos Homens;2703403;AL;Alagoas;142.344
+656;Jacobina;2917508;BA;Bahia;2 319.825
+1014;Jacobina do Piauí;2205151;PI;Piauí;1 443.257
+4061;Jacuípe;2703502;AL;Alagoas;216.762
+1462;Jaguaquara;2917607;BA;Bahia;960.398
+596;Jaguarari;2917706;BA;Bahia;2 567.158
+837;Jaguaretama;2306702;CE;Ceará;1 759.722
+1987;Jaguaribara;2306801;CE;Ceará;668.291
+790;Jaguaribe;2306900;CE;Ceará;1 876.793
+1562;Jaguaripe;2917805;BA;Bahia;891.345
+1585;Jaguaruana;2307007;CE;Ceará;867.251
+1601;Jaicós;2205201;PI;Piauí;854.342
+2044;Jandaíra;2917904;BA;Bahia;642.652
+2687;Jandaíra;2405108;RN; Rio Grande do Norte;435.678
+3395;Janduís;2405207;RN; Rio Grande do Norte;304.899
+5252;Japaratinga;2703601;AL;Alagoas;85.502
+3048;Japaratuba;2803302;SE;Sergipe;359.513
+4325;Japidesambiguação;2405405;RN; Rio Grande do Norte;188.990
+2758;Japoatã;2803401;SE;Sergipe;420.491
+5230;Jaqueiradesambiguação;2607950;PE;Pernambuco;89.096
+5104;Jaramataia;2703700;AL;Alagoas;103.710
+2609;Jardim;2307106;CE;Ceará;457.034
+3757;Jardim de Angicos;2405504;RN; Rio Grande do Norte;254.045
+3219;Jardim de Piranhas;2405603;RN; Rio Grande do Norte;330.533
+2596;Jardim do Mulato;2205250;PI;Piauí;460.518
+3001;Jardim do Seridó;2405702;RN; Rio Grande do Norte;368.643
+1876;Jataúba;2608008;PE;Pernambuco;719.217
+3337;Jati;2307205;CE;Ceará;312.584
+2911;Jatobá;2105450;MA;Maranhão;387.083
+3587;Jatobá;2608057;PE;Pernambuco;277.856
+1993;Jatobá do Piauí;2205276;PI;Piauí;663.797
+5467;Jaçanã;2405009;RN; Rio Grande do Norte;54.558
+974;Jenipapo dos Vieiras;2105476;MA;Maranhão;1 507.458
+3169;Jequiá da Praia;2703759;AL;Alagoas;338.600
+513;Jequié;2918001;BA;Bahia;3 035.423
+318;Jeremoabo;2918100;BA;Bahia;4 761.114
+4410;Jericó;2507408;PB;Paraíba;179.311
+865;Jerumenha;2205300;PI;Piauí;1 693.772
+4187;Jijoca de Jericoacoara;2307254;CE;Ceará;201.858
+3891;Jiquiriçá;2918209;BA;Bahia;236.255
+3207;Jitaúna;2918308;BA;Bahia;332.805
+3877;Joaquim Gomes;2703809;AL;Alagoas;238.595
+4929;Joaquim Nabuco;2608206;PE;Pernambuco;121.884
+1833;Joaquim Pires;2205409;PI;Piauí;739.570
+4516;Joca Marques;2205458;PI;Piauí;166.441
+1960;Joselândia;2105609;MA;Maranhão;681.684
+4966;José da Penha;2406007;RN; Rio Grande do Norte;117.634
+958;José de Freitas;2205508;PI;Piauí;1 538.205
+4818;João Alfredo;2608107;PE;Pernambuco;133.524
+854;João Costa;2205359;PI;Piauí;1 716.165
+1888;João Câmara;2405801;RN; Rio Grande do Norte;714.951
+5240;João Diasdesambiguação;2405900;RN; Rio Grande do Norte;88.173
+1428;João Dourado;2918357;BA;Bahia;984.019
+1284;João Lisboa;2105500;MA;Maranhão;1 126.517
+4100;João Pessoa;2507507;PB;Paraíba;210.551
+5282;Juarez Távora;2507606;PB;Paraíba;82.593
+2569;Juazeirinho;2507705;PB;Paraíba;467.526
+232;Juazeiro;2918407;BA;Bahia;6 389.623
+3797;Juazeiro do Norte;2307304;CE;Ceará;248.558
+1658;Juazeiro do Piauí;2205516;PI;Piauí;827.199
+4938;Jucati;2608255;PE;Pernambuco;120.654
+1508;Jucurutu;2406106;RN; Rio Grande do Norte;933.718
+1017;Jucuruçu;2918456;BA;Bahia;1 438.463
+1499;Jucás;2307403;CE;Ceará;937.180
+2320;Junco do Maranhão;2105658;MA;Maranhão;539.126
+4479;Junco do Seridó;2507804;PB;Paraíba;170.415
+4945;Jundiádesambiguação;2703908;AL;Alagoas;119.713
+5499;Jundiádesambiguação;2406155;RN; Rio Grande do Norte;45.261
+3756;Junqueiro;2704005;AL;Alagoas;254.067
+5016;Jupi;2608305;PE;Pernambuco;112.531
+4691;Juremadesambiguação;2608404;PE;Pernambuco;148.246
+1131;Juremadesambiguação;2205532;PI;Piauí;1 297.315
+5314;Juripiranga;2507903;PB;Paraíba;78.761
+2845;Juru;2508000;PB;Paraíba;403.276
+1567;Jussara;2918506;BA;Bahia;886.019
+3065;Jussari;2918555;BA;Bahia;356.735
+2371;Jussiape;2918605;BA;Bahia;523.395
+1134;Júlio Borges;2205524;PI;Piauí;1 290.413
+3093;Lafaiete Coutinho;2918704;BA;Bahia;352.658
+1449;Lagarto;2803500;SE;Sergipe;969.226
+896;Lago da Pedra;2105708;MA;Maranhão;1 636.467
+3370;Lago do Junco;2105807;MA;Maranhão;308.771
+4251;Lago dos Rodrigues;2105948;MA;Maranhão;195.222
+2597;Lago Verde;2105906;MA;Maranhão;460.218
+4423;Lagoa;2508109;PB;Paraíba;177.900
+2887;Lagoa Alegre;2205557;PI;Piauí;394.658
+5088;Lagoa d'Anta;2406205;RN; Rio Grande do Norte;105.650
+5112;Lagoa da Canoa;2704104;AL;Alagoas;102.831
+5262;Lagoa de Dentro;2508208;PB;Paraíba;84.505
+4965;Lagoa de Pedras;2406304;RN; Rio Grande do Norte;117.660
+4607;Lagoa de São Francisco;2205573;PI;Piauí;155.637
+5012;Lagoa de Velhos;2406403;RN; Rio Grande do Norte;112.832
+1127;Lagoa do Barro do Piauí;2205565;PI;Piauí;1 300.538
+5376;Lagoa do Carro;2608453;PE;Pernambuco;69.870
+5451;Lagoa do Itaenga;2608503;PE;Pernambuco;57.903
+1135;Lagoa do Mato;2105922;MA;Maranhão;1 288.863
+4217;Lagoa do Ouro;2608602;PE;Pernambuco;198.768
+2729;Lagoa do Piauí;2205581;PI;Piauí;427.195
+1738;Lagoa do Sítio;2205599;PI;Piauí;789.710
+3915;Lagoa dos Gatos;2608701;PE;Pernambuco;233.165
+1843;Lagoa Grande do Maranhão;2105963;MA;Maranhão;733.635
+796;Lagoa Grandedesambiguação;2608750;PE;Pernambuco;1 852.186
+4435;Lagoa Nova;2406502;RN; Rio Grande do Norte;176.299
+1414;Lagoa Real;2918753;BA;Bahia;996.292
+5307;Lagoa Salgada;2406601;RN; Rio Grande do Norte;79.515
+5054;Lagoa Seca;2508307;PB;Paraíba;109.342
+5393;Lagoinha do Piauí;2205540;PI;Piauí;67.507
+1363;Lajeado Novo;2105989;MA;Maranhão;1 047.725
+2453;Lajedesambiguação;2918803;BA;Bahia;498.089
+1706;Lajedinho;2919009;BA;Bahia;807.336
+2748;Lajedo do Tabocal;2919058;BA;Bahia;423.785
+4324;Lajedodesambiguação;2608800;PE;Pernambuco;189.055
+2119;Lajedão;2918902;BA;Bahia;613.907
+4852;Lajes Pintadas;2406809;RN; Rio Grande do Norte;130.208
+1968;Lajesdesambiguação;2406700;RN; Rio Grande do Norte;676.417
+3073;Lamarão;2919108;BA;Bahia;356.002
+1226;Landri Sales;2205607;PI;Piauí;1 193.316
+2055;Lapão;2919157;BA;Bahia;638.317
+4546;Laranjeiras;2803609;SE;Sergipe;162.538
+5114;Lastrodesambiguação;2508406;PB;Paraíba;102.668
+5439;Lauro de Freitas;2919207;BA;Bahia;59.905
+1482;Lavras da Mangabeira;2307502;CE;Ceará;947.957
+1176;Lençóis;2919306;BA;Bahia;1 240.362
+1749;Licínio de Almeida;2919405;BA;Bahia;785.417
+3280;Lima Campos;2106003;MA;Maranhão;321.932
+3640;Limoeiro;2608909;PE;Pernambuco;269.970
+3321;Limoeiro de Anadia;2704203;AL;Alagoas;315.668
+1807;Limoeiro do Norte;2307601;CE;Ceará;751.535
+666;Livramento de Nossa Senhora;2919504;BA;Bahia;2 267.021
+3544;Livramentodesambiguação;2508505;PB;Paraíba;283.155
+5517;Logradouro;2508554;PB;Paraíba;37.996
+421;Loreto;2106102;MA;Maranhão;3 596.888
+5227;Lucenadesambiguação;2508604;PB;Paraíba;89.202
+5541;Lucréciadesambiguação;2406908;RN; Rio Grande do Norte;30.935
+1909;Luzilândia;2205805;PI;Piauí;704.433
+1343;Luís Correiadesambiguação;2205706;PI;Piauí;1 071.276
+2574;Luís Domingues;2106201;MA;Maranhão;466.762
+369;Luís Eduardo Magalhães;2919553;BA;Bahia;4 018.778
+4511;Luís Gomes;2407005;RN; Rio Grande do Norte;166.637
+1902;Macajuba;2919603;BA;Bahia;707.098
+4788;Macambira;2803708;SE;Sergipe;137.366
+4892;Macaparana;2609006;PE;Pernambuco;126.353
+1063;Macarani;2919702;BA;Bahia;1 371.657
+1741;Macau;2407203;RN; Rio Grande do Norte;788.022
+2405;Macaíba;2407104;RN; Rio Grande do Norte;512.487
+511;Macaúbas;2919801;BA;Bahia;3 039.268
+2409;Maceió;2704302;AL;Alagoas;510.655
+5457;Machados;2609105;PE;Pernambuco;56.957
+664;Macururé;2919900;BA;Bahia;2 278.726
+1372;Madalenadesambiguação;2307635;CE;Ceará;1 034.773
+4428;Madeiro;2205854;PI;Piauí;177.219
+5559;Madre de Deusdesambiguação;2919926;BA;Bahia;11.141
+3002;Maetinga;2919959;BA;Bahia;368.390
+2699;Magalhães de Almeida;2106300;MA;Maranhão;433.141
+2793;Maiquinique;2920007;BA;Bahia;413.863
+1542;Mairi;2920106;BA;Bahia;905.851
+2623;Major Isidoro;2704401;AL;Alagoas;453.893
+5538;Major Sales;2407252;RN; Rio Grande do Norte;31.971
+699;Malhada;2920205;BA;Bahia;2 138.093
+2520;Malhada de Pedras;2920304;BA;Bahia;479.393
+5424;Malhada dos Bois;2803807;SE;Sergipe;62.372
+5128;Malhador;2803906;SE;Sergipe;100.940
+4597;Malta;2508802;PB;Paraíba;156.242
+3117;Mamanguape;2508901;PB;Paraíba;348.745
+2828;Manari;2609154;PE;Pernambuco;406.636
+3094;Manaíra;2509008;PB;Paraíba;352.566
+905;Manoel Emídio;2205904;PI;Piauí;1 618.951
+639;Manoel Vitorino;2920403;BA;Bahia;2 400.228
+489;Mansidão;2920452;BA;Bahia;3 142.825
+5212;Mar Vermelho;2704906;AL;Alagoas;91.538
+5087;Maracanaú;2307650;CE;Ceará;105.696
+2078;Maracaçumé;2106326;MA;Maranhão;629.330
+623;Maracás;2920502;BA;Bahia;2 435.201
+3201;Maragogi;2704500;AL;Alagoas;333.733
+2684;Maragogipe;2920601;BA;Bahia;436.072
+4237;Maraial;2609204;PE;Pernambuco;196.246
+1670;Marajá do Sena;2106359;MA;Maranhão;824.044
+2182;Maranguape;2307700;CE;Ceará;590.824
+1470;Maranhãozinho;2106375;MA;Maranhão;956.064
+3580;Maravilhadesambiguação;2704609;AL;Alagoas;279.462
+1768;Maraú;2920700;BA;Bahia;774.447
+4917;Marcação;2509057;PB;Paraíba;122.897
+3138;Marcelino Vieira;2407302;RN; Rio Grande do Norte;345.707
+1256;Marcionílio Souza;2920809;BA;Bahia;1 162.138
+2222;Marcodesambiguação;2307809;CE;Ceará;574.148
+4790;Marcolândia;2205953;PI;Piauí;137.069
+1764;Marcos Parente;2206001;PI;Piauí;775.767
+3204;Marechal Deodoro;2704708;AL;Alagoas;333.548
+4616;Mari;2509107;PB;Paraíba;154.726
+4470;Maribondo;2704807;AL;Alagoas;171.279
+5414;Marizópolis;2509156;PB;Paraíba;63.609
+4486;Martinsdesambiguação;2407401;RN; Rio Grande do Norte;169.466
+3440;Martinópole;2307908;CE;Ceará;298.948
+5183;Maruim;2804003;SE;Sergipe;94.293
+1898;Mascote;2920908;BA;Bahia;709.253
+2227;Massapê;2308005;CE;Ceará;571.531
+2364;Massapê do Piauí;2206050;PI;Piauí;525.619
+4147;Massarandubadesambiguação;2509206;PB;Paraíba;205.941
+1983;Mata de São João;2921005;BA;Bahia;670.380
+1539;Mata Grande;2705002;AL;Alagoas;908.264
+2293;Mata Roma;2106409;MA;Maranhão;548.411
+4445;Mataraca;2509305;PB;Paraíba;174.398
+3970;Matias Olímpio;2206100;PI;Piauí;226.220
+1769;Matina;2921054;BA;Bahia;773.386
+2813;Matinha;2106508;MA;Maranhão;408.726
+5516;Matinhas;2509339;PB;Paraíba;38.123
+5269;Mato Grosso;2509370;PB;Paraíba;83.521
+3221;Matriz de Camaragibe;2705101;AL;Alagoas;330.061
+5267;Maturéia;2509396;PB;Paraíba;83.714
+794;Matões;2106607;MA;Maranhão;1 858.007
+1757;Matões do Norte;2106631;MA;Maranhão;781.963
+1301;Mauriti;2308104;CE;Ceará;1 111.856
+4841;Maxaranguape;2407500;RN; Rio Grande do Norte;131.300
+1169;Medeiros Neto;2921104;BA;Bahia;1 245.749
+4724;Meruoca;2308203;CE;Ceará;144.940
+5011;Messias;2705200;AL;Alagoas;112.856
+4805;Messias Targino;2407609;RN; Rio Grande do Norte;135.094
+1047;Miguel Alves;2206209;PI;Piauí;1 393.708
+999;Miguel Calmon;2921203;BA;Bahia;1 465.438
+5341;Miguel Leão;2206308;PI;Piauí;74.517
+3376;Milagres;2921302;BA;Bahia;307.779
+2297;Milagres;2308302;CE;Ceará;546.637
+2673;Milagres do Maranhão;2106672;MA;Maranhão;439.365
+2439;Milhã;2308351;CE;Ceará;502.036
+1062;Milton Brandão;2206357;PI;Piauí;1 371.766
+4531;Minador do Negrão;2705309;AL;Alagoas;164.476
+161;Miradordesambiguação;2106706;MA;Maranhão;8 609.822
+3083;Miranda do Norte;2106755;MA;Maranhão;353.553
+1704;Mirandiba;2609303;PE;Pernambuco;809.255
+766;Mirangaba;2921401;BA;Bahia;1 952.295
+1515;Mirante;2921450;BA;Bahia;927.826
+1919;Miraíma;2308377;CE;Ceará;699.588
+1947;Mirinzal;2106805;MA;Maranhão;687.732
+2025;Missão Velha;2308401;CE;Ceará;651.108
+4035;Mogeiro;2509404;PB;Paraíba;218.993
+5168;Moita Bonita;2804102;SE;Sergipe;95.820
+706;Mombaçadesambiguação;2308500;CE;Ceará;2 119.462
+2200;Monsenhor Gil;2206407;PI;Piauí;582.058
+2899;Monsenhor Hipólito;2206506;PI;Piauí;391.304
+1566;Monsenhor Tabosa;2308609;CE;Ceará;886.303
+5551;Montadas;2509503;PB;Paraíba;25.924
+5286;Montanhas;2407708;RN; Rio Grande do Norte;82.213
+2824;Monte Alegre de Sergipe;2804201;SE;Sergipe;407.409
+632;Monte Alegre do Piauí;2206605;PI;Piauí;2 417.854
+4212;Monte Alegredesambiguação;2407807;RN; Rio Grande do Norte;199.519
+5363;Monte das Gameleiras;2407906;RN; Rio Grande do Norte;71.945
+4978;Monte Horebe;2509602;PB;Paraíba;116.172
+459;Monte Santo;2921500;BA;Bahia;3 285.166
+1426;Monteiro;2509701;PB;Paraíba;986.370
+5246;Monteirópolis;2705408;AL;Alagoas;86.097
+1093;Montes Altos;2107001;MA;Maranhão;1 338.390
+1085;Monção;2106904;MA;Maranhão;1 345.041
+551;Morada Nova;2308708;CE;Ceará;2 779.229
+2780;Moraújo;2308807;CE;Ceará;415.614
+2057;Moreilândia;2614303;PE;Pernambuco;637.599
+4242;Moreno;2609402;PE;Pernambuco;195.603
+848;Morpará;2921609;BA;Bahia;1 731.929
+2812;Morrinhosdesambiguação;2308906;CE;Ceará;408.878
+684;Morro Cabeça no Tempo;2206654;PI;Piauí;2 210.922
+274;Morro do Chapéu;2921708;BA;Bahia;5 531.854
+3233;Morro do Chapéu do Piauí;2206670;PI;Piauí;328.284
+855;Morros;2107100;MA;Maranhão;1 715.325
+1982;Mortugaba;2921807;BA;Bahia;670.608
+709;Mossoró;2408003;RN; Rio Grande do Norte;2 110.207
+4304;Mucambo;2309003;CE;Ceará;190.538
+611;Mucugê;2921906;BA;Bahia;2 482.204
+836;Mucuri;2922003;BA;Bahia;1 774.763
+4282;Mulungu;2509800;PB;Paraíba;192.211
+2390;Mulungu do Morro;2922052;BA;Bahia;517.598
+4809;Mulungudesambiguação;2309102;CE;Ceará;134.594
+979;Mundo Novodesambiguação;2922102;BA;Bahia;1 496.144
+5003;Muniz Ferreira;2922201;BA;Bahia;113.706
+394;Muquém de São Francisco;2922250;BA;Bahia;3 833.915
+5312;Muribeca;2804300;SE;Sergipe;79.147
+2510;Murici dos Portelas;2206696;PI;Piauí;481.521
+2745;Muricidesambiguação;2705507;AL;Alagoas;423.983
+5037;Muritiba;2922300;BA;Bahia;110.562
+3621;Mutuípe;2922409;BA;Bahia;273.320
+4427;Mãe d'Águadesambiguação;2508703;PB;Paraíba;177.250
+4480;Natal;2408102;RN; Rio Grande do Norte;170.298
+4283;Natuba;2509909;PB;Paraíba;192.166
+4451;Nazarezinho;2510006;PB;Paraíba;173.244
+3737;Nazaré;2922508;BA;Bahia;256.352
+4661;Nazaré da Mata;2609501;PE;Pernambuco;150.816
+1111;Nazaré do Piauí;2206704;PI;Piauí;1 311.565
+3716;Neópolis;2804409;SE;Sergipe;259.334
+2922;Nilo Peçanha;2922607;BA;Bahia;385.381
+2224;Nina Rodrigues;2107209;MA;Maranhão;572.513
+2552;Nordestina;2922656;BA;Bahia;470.916
+3158;Nossa Senhora Aparecida;2804458;SE;Sergipe;340.378
+1797;Nossa Senhora da Glória;2804508;SE;Sergipe;756.485
+2550;Nossa Senhora das Dores;2804607;SE;Sergipe;471.001
+5298;Nossa Senhora de Lourdes;2804706;SE;Sergipe;80.421
+3067;Nossa Senhora de Nazaré;2206753;PI;Piauí;356.341
+4590;Nossa Senhora do Socorro;2804805;SE;Sergipe;157.515
+3052;Nossa Senhora dos Remédios;2206803;PI;Piauí;358.364
+1792;Nova Canaã;2922706;BA;Bahia;757.461
+1825;Nova Colinas;2107258;MA;Maranhão;743.100
+3590;Nova Cruz;2408300;RN; Rio Grande do Norte;277.657
+5444;Nova Floresta;2510105;PB;Paraíba;58.839
+2982;Nova Fátimadesambiguação;2922730;BA;Bahia;371.480
+4402;Nova Ibiá;2922755;BA;Bahia;180.701
+1438;Nova Iorque;2107308;MA;Maranhão;976.629
+2611;Nova Itarana;2922805;BA;Bahia;456.256
+3536;Nova Olinda;2309201;CE;Ceará;284.404
+5263;Nova Olinda;2510204;PB;Paraíba;84.253
+615;Nova Olinda do Maranhão;2107357;MA;Maranhão;2 464.124
+3357;Nova Palmeira;2510303;PB;Paraíba;310.348
+2408;Nova Redenção;2922854;BA;Bahia;510.918
+1826;Nova Russas;2309300;CE;Ceará;742.763
+1288;Nova Santa Ritadesambiguação;2207959;PI;Piauí;1 119.144
+1390;Nova Soure;2922904;BA;Bahia;1 021.277
+1099;Nova Viçosa;2923001;BA;Bahia;1 326.122
+2121;Novo Horizontedesambiguação;2923035;BA;Bahia;612.451
+4386;Novo Lino;2705606;AL;Alagoas;182.288
+1480;Novo Oriente;2309409;CE;Ceará;949.206
+2446;Novo Oriente do Piauí;2206902;PI;Piauí;500.467
+2351;Novo Santo Antônio;2206951;PI;Piauí;528.408
+4045;Novo Triunfo;2923050;BA;Bahia;217.894
+3385;Nísia Floresta;2408201;RN; Rio Grande do Norte;306.051
+1782;Ocara;2309458;CE;Ceará;765.366
+562;Oeirasdesambiguação;2207009;PI;Piauí;2 719.536
+2168;Olho d'Água;2510402;PB;Paraíba;596.123
+2277;Olho d'Água das Cunhãs;2107407;MA;Maranhão;552.619
+4376;Olho d'Água das Flores;2705705;AL;Alagoas;183.440
+3271;Olho d'Água do Casado;2705804;AL;Alagoas;322.945
+4022;Olho d'Água do Piauí;2207108;PI;Piauí;220.127
+4952;Olho d'Água Grande;2705903;AL;Alagoas;118.508
+4752;Olho-d'Água do Borges;2408409;RN; Rio Grande do Norte;141.170
+5505;Olinda;2609600;PE;Pernambuco;43.548
+4229;Olinda Nova do Maranhão;2107456;MA;Maranhão;197.630
+2220;Olindina;2923100;BA;Bahia;575.412
+3311;Olivedos;2510501;PB;Paraíba;317.900
+426;Oliveira dos Brejinhos;2923209;BA;Bahia;3 563.908
+4452;Olivença;2706000;AL;Alagoas;172.957
+4755;Orobó;2609709;PE;Pernambuco;140.785
+2270;Orocó;2609808;PE;Pernambuco;554.752
+2216;Orós;2309508;CE;Ceará;576.269
+629;Ouricuri;2609907;PE;Pernambuco;2 422.860
+4693;Ouriçangas;2923308;BA;Bahia;148.166
+4157;Ouro Branco;2706109;AL;Alagoas;204.841
+3763;Ouro Branco;2408508;RN; Rio Grande do Norte;253.300
+4861;Ouro Velho;2510600;PB;Paraíba;129.399
+1143;Ourolândia;2923357;BA;Bahia;1 276.011
+3753;Pacajus;2309607;CE;Ceará;254.435
+4831;Pacatubadesambiguação;2309706;CE;Ceará;132.427
+3022;Pacatubadesambiguação;2804904;SE;Sergipe;363.761
+5022;Pacoti;2309805;CE;Ceará;111.959
+5334;Pacujá;2309904;CE;Ceará;76.100
+3298;Padre Marcos;2207207;PI;Piauí;319.124
+3111;Paes Landim;2207306;PI;Piauí;349.679
+1334;Pajeú do Piauí;2207355;PI;Piauí;1 075.263
+5487;Palestina;2706208;AL;Alagoas;48.884
+2656;Palhano;2310001;CE;Ceará;442.785
+3179;Palmares;2610004;PE;Pernambuco;336.838
+549;Palmas de Monte Alto;2923407;BA;Bahia;2 789.417
+743;Palmeira do Piauí;2207405;PI;Piauí;2 021.228
+2593;Palmeira dos Índios;2706307;AL;Alagoas;460.610
+1073;Palmeirais;2207504;PI;Piauí;1 360.307
+1927;Palmeiras;2923506;BA;Bahia;695.719
+4583;Palmeirina;2610103;PE;Pernambuco;158.014
+2363;Palmeirândia;2107605;MA;Maranhão;525.633
+4964;Palmácia;2310100;CE;Ceará;117.816
+2985;Panelas;2610202;PE;Pernambuco;371.157
+2636;Paquetá;2207553;PI;Piauí;448.457
+3412;Paracuru;2310209;CE;Ceará;303.253
+2344;Paraibano;2107704;MA;Maranhão;530.500
+3425;Paraipaba;2310258;CE;Ceará;301.123
+660;Parambu;2310308;CE;Ceará;2 303.402
+1295;Paramirim;2923605;BA;Bahia;1 115.641
+2506;Paramoti;2310407;CE;Ceará;482.648
+3927;Paranatama;2610301;PE;Pernambuco;230.878
+5293;Paraná;2408607;RN; Rio Grande do Norte;81.390
+4869;Parari;2510659;PB;Paraíba;128.483
+525;Paratinga;2923704;BA;Bahia;2 956.387
+3611;Parazinho;2408805;RN; Rio Grande do Norte;274.668
+2802;Paraú;2408706;RN; Rio Grande do Norte;410.858
+2402;Parelhas;2408904;RN; Rio Grande do Norte;513.052
+3699;Pariconha;2706422;AL;Alagoas;260.858
+2904;Paripiranga;2923803;BA;Bahia;388.784
+5201;Paripueira;2706448;AL;Alagoas;92.712
+460;Parnaguá;2207603;PI;Piauí;3 284.562
+587;Parnamirimdesambiguação;2610400;PE;Pernambuco;2 608.072
+4944;Parnamirimdesambiguação;2403251;RN; Rio Grande do Norte;120.202
+438;Parnarama;2107803;MA;Maranhão;3 487.119
+2688;Parnaíba;2207702;PI;Piauí;435.564
+5507;Passa e Fica;2409100;RN; Rio Grande do Norte;42.137
+1074;Passagem Franca;2107902;MA;Maranhão;1 358.302
+1609;Passagem Franca do Piauí;2207751;PI;Piauí;849.601
+5023;Passagemdesambiguação;2510709;PB;Paraíba;111.875
+5509;Passagemdesambiguação;2409209;RN; Rio Grande do Norte;41.235
+3223;Passira;2610509;PE;Pernambuco;329.755
+4342;Passo de Camaragibe;2706505;AL;Alagoas;187.197
+904;Pastos Bons;2108009;MA;Maranhão;1 620.196
+2404;Patos;2510808;PB;Paraíba;512.791
+1863;Patos do Piauí;2207777;PI;Piauí;723.273
+3297;Patu;2409308;RN; Rio Grande do Norte;319.132
+2129;Pau Brasil;2923902;BA;Bahia;609.505
+2730;Pau d'Arco do Piauí;2207793;PI;Piauí;426.628
+3708;Pau dos Ferros;2409407;RN; Rio Grande do Norte;259.960
+3588;Paudalho;2610608;PE;Pernambuco;277.796
+1436;Paulino Neves;2108058;MA;Maranhão;979.341
+2214;Paulista;2510907;PB;Paraíba;576.880
+5192;Paulista;2610707;PE;Pernambuco;93.518
+841;Paulistana;2207801;PI;Piauí;1 751.993
+935;Paulo Afonso;2924009;BA;Bahia;1 573.627
+5067;Paulo Jacinto;2706604;AL;Alagoas;107.943
+1517;Paulo Ramosdesambiguação;2108108;MA;Maranhão;927.317
+980;Pavussu;2207850;PI;Piauí;1 494.687
+4832;Paço do Lumiar;2107506;MA;Maranhão;132.410
+1716;Pedra;2610806;PE;Pernambuco;803.024
+1120;Pedra Brancadesambiguação;2310506;CE;Ceará;1 303.273
+4264;Pedra Brancadesambiguação;2511004;PB;Paraíba;193.733
+4006;Pedra Grande;2409506;RN; Rio Grande do Norte;221.429
+3099;Pedra Lavrada;2511103;PB;Paraíba;351.688
+5291;Pedra Mole;2805000;SE;Sergipe;81.616
+3465;Pedra Pretadesambiguação;2409605;RN; Rio Grande do Norte;294.979
+2859;Pedras de Fogo;2511202;PB;Paraíba;401.120
+3508;Pedreirasdesambiguação;2108207;MA;Maranhão;288.507
+5531;Pedrinhas;2805109;SE;Sergipe;33.942
+1305;Pedro Alexandredesambiguação;2924207;BA;Bahia;1 110.078
+1477;Pedro Avelino;2409704;RN; Rio Grande do Norte;952.688
+842;Pedro do Rosário;2108256;MA;Maranhão;1 749.866
+968;Pedro IIdesambiguação;2207900;PI;Piauí;1 518.186
+1643;Pedro Laurentino;2207934;PI;Piauí;835.050
+5353;Pedro Régis;2512721;PB;Paraíba;73.362
+4271;Pedro Velho;2409803;RN; Rio Grande do Norte;192.707
+4460;Pedrão;2924108;BA;Bahia;172.458
+4307;Penaforte;2310605;CE;Ceará;190.428
+1748;Penalva;2108306;MA;Maranhão;785.565
+2766;Pendências;2409902;RN; Rio Grande do Norte;419.141
+1939;Penedo;2706703;AL;Alagoas;689.269
+1057;Pentecoste;2310704;CE;Ceará;1 378.295
+2701;Pereirodesambiguação;2310803;CE;Ceará;432.881
+2834;Peri Mirim;2108405;MA;Maranhão;405.295
+1817;Peritoró;2108454;MA;Maranhão;747.682
+1411;Pesqueira;2610905;PE;Pernambuco;1 000.225
+328;Petrolina;2611101;PE;Pernambuco;4 558.537
+1357;Petrolândiadesambiguação;2611002;PE;Pernambuco;1 056.648
+2243;Piancó;2511301;PB;Paraíba;564.730
+973;Piatã;2924306;BA;Bahia;1 508.036
+3868;Piaçabuçu;2706802;AL;Alagoas;239.989
+1715;Picos;2208007;PI;Piauí;803.261
+1989;Picuí;2511400;PB;Paraíba;665.570
+3795;Pilar;2706901;AL;Alagoas;248.975
+5127;Pilar;2511509;PB;Paraíba;101.262
+111;Pilão Arcado;2924405;BA;Bahia;11 700.012
+5405;Pilõesdesambiguação;2511608;PB;Paraíba;64.447
+5281;Pilõesdesambiguação;2410009;RN; Rio Grande do Norte;82.691
+5503;Pilõezinhos;2511707;PB;Paraíba;43.900
+327;Pimenteiras;2208106;PI;Piauí;4 577.587
+3878;Pindaré-Mirim;2108504;MA;Maranhão;238.542
+1887;Pindaí;2924504;BA;Bahia;715.482
+5272;Pindoba;2707008;AL;Alagoas;83.218
+2353;Pindobaçu;2924603;BA;Bahia;527.742
+5358;Pindoretama;2310852;CE;Ceará;72.855
+998;Pinheiro;2108603;MA;Maranhão;1 465.503
+4603;Pinhão;2805208;SE;Sergipe;155.886
+2349;Pintadas;2924652;BA;Bahia;529.211
+768;Pio IX;2208205;PI;Piauí;1 948.843
+1686;Pio XII;2108702;MA;Maranhão;817.346
+2188;Piquet Carneiro;2310902;CE;Ceará;587.887
+641;Piracuruca;2208304;PI;Piauí;2 380.511
+4042;Pirambu;2805307;SE;Sergipe;218.084
+2822;Piranhas;2707107;AL;Alagoas;407.647
+1941;Pirapemas;2108801;MA;Maranhão;688.737
+3962;Piraí do Norte;2924678;BA;Bahia;227.638
+3852;Pires Ferreira;2310951;CE;Ceará;242.189
+1034;Piripiri;2208403;PI;Piauí;1 408.928
+2023;Piripá;2924702;BA;Bahia;651.302
+1420;Piritiba;2924801;BA;Bahia;990.598
+5303;Pirpirituba;2511806;PB;Paraíba;79.849
+4796;Pitimbu;2511905;PB;Paraíba;136.045
+1497;Planaltino;2924900;BA;Bahia;938.104
+1865;Planalto;2925006;BA;Bahia;722.987
+2077;Pocinhos;2512002;PB;Paraíba;629.521
+3305;Pojuca;2925204;BA;Bahia;318.205
+1565;Pombaldesambiguação;2512101;PB;Paraíba;888.811
+4125;Pombos;2611309;PE;Pernambuco;207.656
+2577;Ponto Novo;2925253;BA;Bahia;465.311
+1114;Poranga;2311009;CE;Ceará;1 309.274
+5043;Portalegre;2410207;RN; Rio Grande do Norte;110.052
+4052;Porteiras;2311108;CE;Ceará;217.570
+3769;Porto;2208502;PI;Piauí;252.713
+1275;Porto Alegre do Piauí;2208551;PI;Piauí;1 136.804
+3703;Porto Calvo;2707305;AL;Alagoas;260.158
+1553;Porto da Folha;2805604;SE;Sergipe;896.937
+3664;Porto de Pedras;2707404;AL;Alagoas;266.236
+3302;Porto do Mangue;2410256;RN; Rio Grande do Norte;318.636
+1029;Porto Franco;2109007;MA;Maranhão;1 417.483
+3866;Porto Real do Colégio;2707503;AL;Alagoas;240.310
+3984;Porto Rico do Maranhão;2109056;MA;Maranhão;224.300
+637;Porto Seguro;2925303;BA;Bahia;2 408.594
+3167;Potengi;2311207;CE;Ceará;338.723
+1422;Potiraguá;2925402;BA;Bahia;989.471
+2808;Potiretama;2311231;CE;Ceará;409.238
+3933;Poço Branco;2410108;RN; Rio Grande do Norte;230.370
+5153;Poço Dantas;2512036;PB;Paraíba;97.249
+3415;Poço das Trincheiras;2707206;AL;Alagoas;302.916
+5148;Poço de José de Moura;2512077;PB;Paraíba;97.888
+1207;Poço Redondo;2805406;SE;Sergipe;1 212.461
+2709;Poço Verde;2805505;SE;Sergipe;430.973
+4209;Poção;2611200;PE;Pernambuco;199.742
+2012;Poção de Pedras;2108900;MA;Maranhão;655.179
+1458;Poções;2925105;BA;Bahia;962.857
+879;Prado;2925501;BA;Bahia;1 664.536
+4285;Prata;2512200;PB;Paraíba;192.012
+4236;Prata do Piauí;2208601;PI;Piauí;196.323
+3837;Presidente Dutradesambiguação;2925600;BA;Bahia;243.922
+1731;Presidente Dutradesambiguação;2109106;MA;Maranhão;793.853
+2658;Presidente Juscelinodesambiguação;2109205;MA;Maranhão;442.135
+4502;Presidente Juscelinodesambiguação;2410306;RN; Rio Grande do Norte;167.348
+1098;Presidente Jânio Quadros;2925709;BA;Bahia;1 327.379
+2677;Presidente Médicidesambiguação;2109239;MA;Maranhão;437.665
+1861;Presidente Sarney;2109270;MA;Maranhão;724.164
+2783;Presidente Tancredo Neves;2925758;BA;Bahia;414.912
+2571;Presidente Vargas;2109304;MA;Maranhão;467.323
+5044;Primavera;2611408;PE;Pernambuco;109.942
+1067;Primeira Cruz;2109403;MA;Maranhão;1 367.833
+3003;Princesa Isabel;2512309;PB;Paraíba;368.067
+5174;Propriá;2805703;SE;Sergipe;95.041
+2427;Pureza;2410405;RN; Rio Grande do Norte;504.317
+5349;Puxinanã;2512408;PB;Paraíba;73.673
+2002;Pão de Açúcar;2706406;AL;Alagoas;658.955
+2261;Pé de Serra;2924058;BA;Bahia;558.438
+3435;Quebrangulo;2707602;AL;Alagoas;299.922
+978;Queimada Nova;2208650;PI;Piauí;1 499.865
+2809;Queimadas;2512507;PB;Paraíba;409.196
+712;Queimadasdesambiguação;2925808;BA;Bahia;2 097.668
+1145;Quijingue;2925907;BA;Bahia;1 271.069
+3931;Quipapá;2611507;PE;Pernambuco;230.614
+1370;Quiterianópolis;2311264;CE;Ceará;1 040.955
+4107;Quixabadesambiguação;2611533;PE;Pernambuco;209.964
+3004;Quixabeira;2925931;BA;Bahia;368.017
+4970;Quixabá;2512606;PB;Paraíba;116.946
+744;Quixadá;2311306;CE;Ceará;2 019.816
+2258;Quixelô;2311355;CE;Ceará;559.760
+461;Quixeramobim;2311405;CE;Ceará;3 275.838
+2106;Quixeré;2311504;CE;Ceará;616.825
+5317;Rafael Fernandes;2410504;RN; Rio Grande do Norte;78.230
+5137;Rafael Godeiro;2410603;RN; Rio Grande do Norte;100.073
+1183;Rafael Jambeiro;2925956;BA;Bahia;1 234.248
+5408;Raposa;2109452;MA;Maranhão;64.182
+4054;Recife;2611606;PE;Pernambuco;217.494
+3976;Redenção;2311603;CE;Ceará;225.626
+614;Redenção do Gurguéia;2208700;PI;Piauí;2 468.006
+1158;Regeneração;2208809;PI;Piauí;1 257.157
+323;Remanso;2926004;BA;Bahia;4 693.505
+4420;Remígio;2512705;PB;Paraíba;178.064
+2937;Reriutaba;2311702;CE;Ceará;383.119
+4167;Retirolândia;2926103;BA;Bahia;203.786
+4885;Riacho da Cruz;2410702;RN; Rio Grande do Norte;127.221
+3328;Riacho das Almas;2611705;PE;Pernambuco;313.990
+565;Riacho de Santanadesambiguação;2926400;BA;Bahia;2 698.465
+4874;Riacho de Santanadesambiguação;2410801;RN; Rio Grande do Norte;128.104
+5214;Riacho de Santo Antônio;2512788;PB;Paraíba;91.322
+3682;Riacho dos Cavalos;2512804;PB;Paraíba;264.027
+679;Riacho Frio;2208858;PI;Piauí;2 221.950
+3688;Riachuelodesambiguação;2410900;RN; Rio Grande do Norte;262.873
+5315;Riachuelodesambiguação;2805901;SE;Sergipe;78.480
+252;Riachão das Neves;2926202;BA;Bahia;5 840.191
+5515;Riachão do Bacamarte;2512754;PB;Paraíba;38.369
+2352;Riachão do Dantas;2805802;SE;Sergipe;528.256
+1219;Riachão do Jacuípe;2926301;BA;Bahia;1 199.201
+5514;Riachão do Poço;2512762;PB;Paraíba;39.067
+233;Riachãodesambiguação;2109502;MA;Maranhão;6 373.153
+5222;Riachãodesambiguação;2512747;PB;Paraíba;90.150
+1549;Ribamar Fiquene;2109551;MA;Maranhão;900.483
+1920;Ribeira do Amparo;2926509;BA;Bahia;699.342
+1419;Ribeira do Piauí;2208874;PI;Piauí;990.678
+1708;Ribeira do Pombal;2926608;BA;Bahia;807.137
+375;Ribeiro Gonçalves;2208908;PI;Piauí;3 979.036
+3511;Ribeirão;2611804;PE;Pernambuco;287.987
+1194;Ribeirão do Largo;2926657;BA;Bahia;1 222.153
+3691;Ribeirópolis;2806008;SE;Sergipe;261.548
+1360;Rio de Contas;2926707;BA;Bahia;1 052.302
+1424;Rio do Antônio;2926806;BA;Bahia;986.990
+4668;Rio do Fogo;2408953;RN; Rio Grande do Norte;150.282
+1564;Rio do Pires;2926905;BA;Bahia;889.359
+3871;Rio Formoso;2611903;PE;Pernambuco;239.814
+2126;Rio Grande do Piauí;2209005;PI;Piauí;611.011
+3363;Rio Largo;2707701;AL;Alagoas;309.425
+1969;Rio Realdesambiguação;2927002;BA;Bahia;675.911
+2576;Rio Tintodesambiguação;2512903;PB;Paraíba;466.397
+595;Rodelas;2927101;BA;Bahia;2 575.088
+4614;Rodolfo Fernandes;2411007;RN; Rio Grande do Norte;154.840
+1950;Rosário;2109601;MA;Maranhão;685.027
+5090;Rosário do Catete;2806107;SE;Sergipe;105.413
+4864;Roteiro;2707800;AL;Alagoas;129.288
+925;Russas;2311801;CE;Ceará;1 588.105
+703;Ruy Barbosa;2927200;BA;Bahia;2 128.936
+4895;Ruy Barbosa;2411106;RN; Rio Grande do Norte;125.813
+1055;Saboeiro;2311900;CE;Ceará;1 383.472
+4247;Sairé;2612000;PE;Pernambuco;195.457
+4364;Salgadinhodesambiguação;2513000;PB;Paraíba;184.237
+5232;Salgadinhodesambiguação;2612109;PE;Pernambuco;88.812
+4238;Salgado de São Félix;2513109;PB;Paraíba;196.092
+3798;Salgadodesambiguação;2806206;SE;Sergipe;248.453
+894;Salgueiro;2612208;PE;Pernambuco;1 639.264
+4690;Salinas da Margarida;2927309;BA;Bahia;148.327
+1550;Salitre;2311959;CE;Ceará;899.824
+3776;Saloá;2612307;PE;Pernambuco;252.080
+1903;Salvador;2927408;BA;Bahia;706.799
+612;Sambaíba;2109700;MA;Maranhão;2 478.569
+3741;Sanharó;2612406;PE;Pernambuco;256.183
+1611;Santa Brígida;2927606;BA;Bahia;848.873
+3170;Santa Bárbara;2927507;BA;Bahia;338.574
+3959;Santa Cecília;2513158;PB;Paraíba;227.838
+951;Santa Cruz Cabrália;2927705;BA;Bahia;1 550.791
+4986;Santa Cruz da Baixa Verde;2612471;PE;Pernambuco;114.931
+3787;Santa Cruz da Vitória;2927804;BA;Bahia;250.035
+3191;Santa Cruz do Capibaribe;2612505;PE;Pernambuco;335.526
+2124;Santa Cruz do Piauí;2209104;PI;Piauí;611.501
+1427;Santa Cruz dos Milagres;2209153;PI;Piauí;984.084
+4105;Santa Cruzdesambiguação;2513208;PB;Paraíba;210.152
+1160;Santa Cruzdesambiguação;2612455;PE;Pernambuco;1 255.905
+2089;Santa Cruzdesambiguação;2411205;RN; Rio Grande do Norte;624.390
+1405;Santa Filomena;2612554;PE;Pernambuco;1 005.062
+288;Santa Filomena;2209203;PI;Piauí;5 285.447
+2843;Santa Filomena do Maranhão;2109759;MA;Maranhão;403.849
+657;Santa Helena (território);2109809;MA;Maranhão;2 308.403
+4101;Santa Helena (território);2513307;PB;Paraíba;210.317
+3070;Santa Inês;2927903;BA;Bahia;356.193
+2821;Santa Inês;2109908;MA;Maranhão;407.681
+3259;Santa Inês;2513356;PB;Paraíba;324.422
+1235;Santa Luz;2209302;PI;Piauí;1 186.831
+3225;Santa Luzia do Itanhy;2806305;SE;Sergipe;329.496
+5546;Santa Luzia do Norte;2707909;AL;Alagoas;28.541
+1543;Santa Luzia do Paruá;2110039;MA;Maranhão;904.946
+1751;Santa Luziadesambiguação;2928059;BA;Bahia;785.193
+243;Santa Luziadesambiguação;2110005;MA;Maranhão;6 133.424
+2613;Santa Luziadesambiguação;2513406;PB;Paraíba;455.702
+517;Santa Maria da Boa Vista;2612604;PE;Pernambuco;3 001.168
+786;Santa Maria da Vitória;2928109;BA;Bahia;1 890.695
+5206;Santa Maria do Cambucá;2612703;PE;Pernambuco;92.145
+4028;Santa Mariadesambiguação;2409332;RN; Rio Grande do Norte;219.572
+351;Santa Quitéria;2312205;CE;Ceará;4 260.681
+708;Santa Quitéria do Maranhão;2110104;MA;Maranhão;2 112.890
+245;Santa Rita de Cássia;2928406;BA;Bahia;6 071.116
+1745;Santa Ritadesambiguação;2110203;MA;Maranhão;786.081
+1857;Santa Ritadesambiguação;2513703;PB;Paraíba;726.565
+5391;Santa Rosa de Lima;2806503;SE;Sergipe;67.607
+3069;Santa Rosa do Piauí;2209377;PI;Piauí;356.237
+1896;Santa Teresinha;2928505;BA;Bahia;710.313
+3055;Santa Teresinha;2513802;PB;Paraíba;357.942
+4244;Santa Terezinha;2612802;PE;Pernambuco;195.584
+921;Santaluz;2928000;BA;Bahia;1 597.202
+2851;Santana de Mangueira;2513505;PB;Paraíba;402.151
+1448;Santana do Acaraú;2312007;CE;Ceará;969.323
+1780;Santana do Cariri;2312106;CE;Ceará;768.768
+2676;Santana do Ipanema;2708006;AL;Alagoas;437.847
+1319;Santana do Maranhão;2110237;MA;Maranhão;1 094.650
+1027;Santana do Matos;2411403;RN; Rio Grande do Norte;1 420.313
+3989;Santana do Mundaú;2708105;AL;Alagoas;223.615
+4756;Santana do Piauí;2209351;PI;Piauí;140.688
+4330;Santana do Seridó;2411429;RN; Rio Grande do Norte;188.402
+5495;Santana do São Francisco;2806404;SE;Sergipe;46.340
+3082;Santana dos Garrotes;2513604;PB;Paraíba;353.813
+753;Santanadesambiguação;2928208;BA;Bahia;1 999.407
+3788;Santanópolis;2928307;BA;Bahia;250.027
+5345;Santarémdesambiguação;2513653;PB;Paraíba;74.005
+3902;Santo Amaro das Brotas;2806602;SE;Sergipe;234.654
+918;Santo Amaro do Maranhão;2110278;MA;Maranhão;1 601.164
+2388;Santo Amarodesambiguação;2928604;BA;Bahia;518.260
+3978;Santo André;2513851;PB;Paraíba;225.166
+3717;Santo Antônio de Jesus;2928703;BA;Bahia;259.213
+2881;Santo Antônio de Lisboa;2209401;PI;Piauí;395.799
+1776;Santo Antônio dos Lopes;2110302;MA;Maranhão;770.190
+5534;Santo Antônio dos Milagres;2209450;PI;Piauí;33.152
+3427;Santo Antôniodesambiguação;2411502;RN; Rio Grande do Norte;301.052
+3015;Santo Estêvão;2928802;BA;Bahia;365.141
+1558;Santo Inácio do Piauí;2209500;PI;Piauí;895.671
+4901;Sapeaçu;2929602;BA;Bahia;125.582
+3317;Sapé;2515302;PB;Paraíba;316.330
+5506;Satuba;2708907;AL;Alagoas;42.559
+2138;Satubinha;2111722;MA;Maranhão;605.838
+4577;Saubara;2929750;BA;Bahia;158.933
+2448;Saúde;2929800;BA;Bahia;499.722
+544;Seabra;2929909;BA;Bahia;2 825.016
+1395;Sebastião Barros;2210623;PI;Piauí;1 013.926
+750;Sebastião Laranjeiras;2930006;BA;Bahia;2 004.185
+498;Sebastião Leal;2210631;PI;Piauí;3 111.103
+2731;Senador Alexandre Costa;2111748;MA;Maranhão;426.461
+4500;Senador Elói de Souza;2413102;RN; Rio Grande do Norte;167.592
+5548;Senador Georgino Avelino;2413201;RN; Rio Grande do Norte;26.383
+1819;Senador La Rocque;2111763;MA;Maranhão;746.738
+1408;Senador Pompeu;2312700;CE;Ceará;1 002.127
+3045;Senador Rui Palmeira;2708956;AL;Alagoas;359.667
+2715;Senador Sá;2312809;CE;Ceará;430.580
+1689;Senhor do Bonfim;2930105;BA;Bahia;816.697
+95;Sento Sé;2930204;BA;Bahia;12 871.039
+3600;Seridó;2515401;PB;Paraíba;276.460
+1836;Serra Branca;2515500;PB;Paraíba;737.743
+5545;Serra da Raiz;2515609;PB;Paraíba;28.984
+5161;Serra de São Bento;2413300;RN; Rio Grande do Norte;96.635
+2108;Serra do Mel;2413359;RN; Rio Grande do Norte;616.509
+571;Serra do Ramalho;2930154;BA;Bahia;2 677.366
+1015;Serra Dourada;2930303;BA;Bahia;1 441.545
+5270;Serra Grande;2515708;PB;Paraíba;83.473
+2249;Serra Negra do Norte;2413409;RN; Rio Grande do Norte;562.395
+2329;Serra Preta;2930402;BA;Bahia;536.892
+5460;Serra Redonda;2515807;PB;Paraíba;55.906
+521;Serra Talhada;2613909;PE;Pernambuco;2 979.974
+1215;Serrano do Maranhão;2111789;MA;Maranhão;1 207.043
+5336;Serraria;2515906;PB;Paraíba;75.397
+4919;Serrinha dos Pintos;2413557;RN; Rio Grande do Norte;122.644
+2234;Serrinhadesambiguação;2930501;BA;Bahia;568.405
+4266;Serrinhadesambiguação;2413508;RN; Rio Grande do Norte;193.352
+915;Serrita;2614006;PE;Pernambuco;1 603.599
+2973;Serrolândia;2930600;BA;Bahia;373.762
+630;Sertânia;2614105;PE;Pernambuco;2 421.511
+5536;Sertãozinhodesambiguação;2515930;PB;Paraíba;32.798
+4588;Severiano Melo;2413607;RN; Rio Grande do Norte;157.833
+1431;Sigefredo Pacheco;2210656;PI;Piauí;982.074
+1044;Simplício Mendes;2210805;PI;Piauí;1 398.952
+2259;Simão Dias;2807105;SE;Sergipe;559.615
+4284;Simões Filho;2930709;BA;Bahia;192.163
+1387;Simõesdesambiguação;2210706;PI;Piauí;1 023.917
+2952;Sirinhaém;2614204;PE;Pernambuco;378.790
+4490;Siriridesambiguação;2807204;SE;Sergipe;168.956
+1101;Sobradinhodesambiguação;2930774;BA;Bahia;1 322.661
+5420;Sobradodesambiguação;2515971;PB;Paraíba;63.093
+705;Sobraldesambiguação;2312908;CE;Ceará;2 122.989
+1932;Socorro do Piauí;2210904;PI;Piauí;692.990
+2257;Soledadedesambiguação;2516102;PB;Paraíba;560.062
+4781;Solidão;2614402;PE;Pernambuco;138.399
+960;Solonópole;2313005;CE;Ceará;1 536.158
+3665;Solânea;2516003;PB;Paraíba;265.921
+4615;Sossêgo;2516151;PB;Paraíba;154.795
+1632;Sousadesambiguação;2516201;PB;Paraíba;842.487
+1316;Souto Soares;2930808;BA;Bahia;1 095.850
+1416;Sucupira do Norte;2111904;MA;Maranhão;991.926
+2241;Sucupira do Riachão;2111953;MA;Maranhão;564.974
+1640;Sumé;2516300;PB;Paraíba;838.058
+3767;Surubim;2614501;PE;Pernambuco;252.845
+4024;Sussuapara;2210938;PI;Piauí;220.074
+1441;Sátiro Dias;2929701;BA;Bahia;974.549
+3171;São Benedito;2312304;CE;Ceará;338.149
+1511;São Benedito do Rio Preto;2110401;MA;Maranhão;931.592
+4594;São Benedito do Sul;2612901;PE;Pernambuco;156.782
+4240;São Bentinho;2513927;PB;Paraíba;195.964
+2601;São Bento;2110500;MA;Maranhão;459.452
+3801;São Bento;2513901;PB;Paraíba;248.198
+3506;São Bento do Norte;2411601;RN; Rio Grande do Norte;288.637
+4301;São Bento do Trairí;2411700;RN; Rio Grande do Norte;190.816
+1855;São Bento do Una;2613008;PE;Pernambuco;726.964
+1401;São Bernardo;2110609;MA;Maranhão;1 006.657
+2142;São Braz do Piauí;2209559;PI;Piauí;604.081
+4761;São Brás;2708204;AL;Alagoas;139.884
+2942;São Caetano;2613107;PE;Pernambuco;382.475
+2679;São Cristóvão;2806701;SE;Sergipe;437.437
+80;São Desidério;2928901;BA;Bahia;14 819.585
+3662;São Domingos;2928950;BA;Bahia;265.375
+5116;São Domingos;2806800;SE;Sergipe;102.470
+4489;São Domingos de Pombal;2513968;PB;Paraíba;169.103
+1356;São Domingos do Azeitão;2110658;MA;Maranhão;1 058.637
+4000;São Domingos do Cariri;2513943;PB;Paraíba;222.159
+1121;São Domingos do Maranhão;2110708;MA;Maranhão;1 303.155
+4227;São Felipe;2929107;BA;Bahia;197.898
+2840;São Fernando;2411809;RN; Rio Grande do Norte;404.415
+1633;São Francisco de Assis do Piauí;2209658;PI;Piauí;842.453
+1821;São Francisco do Brejão;2110856;MA;Maranhão;745.593
+3658;São Francisco do Conde;2929206;BA;Bahia;266.631
+558;São Francisco do Maranhão;2110906;MA;Maranhão;2 745.804
+5335;São Francisco do Oeste;2411908;RN; Rio Grande do Norte;75.550
+1089;São Francisco do Piauí;2209708;PI;Piauí;1 340.654
+5172;São Franciscodesambiguação;2513984;PB;Paraíba;95.054
+5283;São Franciscodesambiguação;2806909;SE;Sergipe;82.565
+740;São Félix de Balsas;2110807;MA;Maranhão;2 032.302
+1622;São Félix do Coribe;2929057;BA;Bahia;846.123
+2007;São Félix do Piauí;2209609;PI;Piauí;656.520
+5169;São Félixdesambiguação;2929008;BA;Bahia;95.502
+1262;São Gabriel;2929255;BA;Bahia;1 156.798
+1645;São Gonçalo do Amarantedesambiguação;2312403;CE;Ceará;834.394
+3780;São Gonçalo do Amarantedesambiguação;2412005;RN; Rio Grande do Norte;251.308
+1054;São Gonçalo do Gurguéia;2209757;PI;Piauí;1 385.307
+4698;São Gonçalo do Piauí;2209807;PI;Piauí;147.592
+3472;São Gonçalo dos Campos;2929305;BA;Bahia;293.989
+3851;São Joaquim do Monte;2613305;PE;Pernambuco;242.629
+5382;São José da Coroa Grande;2613404;PE;Pernambuco;69.196
+3401;São José da Lagoa Tapada;2514206;PB;Paraíba;304.419
+3676;São José da Laje;2708303;AL;Alagoas;264.674
+2381;São José da Tapera;2708402;AL;Alagoas;519.626
+5474;São José da Vitória;2929354;BA;Bahia;53.395
+4434;São José de Caiana;2514305;PB;Paraíba;176.326
+1860;São José de Espinharas;2514404;PB;Paraíba;725.654
+3473;São José de Mipibu;2412203;RN; Rio Grande do Norte;293.877
+1966;São José de Piranhas;2514503;PB;Paraíba;677.292
+4582;São José de Princesa;2514552;PB;Paraíba;158.021
+2915;São José de Ribamar;2111201;MA;Maranhão;386.282
+989;São José do Belmonte;2613503;PE;Pernambuco;1 479.964
+4648;São José do Bonfim;2514602;PB;Paraíba;152.135
+3765;São José do Brejo do Cruz;2514651;PB;Paraíba;253.017
+3155;São José do Campestre;2412302;RN; Rio Grande do Norte;341.103
+3299;São José do Divinodesambiguação;2210052;PI;Piauí;319.114
+1734;São José do Egito;2613602;PE;Pernambuco;791.901
+2998;São José do Jacuípe;2929370;BA;Bahia;369.229
+1090;São José do Peixe;2210102;PI;Piauí;1 339.496
+3216;São José do Piauí;2210201;PI;Piauí;330.719
+4138;São José do Sabugi;2514701;PB;Paraíba;206.914
+4444;São José do Seridó;2412401;RN; Rio Grande do Norte;174.504
+3026;São José dos Basílios;2111250;MA;Maranhão;362.617
+2771;São José dos Cordeiros;2514800;PB;Paraíba;417.744
+5146;São José dos Ramos;2514453;PB;Paraíba;98.229
+1937;São João Batista;2111003;MA;Maranhão;690.676
+2551;São João da Canabrava;2209856;PI;Piauí;470.954
+1783;São João da Fronteira;2209872;PI;Piauí;764.742
+1459;São João da Serradesambiguação;2209906;PI;Piauí;962.258
+2883;São João da Varjota;2209955;PI;Piauí;395.368
+4080;São João do Arraial;2209971;PI;Piauí;213.351
+1914;São João do Cariri;2514008;PB;Paraíba;701.856
+2113;São João do Carú;2111029;MA;Maranhão;615.749
+3564;São João do Jaguaribe;2312502;CE;Ceará;280.436
+729;São João do Paraísodesambiguação;2111052;MA;Maranhão;2 053.830
+962;São João do Piauí;2210003;PI;Piauí;1 532.432
+2537;São João do Rio do Peixe;2500700;PB;Paraíba;474.426
+3593;São João do Sabugi;2412104;RN; Rio Grande do Norte;277.010
+1018;São João do Soter;2111078;MA;Maranhão;1 438.020
+1691;São João do Tigre;2514107;PB;Paraíba;816.111
+977;São João dos Patos;2111102;MA;Maranhão;1 500.661
+3832;São Joãodesambiguação;2613206;PE;Pernambuco;244.437
+3445;São Juliãodesambiguação;2210300;PI;Piauí;298.106
+3678;São Lourenço da Mata;2613701;PE;Pernambuco;264.346
+1956;São Lourenço do Piauí;2210359;PI;Piauí;683.661
+4026;São Luis do Piauí;2210375;PI;Piauí;219.895
+4921;São Luís do Curu;2312601;CE;Ceará;122.420
+2842;São Luís do Quitunde;2708501;AL;Alagoas;404.005
+1452;São Luís Gonzaga do Maranhão;2111409;MA;Maranhão;968.554
+1659;São Luísdesambiguação;2111300;MA;Maranhão;827.141
+2342;São Mamededesambiguação;2514909;PB;Paraíba;530.724
+1754;São Mateus do Maranhão;2111508;MA;Maranhão;783.224
+4465;São Miguel;2412500;RN; Rio Grande do Norte;171.690
+2928;São Miguel da Baixa Grande;2210383;PI;Piauí;384.188
+4130;São Miguel das Matas;2929404;BA;Bahia;207.446
+5203;São Miguel de Taipu;2515005;PB;Paraíba;92.524
+3151;São Miguel de Touros;2412559;RN; Rio Grande do Norte;342.445
+4725;São Miguel do Aleixo;2807006;SE;Sergipe;144.543
+1717;São Miguel do Fidalgo;2210391;PI;Piauí;802.748
+293;São Miguel do Tapuio;2210409;PI;Piauí;5 220.513
+3039;São Miguel dos Campos;2708600;AL;Alagoas;360.846
+5400;São Miguel dos Milagres;2708709;AL;Alagoas;65.189
+3865;São Paulo do Potengi;2412609;RN; Rio Grande do Norte;240.435
+4250;São Pedro;2412708;RN; Rio Grande do Norte;195.238
+1872;São Pedro da Água Branca;2111532;MA;Maranhão;720.492
+2362;São Pedro do Piauí;2210508;PI;Piauí;525.723
+1435;São Pedro dos Crentes;2111573;MA;Maranhão;979.803
+2563;São Rafael;2412807;RN; Rio Grande do Norte;469.096
+432;São Raimundo das Mangabeiras;2111607;MA;Maranhão;3 521.740
+3559;São Raimundo do Doca Bezerra;2111631;MA;Maranhão;281.225
+628;São Raimundo Nonato;2210607;PI;Piauí;2 427.894
+3965;São Roberto;2111672;MA;Maranhão;227.458
+3386;São Sebastião;2708808;AL;Alagoas;305.746
+5482;São Sebastião de Lagoa de Roça;2515104;PB;Paraíba;49.882
+2289;São Sebastião do Passé;2929503;BA;Bahia;549.425
+2594;São Sebastião do Umbuzeiro;2515203;PB;Paraíba;460.569
+1590;São Tomé;2412906;RN; Rio Grande do Norte;862.577
+2901;São Vicente Ferrer;2111706;MA;Maranhão;390.404
+5038;São Vicente Férrer;2613800;PE;Pernambuco;110.489
+4228;São Vicentedesambiguação;2413003;RN; Rio Grande do Norte;197.814
+858;Sítio do Mato;2930758;BA;Bahia;1 709.762
+2020;Sítio do Quinto;2930766;BA;Bahia;651.958
+496;Sítio Novodesambiguação;2111805;MA;Maranhão;3 114.827
+4078;Sítio Novodesambiguação;2413706;RN; Rio Grande do Norte;213.470
+2908;Tabira;2614600;PE;Pernambuco;388.001
+952;Tabocas do Brejo Velho;2930907;BA;Bahia;1 550.518
+4908;Taboleiro Grande;2413805;RN; Rio Grande do Norte;124.094
+1592;Tabuleiro do Norte;2313104;CE;Ceará;861.838
+3963;Tacaimbó;2614709;PE;Pernambuco;227.586
+1149;Tacaratu;2614808;PE;Pernambuco;1 264.541
+3091;Taipu;2413904;RN; Rio Grande do Norte;352.818
+4314;Tamandarédesambiguação;2614857;PE;Pernambuco;190.017
+763;Tamboril;2313203;CE;Ceará;1 961.634
+932;Tamboril do Piauí;2210953;PI;Piauí;1 578.640
+3064;Tangarádesambiguação;2414001;RN; Rio Grande do Norte;356.780
+1087;Tanhaçu;2931004;BA;Bahia;1 341.793
+4602;Tanque d'Arca;2709004;AL;Alagoas;155.959
+2958;Tanque do Piauí;2210979;PI;Piauí;377.042
+1664;Tanque Novo;2931053;BA;Bahia;825.943
+4116;Tanquinho;2931103;BA;Bahia;209.026
+2814;Taperoádesambiguação;2931202;BA;Bahia;408.576
+2051;Taperoádesambiguação;2516508;PB;Paraíba;639.959
+1992;Tapiramutá;2931301;BA;Bahia;663.870
+4513;Taquarana;2709103;AL;Alagoas;166.477
+2533;Taquaritinga do Norte;2615003;PE;Pernambuco;475.176
+2622;Tarrafas;2313252;CE;Ceará;454.390
+341;Tasso Fragoso;2112001;MA;Maranhão;4 382.944
+371;Tauá;2313302;CE;Ceará;4 018.188
+3951;Tavaresdesambiguação;2516607;PB;Paraíba;228.599
+1264;Teixeira de Freitas;2931350;BA;Bahia;1 153.791
+4993;Teixeiradesambiguação;2516706;PB;Paraíba;114.437
+1810;Tejuçuoca;2313351;CE;Ceará;750.605
+5484;Telha;2807303;SE;Sergipe;49.452
+3987;Tenente Ananias;2414100;RN; Rio Grande do Norte;223.670
+5342;Tenente Laurentino Cruz;2414159;RN; Rio Grande do Norte;74.376
+5095;Tenório;2516755;PB;Paraíba;105.270
+3589;Teodoro Sampaio;2931400;BA;Bahia;277.766
+3309;Teofilândia;2931509;BA;Bahia;317.982
+3510;Teolândia;2931608;BA;Bahia;288.272
+3446;Teotônio Vilela;2709152;AL;Alagoas;297.875
+840;Teresina;2211001;PI;Piauí;1 755.698
+4655;Terezinha;2615102;PE;Pernambuco;151.449
+4218;Terra Nova;2931707;BA;Bahia;198.626
+3038;Terra Nova;2615201;PE;Pernambuco;360.863
+1535;Tianguá;2313401;CE;Ceará;908.893
+4549;Tibau;2411056;RN; Rio Grande do Norte;162.402
+5123;Tibau do Sul;2414209;RN; Rio Grande do Norte;101.793
+3500;Timbaúba;2615300;PE;Pernambuco;289.511
+4800;Timbaúba dos Batistas;2414308;RN; Rio Grande do Norte;135.450
+985;Timbiras;2112100;MA;Maranhão;1 486.479
+844;Timon;2112209;MA;Maranhão;1 740.559
+1373;Tobias Barreto;2807402;SE;Sergipe;1 032.829
+3515;Tomar do Geru;2807501;SE;Sergipe;287.658
+5542;Toritama;2615409;PE;Pernambuco;30.930
+1638;Touros;2414407;RN; Rio Grande do Norte;839.351
+4975;Tracunhaém;2615508;PE;Pernambuco;116.659
+1922;Traipu;2709202;AL;Alagoas;697.843
+1520;Trairi;2313500;CE;Ceará;924.555
+833;Tremedal;2931806;BA;Bahia;1 779.422
+3941;Trindade;2615607;PE;Pernambuco;229.569
+3648;Triunfo Potiguar;2414456;RN; Rio Grande do Norte;268.706
+3994;Triunfodesambiguação;2516805;PB;Paraíba;222.947
+4288;Triunfodesambiguação;2615706;PE;Pernambuco;191.516
+3993;Trizidela do Vale;2112233;MA;Maranhão;223.306
+548;Tucano;2931905;BA;Bahia;2 801.292
+3596;Tufilândia;2112274;MA;Maranhão;276.924
+425;Tuntum;2112308;MA;Maranhão;3 573.041
+1729;Tupanatinga;2615805;PE;Pernambuco;795.638
+4352;Tuparetama;2615904;PE;Pernambuco;185.541
+594;Turiaçu;2112407;MA;Maranhão;2 577.603
+971;Turilândia;2112456;MA;Maranhão;1 511.575
+4274;Tururu;2313559;CE;Ceará;192.548
+984;Tutóia;2112506;MA;Maranhão;1 489.376
+527;Uauá;2932002;BA;Bahia;2 950.274
+4003;Ubaitaba;2932200;BA;Bahia;221.753
+2755;Ubajara;2313609;CE;Ceará;421.037
+3206;Ubatã;2932309;BA;Bahia;332.985
+1785;Ubaíra;2932101;BA;Bahia;762.404
+2396;Uibaí;2932408;BA;Bahia;515.662
+3467;Uiraúna;2516904;PB;Paraíba;294.495
+3683;Umari;2313708;CE;Ceará;263.917
+4075;Umarizal;2414506;RN; Rio Grande do Norte;213.582
+4931;Umbaúba;2807600;SE;Sergipe;121.101
+813;Umburanas;2932457;BA;Bahia;1 812.741
+4398;Umbuzeiro;2517001;PB;Paraíba;180.872
+3245;Umirim;2313757;CE;Ceará;326.496
+1261;Una;2932507;BA;Bahia;1 159.525
+2728;União dos Palmares;2709301;AL;Alagoas;427.825
+1244;Uniãodesambiguação;2211100;PI;Piauí;1 173.447
+1572;Upanema;2414605;RN; Rio Grande do Norte;881.806
+1557;Urandi;2932606;BA;Bahia;895.926
+1213;Urbano Santos;2112605;MA;Maranhão;1 207.774
+5154;Uruburetama;2313807;CE;Ceará;97.107
+1925;Uruoca;2313906;CE;Ceará;696.770
+3175;Uruçuca;2932705;BA;Bahia;337.705
+165;Uruçuí;2211209;PI;Piauí;8 452.025
+1880;Utingadesambiguação;2932804;BA;Bahia;717.344
+3063;Valente;2933000;BA;Bahia;356.895
+1079;Valença do Piauí;2211308;PI;Piauí;1 350.519
+1230;Valençadesambiguação;2932903;BA;Bahia;1 190.381
+764;Vargem Grande;2112704;MA;Maranhão;1 957.772
+4414;Varjota;2313955;CE;Ceará;179.255
+4505;Varzedo;2933174;BA;Bahia;167.003
+5367;Venha-Ver;2414753;RN; Rio Grande do Norte;71.622
+3173;Venturosa;2616001;PE;Pernambuco;338.121
+3768;Vera Cruz;2933208;BA;Bahia;252.759
+5207;Vera Cruz;2414803;RN; Rio Grande do Norte;92.117
+3358;Vera Mendes;2211506;PI;Piauí;310.368
+2531;Verdejante;2616100;PE;Pernambuco;476.034
+1655;Veredadesambiguação;2933257;BA;Bahia;828.700
+5395;Vertente do Lério;2616183;PE;Pernambuco;67.075
+4296;Vertentes;2616209;PE;Pernambuco;191.091
+1255;Vianadesambiguação;2112803;MA;Maranhão;1 162.494
+3928;Vicência;2616308;PE;Pernambuco;230.818
+4704;Vieirópolis;2517209;PB;Paraíba;146.778
+5492;Vila Flor;2415008;RN; Rio Grande do Norte;47.656
+4496;Vila Nova do Piauí;2211605;PI;Piauí;167.959
+1231;Vila Nova dos Martírios;2112852;MA;Maranhão;1 188.771
+5430;Vista Serrana;2505501;PB;Paraíba;61.361
+1287;Vitorino Freire;2113009;MA;Maranhão;1 122.700
+480;Vitória da Conquista;2933307;BA;Bahia;3 204.257
+2980;Vitória de Santo Antão;2616407;PE;Pernambuco;371.796
+1858;Vitória do Mearim;2112902;MA;Maranhão;726.435
+1110;Viçosa do Ceará;2314102;CE;Ceará;1 311.592
+3078;Viçosadesambiguação;2709400;AL;Alagoas;354.762
+5518;Viçosadesambiguação;2414902;RN; Rio Grande do Norte;37.905
+4306;Várzea;2517100;PB;Paraíba;190.444
+5394;Várzea;2414704;RN; Rio Grande do Norte;67.245
+1642;Várzea Alegre;2314003;CE;Ceará;835.706
+2689;Várzea Branca;2211357;PI;Piauí;435.182
+2290;Várzea da Roça;2933059;BA;Bahia;549.339
+4019;Várzea do Poço;2933109;BA;Bahia;220.414
+3911;Várzea Grandedesambiguação;2211407;PI;Piauí;233.927
+1252;Várzea Nova;2933158;BA;Bahia;1 165.165
+2777;Wagner;2933406;BA;Bahia;415.819
+3675;Wall Ferraz;2211704;PI;Piauí;264.710
+510;Wanderleydesambiguação;2933455;BA;Bahia;3 043.408
+1996;Wenceslau Guimarães;2933505;BA;Bahia;661.792
+5035;Xexéu;2616506;PE;Pernambuco;110.803
+270;Xique-Xique;2933604;BA;Bahia;5 671.439
+5053;Zabelê;2517407;PB;Paraíba;109.394
+635;Zé Doca;2114007;MA;Maranhão;2 413.751
+2620;Água Branca;2700102;AL;Alagoas;454.719
+4016;Água Brancadesambiguação;2500106;PB;Paraíba;220.648
+5156;Água Brancadesambiguação;2200202;PI;Piauí;97.039
+2655;Água Doce do Maranhão;2100154;MA;Maranhão;442.963
+2043;Água Friadesambiguação;2900405;BA;Bahia;643.180
+5478;Água Nova;2400406;RN; Rio Grande do Norte;50.683
+2308;Água Preta;2600401;PE;Pernambuco;543.158
+1568;Águas Belasdesambiguação;2600500;PE;Pernambuco;885.981
+1915;Érico Cardoso;2900504;BA;Bahia;701.458
