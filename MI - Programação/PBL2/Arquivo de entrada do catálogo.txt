@@ -1,0 +1,1319 @@
+N_EBOOK;TITULO;AUTOR;MES;ANO;LINK
+267322;The Opal Pin;Rufus H Gillmore;Nov;2019;http://gutenberg.net.au/ebooks19/1901131h.html
+267306;Trail Smoke;Ernest Haycox;Nov;2019;http://gutenberg.net.au/ebooks19/1901121h.html
+267290;The Red Ledger;Frank L Packard;Nov;2019;http://gutenberg.net.au/ebooks19/1901111h.html
+267162;Corporal Bob;Frank L Packard;Nov;2019;http://gutenberg.net.au/ebooks19/1901091h.html
+267146;Coogan's Last Run;Frank L Packard;Nov;2019;http://gutenberg.net.au/ebooks19/1901081h.html
+267130;The Whispering Lane;Fergus Hume;Nov;2019;http://gutenberg.net.au/ebooks19/1901071h.html
+267114;Leathermouth;Carlton Dawe;Oct;2019;http://gutenberg.net.au/ebooks19/1901061h.html
+267098;More Lives than One;Carolyn Wells;Oct;2019;http://gutenberg.net.au/ebooks19/1901051h.html
+267082;Chaffee of Roaring Horse;Ernest Haycox;Oct;2019;http://gutenberg.net.au/ebooks19/1901041h.html
+267066;A Voyage to New South Wales;William Bradley;Oct;2019;http://gutenberg.net.au/ebooks19/1901031h.html
+267050;The Vanity Case;Carolyn Wells;Sep;2019;http://gutenberg.net.au/ebooks19/1901021h.html
+267034;The Feudists;Ernest Haycox;Sep;2019;http://gutenberg.net.au/ebooks19/1901011h.html
+266906;The Knot Garden;Marjorie Bowen;Sep;2019;http://gutenberg.net.au/ebooks19/1900991h.html
+266874;Child of Chequer'd Fortune;Marjorie Bowen;Sep;2019;http://gutenberg.net.au/ebooks19/1900971h.html
+266842;The Wedding Chest Mystery;A. Fielding;Aug;2019;http://gutenberg.net.au/ebooks19/1900951h.html
+266826;The Charteris Mystery;A. Fielding;Aug;2019;http://gutenberg.net.au/ebooks19/1900941h.html
+266810;A Rider of the High Mesa;Ernest Haycox;Aug;2019;http://gutenberg.net.au/ebooks19/1900931h.html
+266794;Collected Short Stories;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900921h.html
+266778;The Skeleton at the Feast;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900911h.html
+266650;The White Witch;Jack McLaren;Aug;2019;http://gutenberg.net.au/ebooks19/1900891h.html
+266634;The Tapestry Room Murder;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900881h.html
+266618;Who Killed Caldwell;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900871h.html
+266602;Christianity and Morals;Edward Westermarck;Aug;2019;http://gutenberg.net.au/ebooks19/1900861h.html
+266586;Crime Tears On;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900851h.html
+266570;Murder Will In;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900841h.html
+266554;The Crime in the Crypt;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900831h.html
+266538;The Bronze Hand;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900821h.html
+266522;Good Marriage and Other Stories;Ernest Haycox;Aug;2019;http://gutenberg.net.au/ebooks19/1900811h.html
+235930;North of Fifty-Three;Rex Beach;Oct;2018;http://gutenberg.net.au/ebooks18/1800891h.html
+235914;The Chinese Jar;Fergus Hume;Sep;2018;http://gutenberg.net.au/ebooks18/1800881h.html
+235882;The Expedition of Captain Flick;Fergus Hume;Sep;2018;http://gutenberg.net.au/ebooks18/1800861h.html
+235866;The Gordian Knot;Rafael Sabatini;Sep;2018;http://gutenberg.net.au/ebooks18/1800851h.html
+235850;The Amethyst Cross;Fergus Hume;Sep;2018;http://gutenberg.net.au/ebooks18/1800841h.html
+235834;Turbulent Tales;Rafael Sabatini;Sep;2018;http://gutenberg.net.au/ebooks18/1800831h.html
+235818;The Justice of the Duke;Rafael Sabatini;Sep;2018;http://gutenberg.net.au/ebooks18/1800821h.html
+235802;The Devil's Mistress;by J. W. Brodie-Innes;Sep;2018;http://gutenberg.net.au/ebooks18/1800811h.html
+235674;The Lost Parchment;Fergus Hume;Sep;2018;http://gutenberg.net.au/ebooks18/1800791h.html
+235658;Miss Hurd: An Enigma;Anna Katharine Green;Sep;2018;http://gutenberg.net.au/ebooks18/1800781h.html
+235642;Marked Personal;Anna Katharine Green;Sep;2018;http://gutenberg.net.au/ebooks18/1800771h.html
+235626;The Sealed Message;Fergus Hume;Sep;2018;http://gutenberg.net.au/ebooks18/1800761h.html
+235610;The Fascinating Stranger;Booth Tarkington;Sep;2018;http://gutenberg.net.au/ebooks18/1800751h.html
+235594;Mount Desolation;Carlton Dawe;Sep;2018;http://gutenberg.net.au/ebooks18/1800741h.html
+235578;The Ebony Bed Murder;Rufus H Gillmore;Aug;2018;http://gutenberg.net.au/ebooks18/1800731h.html
+235562;Acme;John Galsworthy;Aug;2018;http://gutenberg.net.au/ebooks18/1800721h.html
+235546;Runyon from First to Last;Damon Runyon;Aug;2018;http://gutenberg.net.au/ebooks18/1800711h.html
+235418;A Matter of Millions;Anna Katharine Green;Aug;2018;http://gutenberg.net.au/ebooks18/1800691h.html
+235386;Doctor Izard;Anna Katharine Green;Jul;2018;http://gutenberg.net.au/ebooks18/1800671h.html
+235370;Their First Dinner;Rufus H Gillmore;Jul;2018;http://gutenberg.net.au/ebooks18/1800661h.html
+235354;Risifi's Daughter;Anna Katharine Green;Jul;2018;http://gutenberg.net.au/ebooks18/1800651h.html
+235338;Seven Million Dollars;Sinclair Lewis;Jul;2018;http://gutenberg.net.au/ebooks18/1800641h.html
+235322;Jonah's Luck;Fergus Hume;Jul;2018;http://gutenberg.net.au/ebooks18/1800631h.html
+235306;In Queer Street;Fergus Hume;Jul;2018;http://gutenberg.net.au/ebooks18/1800621h.html
+235290;The Golden Lake;Carlton Dawe;Jul;2018;http://gutenberg.net.au/ebooks18/1800611h.html
+235162;The Scarlet Bat;Fergus Hume;Jul;2018;http://gutenberg.net.au/ebooks18/1800591h.html
+235130;Trusty and Well Beloved;E. W. Hornung;Jun;2018;http://gutenberg.net.au/ebooks18/1800571h.html
+235114;The Indian Bangle;Fergus Hume;Jun;2018;http://gutenberg.net.au/ebooks18/1800561hy.html
+235098;Presumption;F. Scott Fitzgerald;Jun;2018;http://gutenberg.net.au/ebooks18/1800551h.html
+235082;The Millionaire Mystery;Fergus Hume;Jun;2018;http://gutenberg.net.au/ebooks18/1800541h.html
+235066;Shaggy's Morning;F. Scott Fitzgerald;Jun;2018;http://gutenberg.net.au/ebooks18/1800531h.html
+235050;A Traitor in London;Fergus Hume;Jun;2018;http://gutenberg.net.au/ebooks18/1800521h.html
+235034;The Gates of Dawn;Fergus Hume;Jun;2018;http://gutenberg.net.au/ebooks18/1800511h.html
+234890;The Island of Fantasy;Fergus Hume;Jun;2018;http://gutenberg.net.au/ebooks18/1800481h.html
+234874;The Pusher-in-the-Face;F. Scott Fitzgerald;Jun;2018;http://gutenberg.net.au/ebooks18/1800471h.html
+234858;The Black Carnation;Fergus Hume;Jun;2018;http://gutenberg.net.au/ebooks18/1800461h.html
+234842;A Midnight Mystery;Fergus Hume;May;2018;http://gutenberg.net.au/ebooks18/1800451h.html
+234826;The Yellow Hunchback;Fergus Hume;May;2018;http://gutenberg.net.au/ebooks18/1800441h.html
+234810;A Snobbish Story;F. Scott Fitzgerald;May;2018;http://gutenberg.net.au/ebooks18/1800431h.html
+234794;The Curse;Fergus Hume;May;2018;http://gutenberg.net.au/ebooks18/1800421h.html
+234778;Three Acts of Music;F. Scott Fitzgerald;May;2018;http://gutenberg.net.au/ebooks18/1800411h.html
+234650;The Lonely Church;Fergus Hume;May;2018;http://gutenberg.net.au/ebooks18/1800391h.html
+234634;Too Cute for Words;F. Scott Fitzgerald;May;2018;http://gutenberg.net.au/ebooks18/1800381h.html
+234618;The Disappearing Eye;Fergus Hume;May;2018;http://gutenberg.net.au/ebooks18/1800371h.html
+234586;Hot and Cold Blood;F. Scott Fitzgerald;May;2018;http://gutenberg.net.au/ebooks18/1800351h.html
+234570;The Adjuster;F. Scott Fitzgerald;May;2018;http://gutenberg.net.au/ebooks18/1800341h.html
+234554;George;Stacy Aumonier;May;2018;http://gutenberg.net.au/ebooks18/1800331h.html
+234522;Denis Dent;E. W. Hornung;May;2018;http://gutenberg.net.au/ebooks18/1800311h.html
+234394;The Thousandth Woman;E. W. Hornung;Apr;2018;http://gutenberg.net.au/ebooks18/1800291h.html
+234378;The Young Guard;E. W. Hornung;Apr;2018;http://gutenberg.net.au/ebooks18/1800281h.html
+234362;The Ballad of Ensign Joy;E. W. Hornung;Apr;2018;http://gutenberg.net.au/ebooks18/1800271h.html
+234330;Charles Reade;E. W. Hornung;Apr;2018;http://gutenberg.net.au/ebooks18/1800251h.html
+234266;The Rogue's March;E. W. Hornung;Apr;2018;http://gutenberg.net.au/ebooks18/1800211h.html
+234138;Witching Hill;E. W. Hornung;Mar;2018;http://gutenberg.net.au/ebooks18/1800191h.html
+234122;At Large;E. W. Hornung;Jan;2018;http://gutenberg.net.au/ebooks18/1800181h.html
+234106;The Iron Stair;Eliza Humphreys;Mar;2018;http://gutenberg.net.au/ebooks18/1800171h.html
+234090;Some Persons Unknown;E. W. Hornung;Mar;2018;http://gutenberg.net.au/ebooks18/1800161h.html
+234074;Peccavi;E. W. Hornung;Mar;2018;http://gutenberg.net.au/ebooks18/1800151h.html
+234058;Fathers of Men;E. W. Hornung;Mar;2018;http://gutenberg.net.au/ebooks18/1800141h.html
+234042;Behind Closed Doors;Anna Katharine Green;Feb;2018;http://gutenberg.net.au/ebooks18/1800131h.html
+234026;The Camera Fiend;E. W. Hornung;Feb;2018;http://gutenberg.net.au/ebooks18/1800121h.html
+234010;The Detective's Dream;Mary Fortune;Jan;2018;http://gutenberg.net.au/ebooks18/1800111h.html
+233882;Hereditary;Mary Fortune;Jan;2018;http://gutenberg.net.au/ebooks18/1800091h.html
+233850;Under Two Skies;E. W. Hornung;Jan;2018;http://gutenberg.net.au/ebooks18/1800071h.html
+233834;At the Pistol's Point;E. W. Hornung;Jan;2018;http://gutenberg.net.au/ebooks18/1800061h.html
+233802;The Shadow of the Rope;E. W. Hornung;Jan;2018;http://gutenberg.net.au/ebooks18/1800041h.html
+233786;The Belle of Toorak;E. W. Hornung;Jan;2018;http://gutenberg.net.au/ebooks18/1800031h.html
+233770;Irralie's Bushranger;E. W. Hornung;Jan;2018;http://gutenberg.net.au/ebooks18/1800021h.html
+233754;Dead Men Tell No Tales;E. W. Hornung;Jan;2018;http://gutenberg.net.au/ebooks18/1800011h.html
+231834;The Clock Struck One;Fergus Hume;Nov;2017;http://gutenberg.net.au/ebooks17/1701281h.html
+231818;Tiny Luttrell;E. W. Hornung;Nov;2017;http://gutenberg.net.au/ebooks17/1701271h.html
+231802;The Unlawful Adventure;Aidan de Brune;Nov;2017;http://gutenberg.net.au/ebooks17/1701261h.html
+231786;Stingaree;E. W. Hornung;Nov;2017;http://gutenberg.net.au/ebooks17/1701251h.html
+231770;The Dagger and Cord;Aidan de Brune;Nov;2017;http://gutenberg.net.au/ebooks17/1701241h.html
+231754;A Bride from the Bush;E. W. Hornung;Nov;2017;http://gutenberg.net.au/ebooks17/1701231h.html
+231722;Tracked by a Tattoo;Fergus Hume;Nov;2017;http://gutenberg.net.au/ebooks17/1701211h.html
+231706;The Red Bicycle;Fergus Hume;Nov;2017;http://gutenberg.net.au/ebooks17/1701201h.html
+231562;The Pursuits of Mr Peter Pell;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701171h.html
+231546;Lady Jim of Curzon Street;Fergus Hume;Oct;2017;http://gutenberg.net.au/ebooks17/1701161h.html
+231530;The Flirting Fool;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701151h.html
+231514;The Phantom Launch;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701141h.html
+231498;Dr. Night;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701131h.html
+231482;The Sacred Herb;Fergus Hume;Oct;2017;http://gutenberg.net.au/ebooks17/1701121h.html
+231466;Whom God Hath Joined;Fergus Hume;Oct;2017;http://gutenberg.net.au/ebooks17/1701111h.html
+231450;The Story of a Troll-Hunt;James McBryde;Oct;2017;http://gutenberg.net.au/ebooks17/1701101p.pdf
+231322;Find This Man;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701081h.html
+231306;Just a Woolly;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701071h.html
+231290;Whispering Death;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701061h.html
+231274;The Little Grey Woman;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701051h.html
+231258;The Five-Minute Murder;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701041h.html
+231194;The Carson Loan Mystery;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1701001h.html
+231066;Who Killed David Condon;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1700981h.html
+231050;Saul and the Spinster;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1700971h.html
+231034;The Fortune Telling House;Aidan de Brune;Sep;2017;http://gutenberg.net.au/ebooks17/1700961h.html
+231018;The League of Five;Aidan de Brune;Sep;2017;http://gutenberg.net.au/ebooks17/1700951h.html
+231002;The Grays Manor Mystery;Aidan de Brune;Sep;2017;http://gutenberg.net.au/ebooks17/1700941h.html
+230986;The Kahm Syndicate;Aidan de Brune;Sep;2017;http://gutenberg.net.au/ebooks17/1700931h.html
+230970;The Vanishing Of Tera;Fergus Hume;Sep;2017;http://gutenberg.net.au/ebooks17/1700921
+230954;The Silver Bullet;Fergus Hume;Sep;2017;http://gutenberg.net.au/ebooks17/1700911
+230938;Douchard's Island;Aidan de Brune;Sep;2017;http://gutenberg.net.au/ebooks17/1700901h.html
+230810;Room Number 3;Anna Katharine Green;Sep;2017;http://gutenberg.net.au/ebooks17/1700881h.html
+230794;Masterpieces of Mystery;Anna Katharine Green;Sep;2017;http://gutenberg.net.au/ebooks17/1700871h.html
+230778;The Shadow Crook;Aidan de Brune;Sep;2017;http://gutenberg.net.au/ebooks17/1700861h.html
+230762;For the Defence;Fergus Hume;Sep;2017;http://gutenberg.net.au/ebooks17/1700851h.html
+230746;Dark Hollow;Anna Katharine Green;Aug;2017;http://gutenberg.net.au/ebooks17/1700841h.html
+230730;Ten Australian Authors;Aidan de Brune;Aug;2017;http://gutenberg.net.au/ebooks17/1700831h.html
+230714;The Murders at Madlands;Aidan de Brune;Aug;2017;http://gutenberg.net.au/ebooks17/1700821h.html
+230698;The Red-Headed Man;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700811h.html
+230682;A Stroll Around Australia;Aidan de Brune;Aug;2017;http://gutenberg.net.au/ebooks17/1700801h.html
+230554;The Crimson Cryptogram;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700781h.html
+230538;The Black Patch;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700771h.html
+230506;The Chief Legatee;Anna Katharine Green;Aug;2017;http://gutenberg.net.au/ebooks17/1700751h.html
+230490;The Rainbow Feather;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700741h.html
+230474;Cynthia Wakeham's Money;Anna Katharine Green;Aug;2017;http://gutenberg.net.au/ebooks17/1700731h.html
+230458;The Wooden Hand;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700721h.html
+230442;The Defence of the Bride;Anna Katharine Green;Aug;2017;http://gutenberg.net.au/ebooks17/1700711h.html
+230426;The White Room;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700701h.html
+230298;The Seaside Girl;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700681h.html
+230282;Monsieur Judas;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700671h.html
+230266;The Amethyst Box;Anna Katharine Green;Jul;2017;http://gutenberg.net.au/ebooks17/1700661h.html
+230218;Seven to Twelve;Anna Katharine Green;Jul;2017;http://gutenberg.net.au/ebooks17/1700631h.html
+230202;The Forsaken Inn;Anna Katharine Green;Jul;2017;http://gutenberg.net.au/ebooks17/1700621h.html
+230186;The Sword of Damocles;Anna Katharine Green;Jul;2017;http://gutenberg.net.au/ebooks17/1700611h.html
+230170;A Creature of the Night;Fergus Hume;Jul;2017;http://gutenberg.net.au/ebooks17/1700601h.html
+230042;The Woman in the Alcove;Anna Katharine Green;Jul;2017;http://gutenberg.net.au/ebooks17/1700581h.html
+229994;The House in the Mist;Anna Katharine Green;Jun;2017;http://gutenberg.net.au/ebooks17/1700551h.html
+229978;Three Thousand Dollars;Anna Katharine Green;Jun;2017;http://gutenberg.net.au/ebooks17/1700541h.html
+229962;The Dancer in Red;Fergus Hume;Jun;2017;http://gutenberg.net.au/ebooks17/1700531h.html
+229946;Agatha Webb;Anna Katharine Green;Jun;2017;http://gutenberg.net.au/ebooks17/1700521h.html
+229930;Initials Only;Anna Katharine Green;Jun;2017;http://gutenberg.net.au/ebooks17/1700511h.html
+229914;Miss Mephistopheles;Fergus Hume;Jun;2017;http://gutenberg.net.au/ebooks17/1700501h.html
+229786;Loaded Dice and Other Stories;Rafael Sabatini;May;2017;http://gutenberg.net.au/ebooks17/1700481h.html
+229754;The Camisade;Rafael Sabatini;May;2017;http://gutenberg.net.au/ebooks17/1700461h.html
+229738;The Open Door;Rafael Sabatini;May;2017;http://gutenberg.net.au/ebooks17/1700451h.html
+229722;The Gamester;Rafael Sabatini;May;2017;http://gutenberg.net.au/ebooks17/1700441h.html
+229706;The Circular Study;Anna Katharine Green;May;2017;http://gutenberg.net.au/ebooks17/1700431h.html
+229690;Lost Man's Lane;Anna Katharine Green;May;2017;http://gutenberg.net.au/ebooks17/1700421h.html
+229674;The Man with a Secret;Fergus Hume;May;2017;http://gutenberg.net.au/ebooks17/1700411h.html
+229658;A Pit-brow Lassie;John Monk Foster;May;2017;http://gutenberg.net.au/ebooks17/1700401h.html
+227738;The Solitary Farm;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700281h.html
+227722;The Green Mummy;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700271h.html
+227706;The Opal Serpent;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700261h.html
+227690;The Mandarin's Fan;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700251h.html
+227674;The Red Window;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700241h.html
+227658;The Dwarf's Chamber;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700231h.html
+227642;A Coin of Edward VII;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700221h.html
+227626;The Pagan's Cup;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700211h.html
+227610;They See in Darkness;Ethel Lina White;Mar;2017;http://gutenberg.net.au/ebooks17/1700201h.html
+227466;The Elephant Never Forgets;Ethel Lina White;Mar;2017;http://gutenberg.net.au/ebooks17/1700181h.html
+227450;The First Time He Died;Ethel Lina White;Mar;2017;http://gutenberg.net.au/ebooks17/1700161h.html
+227434;A Woman's Burden;Fergus Hume;Mar;2017;http://gutenberg.net.au/ebooks17/1700151h.html
+227418;Midnight House;Ethel Lina White;Mar;2017;http://gutenberg.net.au/ebooks17/1700141h.html
+227402;The Lone Inn;Fergus Hume;Feb;2017;http://gutenberg.net.au/ebooks17/1700131h.html
+227386;The Bishop's Secret;Fergus Hume;Feb;2017;http://gutenberg.net.au/ebooks17/1700121h.html
+227354;The Silent House;Fergus Hume;Feb;2017;http://gutenberg.net.au/ebooks17/1700101h.html
+227226;The Harlequin Opal;Fergus Hume;Feb;2017;http://gutenberg.net.au/ebooks17/1700081h.html
+227210;Red Money;Fergus Hume;Feb;2017;http://gutenberg.net.au/ebooks17/1700071h.html
+227194;The Third Eye;Ethel Lina White;Feb;2017;http://gutenberg.net.au/ebooks17/1700061h.html
+227178;The Third Volume;Fergus Hume;Feb;2017;http://gutenberg.net.au/ebooks17/1700051h.html
+227162;The Secret Passage;Fergus Hume;Jan;2017;http://gutenberg.net.au/ebooks17/1700041h.html
+227146;Madame Midas;Fergus Hume;Jan;2017;http://gutenberg.net.au/ebooks17/1700031h.html
+227130;Six-Gun Gorilla;Anonymous;Jan;2017;http://gutenberg.net.au/ebooks17/1700021h.html
+226666;Abeniki Caldwell;Carolyn Wells;Dec;2016;http://gutenberg.net.au/ebooks16/1601251h.html
+226650;Newspaper Articles;Book 1, Edward S Sorenson;Dec;2016;http://gutenberg.net.au/ebooks16/1601241h.html
+226634;Feathers Left Around;Carolyn Wells;Dec;2016;http://gutenberg.net.au/ebooks16/1601231h.html
+226618;Faulkner's Folly;Carolyn Wells;Dec;2016;http://gutenberg.net.au/ebooks16/1601221h.html
+226602;The Matrimonial Bureau;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601211h.html
+226586;Christabel's Crystal;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601201h.html
+226458;Deep Lake Mystery;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601181h.html
+226442;The Vanishing of Betty Varian;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601171h.html
+226426;The Luminous Face;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601161h.html
+226410;The Come Back;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601151h.html
+226394;In the Onyx Lobby;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601141h.html
+226362;The Room With the Tassels;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601121h.html
+226346;The Mystery of the Sycamore;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601111h.html
+226330;The Mystery Girl;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601101h.html
+226202;Vicky Van;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601081h.html
+226186;The Mark of Cain;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601071h.html
+226170;The Curved Blades;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601061h.html
+226154;A Chain of Evidence;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601051h.html
+226138;Reaspberry Jam;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601041h.html
+226122;Where's Emily;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601031.html
+226106;Prillilgirl;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601021h.html
+226090;This Shining Woman;Marjorie Bowen;Nov;2016;http://gutenberg.net.au/ebooks16/1601011h.html
+226074;The Bride of a Moment;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601001h.html
+225946;The City of Sydney;John Arthur Barry;Oct;2016;http://gutenberg.net.au/ebooks16/1600981h.html
+225914;Four for a Fortune;Albert Lee;Oct;2016;http://gutenberg.net.au/ebooks16/1600961h.html
+225898;Track Athletics in Detail;Albert Lee;Sep;2016;http://gutenberg.net.au/ebooks16/1600951h.html
+225882;Tommy Toddles;Albert Lee;Sep;2016;http://gutenberg.net.au/ebooks16/1600941h.html
+225866;Spooky Hollow;Carolyn Wells;Sep;2016;http://gutenberg.net.au/ebooks16/1600931h.html
+225850;The Adventure of the Mona Lisa;Carolyn Wells;Sep;2016;http://gutenberg.net.au/ebooks16/1600921h.html
+225818;The Sealed Valley;Hulbert Footner;Aug;2016;http://gutenberg.net.au/ebooks16/1600901h.html
+225690;Jack Chanty;Hulbert Footner;Aug;2016;http://gutenberg.net.au/ebooks16/1600881h.html
+225674;Entertaining a Prince;Hulbert Footner;Aug;2016;http://gutenberg.net.au/ebooks16/1600871h.html
+225658;Ramshackle House;Hulbert Footner;Aug;2016;http://gutenberg.net.au/ebooks16/1600861h.html
+225642;Anybody But Anne;Carolyn Wells;Jul;2016;http://gutenberg.net.au/ebooks16/1600851h.html
+225594;A New Species;Robert Coutts Armour;Jul;2016;http://gutenberg.net.au/ebooks16/1600821h.html
+225578;De Profundis;Robert Coutts Armour;Jul;2016;http://gutenberg.net.au/ebooks16/1600811h.html
+225562;At the Fortunate Frog;Robert Coutts Armour;Jul;2016;http://gutenberg.net.au/ebooks16/1600801h.html
+223626;The Making of Americans;Gertrude Stein;May;2016;http://gutenberg.net.au/ebooks16/1600671h.html
+223610;Wild Harbour;Ian Macpherson;May;2016;http://gutenberg.net.au/ebooks16/1600661h.html
+223562;The Hand of saint Ury;Gordon MacCreagh;May;2016;http://gutenberg.net.au/ebooks16/1600631h.html
+223546;Matto Grosso Fury;Gordon MacCreagh;Apr;2016;http://gutenberg.net.au/ebooks16/1600621h.html
+223530;The Rider;Edgar Rice Burroughs;Apr;2016;http://gutenberg.net.au/ebooks16/1600611h.html
+223370;White Waters and Black;Gordon MacCreagh;Apr;2016;http://gutenberg.net.au/ebooks16/1600571h.html
+223338;If Animals had Their Way;Musette Morell;Mar;2016;http://gutenberg.net.au/ebooks16/1600551h.html
+223322;Presented Without Courtesy;Musette Morell;Mar;2016;http://gutenberg.net.au/ebooks16/1600541h.html
+223306;A Vision of Toyokuni;Arthur Morrison;Mar;2016;http://gutenberg.net.au/ebooks16/1600531h.html
+223290;Twelve Moons Cold;Lionel Shave;Mar;2016;http://gutenberg.net.au/ebooks16/1600521h.html
+223274;The Resignation of Mr. Bagsworth;Lionel Shave;Mar;2016;http://gutenberg.net.au/ebooks16/1600511h.html
+223130;As Far as They Had Got;Arthur Morrison;Mar;2016;http://gutenberg.net.au/ebooks16/1600481h.html
+223114;Over The Straits;Louisa Anne Meredith;Mar;2016;http://gutenberg.net.au/ebooks16/1600471h.html
+223098;That's Murder;Lionel Shave;Mar;2016;http://gutenberg.net.au/ebooks16/1600461h.html
+223082;Red and Gold;Lionel Shave;Mar;2016;http://gutenberg.net.au/ebooks16/1600451h.html
+223066;A Sirius Cove;Lionel Shave;Mar;2016;http://gutenberg.net.au/ebooks16/1600441h.html
+223050;Dr. Muncing;Exorcist, Gordon MacCreagh;Mar;2016;http://gutenberg.net.au/ebooks16/1600431h.html
+223034;Even the Birds of the Air;Musette Morell;Mar;2016;http://gutenberg.net.au/ebooks16/1600421h.html
+223002;The Better Road;Musette Morell;Mar;2016;http://gutenberg.net.au/ebooks16/1600401h.html
+222874;Remember Caesar;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600381h.html
+222858;Clarion Call;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600371h.html
+222842;Three Mrs. Madderleys;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600361h.html
+222826;Mrs. Fry Has A Visitor;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600351h.html
+222810;Sara;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600341h.html
+222794;The Mother Of Mase;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600331h.html
+222778;Rahab;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600321h.html
+222762;Leith Sands;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600311h.html
+222746;The Staff-Room;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600301h.html
+222618;Reckoning;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600281h.html
+222602;Lady Charing is Cross;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600271h.html
+222586;Doc Turner;Devil Fighter, Arthur Leo Zagat;Mar;2016;http://gutenberg.net.au/ebooks16/1600261h.html
+222570;Barnharrow;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600251h.html
+222554;Webs of Our Weaving;Musette Morell;Mar;2016;http://gutenberg.net.au/ebooks16/1600241h.html
+222538;The Shakespeare Murders;A. G. Macdonell;Mar;2016;http://gutenberg.net.au/ebooks16/1600231h.html
+222362;The Half-Crown Princess;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600181h.html
+222346;The Egg of the Little Auk;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600171h.html
+222330;Sleeping Partner;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600161h.html
+222314;Rose of the Desert;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600151h.html
+222298;For Value Received;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600141h.html
+222282;By Wireless;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600131h.html
+222266;Big Fish;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600121h.html
+222250;An Object Lesson;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600111h.html
+222234;A Foster Father;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600101h.html
+222106;The Camford Visitation;H. G. Wells;Feb;2016;http://gutenberg.net.au/ebooks16/1600081h.html
+222090;Sir Knight of the Splendid Way;W. E. Cule;Feb;2016;http://gutenberg.net.au/ebooks16/1600071h.html
+222026;The Life and Adventures of John Nicol;Mariner;Jan;2016;http://gutenberg.net.au/ebooks16/1600031h.html
+222010;Death's Mannikins;Max Afford;Jan;2016;http://gutenberg.net.au/ebooks16/1600021h.html
+221994;Owl of Darkness;Max Afford;Jan;2016;http://gutenberg.net.au/ebooks16/1600011h.html
+221978;The Spectral Bride;Marjorie Bowen;Dec;2015;http://gutenberg.net.au/ebooks15/1501291h.html
+221850;Blood on His Hands;Max Afford;Nov;2015;http://gutenberg.net.au/ebooks15/1501271h.html
+221834;The Dead are Blind;Max Afford;Nov;2015;http://gutenberg.net.au/ebooks15/1501261h.html
+221818;The Crystal Beads Murder;Annie Haynes;Nov;2015;http://gutenberg.net.au/ebooks15/1501251h.html
+221802;Who Killed Charmian Karslake?;Annie Haynes;Nov;2015;http://gutenberg.net.au/ebooks15/1501241h.html
+221786;The Man with the Dark Beard;Annie Haynes;Nov;2015;http://gutenberg.net.au/ebooks15/1501231h.html
+221770;The Crime at Tattenham Corner;Annie Haynes;Nov;2015;http://gutenberg.net.au/ebooks15/1501221h.html
+221754;The House in Charlton Crescent;Annie Haynes;Nov;2015;http://gutenberg.net.au/ebooks15/1501211h.html
+221738;The Factory on the Cliff;A. G. Macdonnell;Nov;2015;http://gutenberg.net.au/ebooks15/1501201h.html
+221722;The Crow's Inn Tragedy;Annie Haynes;Nov;2015;http://gutenberg.net.au/ebooks15/1501191h.html
+221594;The Sheep and the Wolves;Malcolm Afford;Nov;2015;http://gutenberg.net.au/ebooks15/1501171h.html
+221578;The Happy Couple;Malcolm Afford;Nov;2015;http://gutenberg.net.au/ebooks15/1501161h.html
+221562;Poison Can Be Puzzling;Malcolm Afford;Nov;2015;http://gutenberg.net.au/ebooks15/1501151h.html
+221546;Sinners in Paradise;Malcolm Afford;Nov;2015;http://gutenberg.net.au/ebooks15/1501141h.html
+221530;The God in the Bowl;Robert Ervin Howard;Nov;2015;http://gutenberg.net.au/ebooks15/1501131h.html
+221514;The Black Stranger;Robert Ervin Howard;Nov;2015;http://gutenberg.net.au/ebooks15/1501121h.html
+221466;Jacqueline;Marjorie Bowen;Nov;2015;http://gutenberg.net.au/ebooks15/1501091h.html
+219546;Canyon Walls;Zane Grey;Sep;2015;http://gutenberg.net.au/ebooks15/1500971h.html
+219530;The Man from Mustang;Max Brand;Sep;2015;http://gutenberg.net.au/ebooks15/1500961h.html
+219514;The Secret of Dr Kildare;Max Brand;Sep;2015;http://gutenberg.net.au/ebooks15/1500951h.html
+219498;Out There;Dick Donovan;Sep;2015;http://gutenberg.net.au/ebooks15/1500941h.html
+219482;Tracked to Doom;Dick Donovan;Sep;2015;http://gutenberg.net.au/ebooks15/1500931h.html
+219466;Internes Can't Take Money;Max Brand;Sep;2015;http://gutenberg.net.au/ebooks15/1500921h.html
+219450;Two Darton Stories;E. Phillips Oppenheim;Sep;2015;http://gutenberg.net.au/ebooks15/1500911h.html
+219290;The Follies of Youth;Marjorie Bowen;Aug;2015;http://gutenberg.net.au/ebooks15/1500871h.html
+219274;The Anatomy of Frustration;H. G. Wells;Aug;2015;http://gutenberg.net.au/ebooks15/1500861h.html
+219258;The Caspak Trilogy;Edgar Rice Burroughs;Aug;2015;http://gutenberg.net.au/ebooks15/1500851h.html
+219242;Collected Verse;Edward S Sorenson;Aug;2015;http://gutenberg.net.au/ebooks15/1500841h.html
+219226;The Guide;A. E. W. Mason;Aug;2015;http://gutenberg.net.au/ebooks15/1500831h.html
+219210;The Man-Eater;Edgar Rice Burroughs;Jul;2015;http://gutenberg.net.au/ebooks15/1500821h.html
+219178;The Horse Thief;Zane Grey;Jul;2015;http://gutenberg.net.au/ebooks15/1500801h.html
+219162;Beltarbet's Pride;Marjorie Bowen;Jul;2015;http://gutenberg.net.au/ebooks15/1500791h.html
+219034;Sunset Pass;Zane Grey;Jul;2015;http://gutenberg.net.au/ebooks15/1500771h.html
+219018;Majesty's Rancho;Zane Grey;Jul;2015;http://gutenberg.net.au/ebooks15/1500761h.html
+219002;Nobby on Getting Commissions;Edgar Wallace;Jun;2015;http://gutenberg.net.au/ebooks15/1500751h.html
+218986;Jam for the Enemy;Edgar Wallace;Jun;2015;http://gutenberg.net.au/ebooks15/1500741h.html
+218922;Scientific War;H. G. Wells;Jun;2015;http://gutenberg.net.au/ebooks15/1500701h.html
+218762;Netta;Fred Merrick White;Jun;2015;http://gutenberg.net.au/ebooks15/1500661h.html
+218746;One Blow for Russia;Edgar Wallace;Jun;2015;http://gutenberg.net.au/ebooks15/1500651h.html
+218730;Saga of Halfred the Sigskald;Felix Dahn;May;2015;http://gutenberg.net.au/ebooks15/1500641h.html
+218714;The Scarlet Banner;Felix Dahn;May;2015;http://gutenberg.net.au/ebooks15/1500631h.html
+218698;Felicitas;Felix Dahn;May;2015;http://gutenberg.net.au/ebooks15/1500621h.html
+218682;A Struggle for Rome;Vol. 3, Felix Dahn;May;2015;http://gutenberg.net.au/ebooks15/1500611h.html
+218666;A Struggle for Rome;Vol. 2, Felix Dahn;May;2015;http://gutenberg.net.au/ebooks15/1500601h.html
+218650;A Struggle for Rome;Vol. 1, Felix Dahn;May;2015;http://gutenberg.net.au/ebooks15/1500591h.html
+218522;Little Wars;H. G. Wells;May;2015;http://gutenberg.net.au/ebooks15/1500571h.html
+218506;Floor Games;H. G. Wells;May;2015;http://gutenberg.net.au/ebooks15/1500561h.html
+218490;The world of William Clissold;H. G. Wells;May;2015;http://gutenberg.net.au/ebooks15/1500551h.html
+218458;The Whisperer in Darkness;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500531h.html
+218442;The Thing On The Doorstep;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500521h.html
+218426;The Shadow Over Innsmouth;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500511h.html
+218410;The Shadow Out of Time;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500501h.html
+218394;The Nameless City;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500491h.html
+218266;The Haunter of the Dark;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500471h.html
+218250;The Festival;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500461h.html
+218234;The Dunwich Horror;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500451h.html
+218218;The Dreams in the Witch-House;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500441h.html
+218202;The Shunned House;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500431h.html
+218186;The Colour Out of Space;H. P. Lovecraft;Apr;2015;http://gutenberg.net.au/ebooks15/1500421h.html
+218154;The Call of Cthulhu;H. P. Lovecraft;Apr;2015;http://gutenberg.net.au/ebooks15/1500401h.html
+218138;Zig-Zags at the Zoo;Arthur Morrison;Apr;2015;http://gutenberg.net.au/ebooks15/1500391h.html
+218010;The Viper;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500371h.html
+217994;Putting Crime Over;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500361h.html
+217978;The Richest Widow;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500351h.html
+217962;The Casual Murderer;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500341h.html
+217946;The Gringos;B. M. Bower;Mar;2015;http://gutenberg.net.au/ebooks15/1500331h.html
+217930;Casey Ryan;B. M. Bower;Mar;2015;http://gutenberg.net.au/ebooks15/1500321h.html
+217914;The Handsome Young Men;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500311h.html
+217898;Dangerous Cargo;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500301h.html
+217882;Time Out of Mind;Rachel Field;Mar;2015;http://gutenberg.net.au/ebooks15/1500291h.html
+217754;Points West;B. M. Bower;Mar;2015;http://gutenberg.net.au/ebooks15/1500271h.html
+217738;Man in Chains;Warwick Deeping;Mar;2015;http://gutenberg.net.au/ebooks15/1500261h.html
+217722;Tiger Eye;B. M. Bower;Mar;2015;http://gutenberg.net.au/ebooks15/1500251h.html
+217706;Rodeo;B. M. Bower;Mar;2015;http://gutenberg.net.au/ebooks15/1500241h.html
+217674;The Moment and Other Essays;Virginia Woolf;Mar;2015;http://gutenberg.net.au/ebooks15/1500221h.html
+217658;I Recall;Robert Henderson Croll;Mar;2015;http://gutenberg.net.au/ebooks15/1500211h.html
+217642;The Doctor Who Held Hands;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500201h.html
+217626;The Almost Perfect Murder;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500191h.html
+217498;The Velvet Hand;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500171h.html
+217482;The Under Dogs;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500161h.html
+217434;Murty Brown;Edward S. Sorenson;Feb;2015;http://gutenberg.net.au/ebooks15/1500131h.html
+217386;Chips and Splinters;Edward S Sorenson;Feb;2015;http://gutenberg.net.au/ebooks15/1500101h.html
+217370;The Duchess of Coolgardie;Euston Leigh;Feb;2015;http://gutenberg.net.au/ebooks15/1500091h.html
+215450;Green Ginger;Arthur Morrison;Jan;2014;http://gutenberg.net.au/ebooks14/1403411h.html
+215434;The Parowan Bonanza;B. M. Bower;Dec;2014;http://gutenberg.net.au/ebooks14/1403401h.html
+215418;The Flying U Strikes;B. M. Bower;Dec;2014;http://gutenberg.net.au/ebooks14/1403391h.html
+215402;Hay-Wire;B. M. Bower;Dec;2014;http://gutenberg.net.au/ebooks14/1403381h.html
+215386;Fool's Goal;B. M. Bower;Dec;2014;http://gutenberg.net.au/ebooks14/1403371h.html
+215370;Chip of the Flying U;B. M. Bower;Dec;2014;http://gutenberg.net.au/ebooks14/1403361h.html
+215354;Fires Burn Blue;Andrew Caldecott;Dec;2014;http://gutenberg.net.au/ebooks14/1403351h.html
+215338;Not Exactly Ghosts;Andrew Caldecott;Dec;2014;http://gutenberg.net.au/ebooks14/1403341h.html
+215322;The Byzantine Achievement;Robert Byron;Dec;2014;http://gutenberg.net.au/ebooks14/1403331h.html
+215194;The Station;Robert Byron;Dec;2014;http://gutenberg.net.au/ebooks14/1403311h.html
+215178;The Road to Oxiana;Robert Byron;Dec;2014;http://gutenberg.net.au/ebooks14/1403301h.html
+215162;Anne of Avonlea;Lucy Maud Montgomery;Dec;2014;http://gutenberg.net.au/ebooks14/1403291h.html
+215146;Anne of the Island;Lucy Maud Montgomery;Dec;2014;http://gutenberg.net.au/ebooks14/1403281h.html
+215114;Last Post;Ford Madox Ford;Dec;2014;http://gutenberg.net.au/ebooks14/1403261h.html
+215098;The Dorrington Deed Box;Arthur Morrison;Dec;2014;http://gutenberg.net.au/ebooks14/1403251h.html
+215082;Adventures of Martin Hewitt;Arthur Morrison;Dec;2014;http://gutenberg.net.au/ebooks14/1403241h.html
+215066;All This and Heaven Too;Rachel Field;Dec;2014;http://gutenberg.net.au/ebooks14/1403231h.html
+214938;The Green Eye of Goona;Arthur Morrison;Dec;2014;http://gutenberg.net.au/ebooks14/1403211h.html
+214922;The Red Triangle;Arthur Morrison;Dec;2014;http://gutenberg.net.au/ebooks14/1403201h.html
+214906;Tales of Swordfish and Tuna;Zane Grey;Dec;2014;http://gutenberg.net.au/ebooks14/1403191h.html
+214890;Tales Of Fishing Virgin Seas;Zane Grey;Dec;2014;http://gutenberg.net.au/ebooks14/1403181h.html
+214858;Men;Women and Boats, Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403161h.html
+214842;Last words;Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403151h.html
+214810;Roping Lions in the Grand Canyon;Zane Grey;Dec;2014;http://gutenberg.net.au/ebooks14/1403131h.html
+214682;Wounds in the Rain;Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403111h.html
+214666;The O'Ruddy;Stephen Crane and Robert Barr;Dec;2014;http://gutenberg.net.au/ebooks14/1403101h.html
+214650;Active Service;Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403091h.html
+214634;The Third Violet;Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403081h.html
+214618;The Little Regiment;Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403071h.html
+214602;Great Battles of the World;Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403061h.html
+214426;Flighty Phyllis;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1403011h.html
+214410;The Golden Pool;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1403001h.html
+214378;The Singing Bone;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402981.html
+214362;The Puzzle Lock;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402971.html
+214346;The Missing Mortgagee;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402961.html
+214330;The Magic Casket;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402951.html
+214314;Percival Bland's Proxy;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402941.html
+214298;John Thorndyke's Cases;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402931.html
+214154;The Land of Gold;Julius M. Price;Nov;2014;http://gutenberg.net.au/ebooks14/1402901h.html
+214138;The Unwilling Adventurer;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402891h.html
+214122;From a Surgeon's Diary;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402881h.html
+214090;Knocking Round;John Le Gay Brereton;Nov;2014;http://gutenberg.net.au/ebooks14/1402861h.html
+214042;Along the Track;Robert Henderson Croll;Nov;2014;http://gutenberg.net.au/ebooks14/1402831h.html
+213882;Wonderful Walks in Victoria;Anonymous;Oct;2014;http://gutenberg.net.au/ebooks14/1402791h.html
+213642;A Message from the Flood;Fred Merrick White;Oct;2014;http://gutenberg.net.au/ebooks14/1402701h.html
+213578;The Gaunt Stranger;Edgar Wallace;Oct;2014;http://gutenberg.net.au/ebooks14/1402661h.html
+213370;The Pawky Scot;Graham Moffat;Sep;2014;http://gutenberg.net.au/ebooks14/1402591h.html
+213322;Shadowed Gold;Alice Fox Parry;Sep;2014;http://gutenberg.net.au/ebooks14/1402561h.html
+213306;By Order of the League;Fred Merrick White;Sep;2014;http://gutenberg.net.au/ebooks14/1402551h.html
+213290;The Evil That Men Do;M. P. Shiel;Sep;2014;http://gutenberg.net.au/ebooks14/1402541h.html
+211322;No Way Home;Marjorie Bowen;Jul;2014;http://gutenberg.net.au/ebooks14/1402391h.html
+211274;From Man to Man;Olive Schreiner;Jun;2014;http://gutenberg.net.au/ebooks14/1402361h.html
+211258;The Two Carnations;Marjorie Bowen;Jun;2014;http://gutenberg.net.au/ebooks14/1402351h.html
+211242;Lovers' Knots;Marjorie Bowen;Jun;2014;http://gutenberg.net.au/ebooks14/1402341h.html
+211098;Mr. Misfortunate;Marjorie Bowen;Jun;2014;http://gutenberg.net.au/ebooks14/1402311h.html
+211082;Some Famous Love Letters;Marjorie Bowen;Jun;2014;http://gutenberg.net.au/ebooks14/1402301h.html
+211066;Exploration of the North-West Coast of Australia;;Jun;2014;1863, by Charles Cooke Hunt and Joseph Beete Ridley
+210986;Crowns And Sceptres;Marjorie Bowen;May;2014;http://gutenberg.net.au/ebooks14/1402241h.html
+210810;Wax;Ethel Lina White;May;2014;http://gutenberg.net.au/ebooks14/1402191h.html
+210794;Cheese;Ethel Lina White;May;2014;http://gutenberg.net.au/ebooks14/1402181h.html
+210714;The Sword Decides;Marjorie Bowen;May;2014;http://gutenberg.net.au/ebooks14/1402131h.html
+210570;Fear Stalks the Village;Ethel Lina White;May;2014;http://gutenberg.net.au/ebooks14/1402101h.html
+210554;Edgar Wallace—Each Way;Robert George Curtis;May;2014;http://gutenberg.net.au/ebooks14/1402091h.html
+210490;Honor Bright;Max Brand;May;2014;http://gutenberg.net.au/ebooks14/1402051h.html
+210474;Step in the Dark;Ethel Lina White;May;2014;http://gutenberg.net.au/ebooks14/1402041h.html
+210458;While She Sleeps;Ethel Lina White;May;2014;http://gutenberg.net.au/ebooks14/1402031h.html
+210330;The Price a Woman Pays;Edgar Wallace;May;2014;http://gutenberg.net.au/ebooks14/1402011h.html
+210314;The Rake's Progress;Marjorie Bowen;May;2014;http://gutenberg.net.au/ebooks14/1402001h.html
+210298;Ancient Rome;Robert Franklin Pennell;May;2014;http://gutenberg.net.au/ebooks14/1401991h.html
+210250;The German War;A. Conan Doyle;May;2014;http://gutenberg.net.au/ebooks14/1401961h.html
+210218;Scaramouche (UK edition);Rafael Sabatini;May;2014;http://gutenberg.net.au/ebooks14/1401941h.html
+210202;The Red Peri;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401931.html
+210074;The New Adam;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401911.html
+210058;The Dark Other;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401901.html
+210042;The Black Flame;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401891.html
+210026;Smothered Seas;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401881.html
+210010;Graph;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401871.html
+209994;Flight on Titan;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401861.html
+209978;Collected Short Fiction;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401851.html
+209946;The Chobham Affair;Edgar Wallace;Apr;2014;http://gutenberg.net.au/ebooks14/1401831h.html
+209818;The King;Max Brand;Apr;2014;http://gutenberg.net.au/ebooks14/1401811h.html
+209802;The Black Rider;Max Brand;Apr;2014;http://gutenberg.net.au/ebooks14/1401801h.html
+209786;When the Tsar Came;Edgar Wallace;Apr;2014;http://gutenberg.net.au/ebooks14/1401791h.html
+209770;The Speed Test;Edgar Wallace;Apr;2014;http://gutenberg.net.au/ebooks14/1401781h.html
+209754;Yonder's Henry;Thorne Smith;Apr;2014;http://gutenberg.net.au/ebooks14/1401771h.html
+209738;Did She Fall;Thorne Smith;Apr;2014;http://gutenberg.net.au/ebooks14/1401761h.html
+209722;Birthday Present;Thorne Smith;Apr;2014;http://gutenberg.net.au/ebooks14/1401751h.html
+209706;Biltmore Oswald;Thorne Smith;Apr;2014;http://gutenberg.net.au/ebooks14/1401741h.html
+209562;Stories from the History of Rome;Emily Beesly;Apr;2014;http://gutenberg.net.au/ebooks14/1401711h.html
+209530;Valley of Vanishing Men;Max Brand;Apr;2014;http://gutenberg.net.au/ebooks14/1401691h.html
+209514;Melba: A Biography;Agnes G. Murphy;Apr;2014;http://gutenberg.net.au/ebooks14/1401681h.html
+209498;The Roman Traitor;Henry William Herbert;Apr;2014;http://gutenberg.net.au/ebooks14/1401671h.html
+209482;John Ovington Returns;Max Brand;Apr;2014;http://gutenberg.net.au/ebooks14/1401661h.html
+209466;Margaret of Anjou;Jacob Abbott;Apr;2014;http://gutenberg.net.au/ebooks14/1401651h.html
+209434;Phalaenopsis Gloriosa;Edgar Wallace;Apr;2014;http://gutenberg.net.au/ebooks14/1401631h.html
+209306;Mignonette;Marjorie Bowen;Apr;2014;http://gutenberg.net.au/ebooks14/1401611h.html
+209290;The Bat King;James Hilton;Apr;2014;http://gutenberg.net.au/ebooks14/1401601h.html
+209274;Genghis Khan;Jacob Abbott;Apr;2014;http://gutenberg.net.au/ebooks14/1401591h.html
+209258;Peter the Great;Jacob Abbott;Apr;2014;http://gutenberg.net.au/ebooks14/1401581h.html
+209226;The Lost King;Rafael Sabatini;Apr;2014;http://gutenberg.net.au/ebooks14/1401561h.html
+209210;The Dragon of Kao Tsu;Robert Ervin Howard;Apr;2014;http://gutenberg.net.au/ebooks14/1401551h.html
+209194;Richard the Third;Jacob Abbott;Apr;2014;http://gutenberg.net.au/ebooks14/1401541h.html
+209178;Richard the Second;Jacob Abbott;Apr;2014;http://gutenberg.net.au/ebooks14/1401531h.html
+207258;Silanus the Christian;Edwin A. Abbott;Mar;2014;http://gutenberg.net.au/ebooks14/1401411h.html
+207210;Neaera—A Tale of Ancient Rome;John W Graham;Mar;2014;http://gutenberg.net.au/ebooks14/1401381h.html
+207194;The Battling Pacifist;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401371h.html
+207178;The Actor's Romance;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401361h.html
+207162;So Evil My Love;Marjorie Bowen;Mar;2014;http://gutenberg.net.au/ebooks14/1401351h.html
+207146;The Coroner's Dilemma;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401341h.html
+207002;With a Dash;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401311h.html
+206954;The Dancing Gentleman;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401281h.html
+206938;The Tyrant;Rafael Sabatini;Mar;2014;http://gutenberg.net.au/ebooks14/1401271h.html
+206922;The Lion's Brood;Duffield Osborne;Mar;2014;http://gutenberg.net.au/ebooks14/1401261h.html
+206906;The Siren of the Madrid;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401251h.html
+206890;The Last Days of Pompeii;Edward Bulwer-Lytton;Mar;2014;http://gutenberg.net.au/ebooks14/1401241h.html
+206874;The Ninety-Ninth Thread;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401231h.html
+206746;The Dumb Gods Speak;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401211h.html
+206730;No Questions Asked;E, Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401201h.html
+206714;Hypatia;Charles Kingsley;Mar;2014;http://gutenberg.net.au/ebooks14/1401191h.html
+206698;The Failure;James Hilton;Mar;2014;http://gutenberg.net.au/ebooks14/1401181h.html
+206682;Going;Going, Gone!, E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401171h.html
+206666;The Reaping;Rafael Sabatini;Mar;2014;http://gutenberg.net.au/ebooks14/1401161h.html
+206650;Sir Adam Disappeared;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401151h.html
+206634;Album Leaf;Marjorie Bowen;Mar;2014;http://gutenberg.net.au/ebooks14/1401141h.html
+206490;The Crook in Crimson;Edgar Wallace;Mar;2014;http://gutenberg.net.au/ebooks14/1401111h.html
+206474;The Guv'nor and Other Stories;Edgar Wallace;Mar;2014;http://gutenberg.net.au/ebooks14/1401101h.html
+206442;The Inmperfect Crime;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401081h.html
+206426;The Lost Ambassador;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401071h.html
+206394;In the Strongroom;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401051h.html
+206378;Drink We Deep;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1401041h.html
+206362;Her Birthday;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1401031h.html
+206234;The Vampire of Wembley;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1401011h.html
+206218;The Suburban Lothario;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1401001h.html
+206186;The Spy Who Sold Death;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400981.html
+206170;Second Hand Death;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400971.html
+206154;Red Finger Spy Poison;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400961.html
+206122;Red Finger Meets His Match;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400941.html
+206106;Red Finger Death Dealer;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400931.html
+205978;Envoy of Doom;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400911.html
+205962;Death's Toy Shop;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400901.html
+205946;Death's Red Finger;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400891.html
+205930;Death Rides the Sound;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400881.html
+205914;Caged Horror;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400871.html
+205898;Venus Mines Incorporated;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400861h.html
+205882;The Two Moons of Tranquillia;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400851h.html
+205866;Good-bye;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400841h.html
+205850;Richard Bruce—Burglar;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400831h.html
+205722;Lost in Time;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400811h.html
+205706;No Escape from Destiny;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400801h.html
+205690;Pyrrhus;Jacob Abbott;Feb;2014;http://gutenberg.net.au/ebooks14/1400791h.html
+205626;The Man Who Shot the Favourite;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400751h.html
+205610;The Girl who Won at Epsom;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400741h.html
+205594;The Derby Favourite;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400731h.html
+205466;The Caretaker in Charge;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400711h.html
+205450;Blooming Aloes;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400701h.html
+205434;A Raid on a Gambling Hell;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400691h.html
+205418;Memories and Adventures;A. Conan Doyle;Feb;2014;http://gutenberg.net.au/ebooks14/1400681h.html
+205402;The House of the Candles;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400671h.html
+205386;The Get-Back;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400661h.html
+205370;The Little Dragon of Jade;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400651h.html
+205354;Sentry No. 1;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400641h.html
+205338;New Guinea;Charles Lyne;Feb;2014;http://gutenberg.net.au/ebooks14/1400631h.html
+205210;Nero;Jacob Abbott;Feb;2014;http://gutenberg.net.au/ebooks14/1400611h.html
+205194;Romulus;Jacob Abbott;Feb;2014;http://gutenberg.net.au/ebooks14/1400601h.html
+205178;Cleopatra;Jacob Abbott;Feb;2014;http://gutenberg.net.au/ebooks14/1400591h.html
+205162;Darius the Great;Jacob Abbott;Feb;2014;http://gutenberg.net.au/ebooks14/1400581h.html
+205146;Cyrus the Great;Jacob Abbott;Feb;2014;http://gutenberg.net.au/ebooks14/1400571h.html
+205114;Xerxes;Jacob Abbott;Jan;2014;http://gutenberg.net.au/ebooks14/1400551h.html
+205098;William the Conqueror;Jacob Abbott;Jan;2014;http://gutenberg.net.au/ebooks14/1400541h.html
+205082;Queen Elizabeth;Jacob Abbott;Jan;2014;http://gutenberg.net.au/ebooks14/1400531h.html
+202874;The Yellow Box;Edgar Wallace;Jan;2014;http://gutenberg.net.au/ebooks14/1400291h.html
+202858;The Bravo of London;Ernest Bramah;Jan;2014;http://gutenberg.net.au/ebooks14/1400281h.html
+202842;William by the Grace of God;Marjorie Bowen;Jan;2014;http://gutenberg.net.au/ebooks14/1400271h.html
+202810;Stranger from Smallness;Otis Adelbert Kline;Jan;2014;http://gutenberg.net.au/ebooks14/1400251h.html
+202794;History of Queensland;Vol. 1, William Coote;Jan;2014;http://gutenberg.net.au/ebooks14/1400241h.html
+202650;A Victor of Salamis;William Stearns Davis;Jan;2014;http://gutenberg.net.au/ebooks14/1400211h.html
+202634;A Friend of Caesar;William Stearns Davis;Jan;2014;http://gutenberg.net.au/ebooks14/1400201h.html
+202602;Scholar Gispies;John Buchan;Jan;2014;http://gutenberg.net.au/ebooks14/1400181h.html
+202586;Kitchener's Army;Edgar Wallace;Jan;2014;http://gutenberg.net.au/ebooks14/1400171h.html
+202570;Grey Weather;John Buchan;Jan;2014;http://gutenberg.net.au/ebooks14/1400161h.html
+202554;The Trial of the Seddons;Edgar Wallace;Jan;2014;http://gutenberg.net.au/ebooks14/1400151h.html
+202538;The Secret of the Moat Farm;Edgar Wallace;Jan;2014;http://gutenberg.net.au/ebooks14/1400141h.html
+202522;The Murder on Yarmouth Sands;Edgar Wallace;Jan;2014;http://gutenberg.net.au/ebooks14/1400131h.html
+202282;The Lady and the Arsenic;Marjorie Bowen;Jan;2014;http://gutenberg.net.au/ebooks14/1400041h.html
+202266;Charlotte Bronte;E. F. Benson;Jan;2014;http://gutenberg.net.au/ebooks14/1400031h.html
+202138;Jim Brent;Sapper;Jan;2014;http://gutenberg.net.au/ebooks14/1400011h.html
+202122;Through the Magic Door;Arthur Conan Doyle;Dec;2013;http://gutenberg.net.au/ebooks13/1307011h.html
+202090;The Duello in France;Arthur Conan Doyle;Dec;2013;http://gutenberg.net.au/ebooks13/1306991h.html
+202058;Life on a Greenland Whaler;Arthur Conan Doyle;Dec;2013;http://gutenberg.net.au/ebooks13/1306971h.html
+202042;Juvenilia;Arthur Conan Doyle;Dec;2013;http://gutenberg.net.au/ebooks13/1306961h.html
+201866;Empress Octavia;Wilhelm Walloth;Dec;2013;http://gutenberg.net.au/ebooks13/1306911h.html
+201850;The Broom-Squire;Sabine Baring-Gould;Dec;2013;http://gutenberg.net.au/ebooks13/1306901h.html
+201834;The Book of Were-Wolves;Sabine Baring-Gould;Dec;2013;http://gutenberg.net.au/ebooks13/1306891h.html
+201818;Perpetua;Sabine Baring-Gould;Dec;2013;http://gutenberg.net.au/ebooks13/1306881h.html
+201802;Pabo the Priest;Sabine Baring-Gould;Dec;2013;http://gutenberg.net.au/ebooks13/1306871h.html
+201754;In the Roar of the Sea;Sabine Baring-Gould;Dec;2013;http://gutenberg.net.au/ebooks13/1306841h.html
+201610;Domitia;Sabine Baring-Gould;Dec;2013;http://gutenberg.net.au/ebooks13/1306811h.html
+201562;A Book of Ghosts;Sabine Baring-Gould;Dec;2013;http://gutenberg.net.au/ebooks13/1306781h.html
+201546;One Night in Somerset;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306771h.html
+201498;Before Witnesses;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306741h.html
+201370;The Mouthpiece;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306721h.html
+201354;The Table;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306711h.html
+201338;The Man who Changed his Name;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306701h.html
+201290;Gathering Clouds;Frederic W. Farrar;Dec;2013;http://gutenberg.net.au/ebooks13/1306671h.html
+201274;Eric;or Little by Little, Frederic W. Farrar;Dec;2013;http://gutenberg.net.au/ebooks13/1306661h.html
+201258;Darkness and Dawn;Frederic W. Farrar;Dec;2013;http://gutenberg.net.au/ebooks13/1306651h.html
+201098;Army Reform;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306611h.html
+201066;Sanctuary Island;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306591h.html
+201050;Smoky Cell;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306581h.html
+201018;The Green Pack;Edgar Wallace;Nov;2013;http://gutenberg.net.au/ebooks13/1306561h.html
+201002;The Earl of Nowhere;Edgar Wallace;Nov;2013;http://gutenberg.net.au/ebooks13/1306551h.html
+170362;The Thief in the Night;Edgar Wallace;Sep;2013;http://gutenberg.net.au/ebooks13/1305401h.html
+170346;The Mixer;Edgar Wallace;Sep;2013;http://gutenberg.net.au/ebooks13/1305391h.html
+170330;The Mystery of the Downs;Arthur J. Rees;Sep;2013;http://gutenberg.net.au/ebooks13/1305381h.html
+170314;The Duel on the Beach;Rafael Sabatini;Sep;2013;http://gutenberg.net.au/ebooks13/1305371h.html
+170298;Elegant Edward;Edgar Wallace;Sep;2013;http://gutenberg.net.au/ebooks13/1305361h.html
+170282;Out of the Blue;Sapper;Sep;2013;http://gutenberg.net.au/ebooks13/1305351h.html
+170266;The Cardinal Moth;Fred Merrick White;Sep;2013;http://gutenberg.net.au/ebooks13/1305341h.html
+170122;The Dinner Club;Sapper;Sep;2013;http://gutenberg.net.au/ebooks13/1305311h.html
+170058;Australasiatic Reminiscences;Daniel Bunce;Sep;2013;http://gutenberg.net.au/ebooks13/1305271h.html
+170026;Good Evans;Edgar Wallace;Sep;2013;http://gutenberg.net.au/ebooks13/1305251h.html
+170010;More Educated Evans;Edgar Wallace;Sep;2013;http://gutenberg.net.au/ebooks13/1305241h.html
+169882;The Human Touch;Sapper;Sep;2013;http://gutenberg.net.au/ebooks13/1305221h.html
+169802;Barbara on her Own;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305171h.html
+169786;A Debt Discharged;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305161h.html
+169770;The Lady of Little Hell;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305151h.html
+169754;The Lady Called Nita;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305141h.html
+169626;Four-Square Jane;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305121h.html
+169610;The Lieutenant and Others;Sapper;Aug;2013;http://gutenberg.net.au/ebooks13/1305111h.html
+169578;Mrs. William Jones—and Bill;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305091h.html
+169562;Men Women and Guns;Sapper;Aug;2013;http://gutenberg.net.au/ebooks13/1305081h.html
+169546;Tam's Air Taxi;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305071h.html
+169530;Killer Kay and Other Stories;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305061h.html
+169514;The Island of Terror;Sapper;Aug;2013;http://gutenberg.net.au/ebooks13/1305051h.html
+169498;The Fighting Scouts;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305041h.html
+169370;Thermodynamics;Enrico Fermi;Aug;2013;http://gutenberg.net.au/ebooks13/1305021p.pdf
+169338;Smithy;Nobby & Co, Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305001h.html
+169322;Smithy;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304991h.html
+169306;Nobby;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304981h.html
+169274;The Missing Million;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304961h.html
+169258;The Melody of Death;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304951h.html
+169242;The Green Ribbon;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304941h.html
+169098;The Black Abbot;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304911h.html
+169082;The Golden Hades;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304901h.html
+169034;The Undisclosed Client;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304871h.html
+169018;The Flying Fifty-Five;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304861h.html
+168986;Vultures' Sanctuary;Robert Ervin Howard;Aug;2013;http://gutenberg.net.au/ebooks13/1304841.html
+168858;Golden Hope Christmas;Robert Ervin Howard;Aug;2013;http://gutenberg.net.au/ebooks13/1304821.html
+168842;Drums of the Sunset;Robert Ervin Howard;Aug;2013;http://gutenberg.net.au/ebooks13/1304811.html
+168826;The Rocklitz;Marjorie Bowen;Aug;2013;http://gutenberg.net.au/ebooks13/1304801h.html
+168810;Sergeant Sir Peter;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304791h.html
+168778;They Dine in Darkness;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304771h.html
+168762;The Little Walking Corpses;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304761h.html
+168746;The Hound of Hell;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304751h.html
+168730;The Corpse Factory;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304741h.html
+168586;Satan's Handmaiden;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304711h.html
+168570;Satan's Bedchamber;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304701h.html
+168554;One Night of Terror;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304691h.html
+168538;Monster at Play;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304681h.html
+168522;Midnight Fangs;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304671h.html
+168506;Madman's Bride;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304661h.html
+168490;Girl of the Goat God;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304651h.html
+168474;Death's Mistress;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304641h.html
+168330;Bride of the Winged Terror;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304611h.html
+168314;The Green Ray;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304601h.html
+168298;The Strange Countess;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1304591h.html
+168282;The Vanishing American;Zane Grey;Aug;2013;http://gutenberg.net.au/ebooks13/1304581h.html
+168266;Revels for the Lusting Dead;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304571h.html
+168250;Priestess of Murder;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304561h.html
+168234;Lair of the Snake Girl;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304551h.html
+168218;Death's Cold Arms;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304541h.html
+166298;Geographical Memoirs on NSW;Barron Field;Jul;2013;http://gutenberg.net.au/ebooks13/1304421h.html
+166282;The Carnival of Florence;Marjorie Bowen;Jul;2013;http://gutenberg.net.au/ebooks13/1304411h.html
+166266;The Black Swan;Rafael Sabatini;Jul;2013;http://gutenberg.net.au/ebooks13/1304401h.html
+166218;The Enchanted Bluff;Willa Cather;Jul;2013;http://gutenberg.net.au/ebooks13/1304371h.html
+166202;When Love Went Mad!;Arthur Leo Zagat;Jul;2013;http://gutenberg.net.au/ebooks13/1304361h.html
+166186;The Man Who Would Not Die;Arthur Leo Zagat;Jul;2013;http://gutenberg.net.au/ebooks13/1304351h.html
+166170;Thirst of the Living Dead;Arthur Leo Zagat;Jul;2013;http://gutenberg.net.au/ebooks13/1304341h.html
+166026;Collected Juvenilia;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304311h.html
+166010;House of Living Death;Arthur Leo Zagat;Jul;2013;http://gutenberg.net.au/ebooks13/1304301h.html
+165994;Four Tales of Terror;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304291h.html
+165962;Red Blades of Black Cathay;Robert E. Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304271h.html
+165786;Knife-River Prodigal;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304221h.html
+165770;A Ring-Tailed Tornado;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304211h.html
+165754;A Man-Eating Jeopard;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304201h.html
+165706;Red Lion and Blue Star;John Arthur Barry;Jul;2013;http://gutenberg.net.au/ebooks13/1304171h.html
+165690;Strange Detective Stories;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304161h.html
+165674;Black Hound of Death;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304151h.html
+165658;The Crime of Laura Sarelle;Marjorie Bowen;Jul;2013;http://gutenberg.net.au/ebooks13/1304141h.html
+165498;The Challenge from Beyond;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304101h.html
+165434;My Lady Bountiful;Fred Merrick White;Jul;2013;http://gutenberg.net.au/ebooks13/1304061h.html
+165418;Bellarion The Fortunate;Rafael Sabatini;Jul;2013;http://gutenberg.net.au/ebooks13/1304051h.html
+165274;A Moment's Madness;Marjorie Bowen;Jul;2013;http://gutenberg.net.au/ebooks13/1304021h.html
+165242;The Riot of Bucksnort;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304001h.html
+165226;Gents on the Lynch;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1303991h.html
+165210;A Gent from the Pecos;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1303981h.html
+165178;Three Tales of the Ring;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1303961h.html
+164890;Brethren of the Main;Rafael Sabatini;Jun;2013;http://gutenberg.net.au/ebooks13/1303841h.html
+164762;The Lonely Bride;Fred Merrick White;Jun;2013;http://gutenberg.net.au/ebooks13/1303821h.html
+164698;The Dream;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303781h.html
+164682;Cimmeria - A Poem;Robert Ervin Howard;Jun;2013;http://gutenberg.net.au/ebooks13/1303771h.html
+164506;What is Coming;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303721h.html
+164490;Washington and the Hope of Peace;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303711h.html
+164474;War and the Future;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303701h.html
+164458;Utopias;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303691h.html
+164442;This Misery of Boots;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303681h.html
+164426;The War That Will End War;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303671h.html
+164410;The Open Conspiracy;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303661h.html
+164394;The Salvaging of Civilization;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303651h.html
+164250;The Fate of Man;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303621h.html
+164234;The Elements of Reconstruction;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303611h.html
+164218;The Discovery of the Future;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303601h.html
+164202;The Common Sense of War and Peace;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303591h.html
+164186;Socialism and the Family;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303581h.html
+164170;New Worlds for Old;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303571h.html
+164154;Marxism vs. Liberalism;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303561h.html
+164138;Mankind in the Making;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303551.html
+164122;In the Fourth Year;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303541.html
+162202;The Soul of a Bishop;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303421h.html
+162186;The Secret Places of the Heart;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303411h.html
+162170;The Research Magnificent;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303401h.html
+162154;The Passionate Friends;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303391h.html
+162138;You Can't Be Too Careful;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303381h.html
+162122;The Wife of Sir Isaac Harman;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303371h.html
+161930;The New Machiavelli;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303311h.html
+161914;The King Who was a King;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303301h.html
+161898;The History of Mr Polly;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303291h.html
+161882;Mr. Britling Sees it Through;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303281h.html
+161866;Meanwhile;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303271h.html
+161850;Marriage;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303261h.html
+161834;Love and Mr Lewisham;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303251h.html
+161818;Joan and Peter;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303241h.html
+161658;The Brothers;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303201h.html
+161642;Boon;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303191h.html
+161626;Bealby: A Holiday;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303181h.html
+161610;Babes in the Darkling Woods;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303171h.html
+161578;King in Prussia;Rafael Sabatini;Jun;2013;http://gutenberg.net.au/ebooks13/1303151h.html
+161562;The World Set Free;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303141h.html
+161434;The War in the Air;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303121h.html
+161418;When the Sleeper Awakes;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303111h.html
+161402;The Sleeper Awakes;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303101h.html
+161354;Chivalry;Rafael Sabatini;Jun;2013;http://gutenberg.net.au/ebooks13/1303071h.html
+161338;A Modern Utopia;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303061h.html
+161322;The Sea Lady;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303051h.html
+161306;In the Days of the Comet;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303041h.html
+161178;The Food of the Gods;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303021h.html
+161162;The First Men in the Moon;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303011h.html
+161098;Jan in India;Otis Adelbert Kline;May;2013;http://gutenberg.net.au/ebooks13/1302971h.html
+161066;Ah;Wilderness, Eugene O'Neill;May;2013;http://gutenberg.net.au/ebooks13/1302951.txt
+161050;The Poisoners;Marjorie Bowen;May;2013;http://gutenberg.net.au/ebooks13/1302941h.html
+160906;Sixteen in Nome;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302911h.html
+160890;Silvertip's Search;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302901h.html
+160874;The Devil Light;Edgar Wallace;May;2013;http://gutenberg.net.au/ebooks13/1302891h.html
+160858;The Black Grippe;Edgar Wallace;May;2013;http://gutenberg.net.au/ebooks13/1302881h.html
+160842;The Whispering Outlaw;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302871h.html
+160826;The Mustang Herder;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302861h.html
+160810;The Mountain Fugitive;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302851h.html
+160794;The Lightning Warrior;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302841h.html
+160666;Marbleface;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302821h.html
+160650;The Quest of Lee Garrison;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302811h.html
+160618;The Terrible People;Edgar Wallace;May;2013;http://gutenberg.net.au/ebooks13/1302791h.html
+160602;The Nuptials of Corbal;Rafael Sabatini;May;2013;http://gutenberg.net.au/ebooks13/1302781h.html
+160570;The Tomb of Ts'in;Edgar Wallace;May;2013;http://gutenberg.net.au/ebooks13/1302761h.html
+160554;The Red Bandanna;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302751h.html
+160538;Soft Metal;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302741h.html
+160378;The Tenderfoot;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302701h.html
+160362;Gunman's Gold;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302691h.html
+160346;Aunt Beardie;Marjorie Bowen;May;2013;http://gutenberg.net.au/ebooks13/1302681h.html
+160330;The Marriage of Meldrum Strange;Talbot Mundy;May;2013;http://gutenberg.net.au/ebooks13/1302671h.html
+160314;Wild Freedom;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302661h.html
+160298;Way of the Lawless;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302651h.html
+160282;Trailin';Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302641h.html
+160154;The Long Long Trail;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302621h.html
+160138;Silvertip;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302611h.html
+160122;The Garden of Eden;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302601h.html
+160106;Riders of the Silences;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302591h.html
+160090;Harrigan;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302581h.html
+160074;Donnegan;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302571h.html
+160058;Bull Hunter;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302561h.html
+160042;Black Jack;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302551h.html
+160026;Alcatraz;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302541h.html
+158058;The Moon Pool;Abraham Merritt;May;2013;http://gutenberg.net.au/ebooks13/1302391h.html
+158042;The Metal Monster;Abraham Merritt;May;2013;http://gutenberg.net.au/ebooks13/1302381h.html
+158026;When Old Gods Wake;Abraham Merritt;May;2013;http://gutenberg.net.au/ebooks13/1302371h.html
+158010;The White Road;Abraham Merritt;May;2013;http://gutenberg.net.au/ebooks13/1302361h.html
+157994;The Last Poet and the Robots;Abraham Merritt;May;2013;http://gutenberg.net.au/ebooks13/1302351h.html
+157978;Collected Short Stories;Abraham Merritt;May;2013;http://gutenberg.net.au/ebooks13/1302341h.html
+157786;The Mask of Midas;G. K. Chesterton;May;2013;http://gutenberg.net.au/ebooks13/1302281h.html
+157770;The Man with the Scales;Marjorie Bowen;May;2013;http://gutenberg.net.au/ebooks13/1302271h.html
+157754;The Secret of the League;Ernest Bramah;May;2013;http://gutenberg.net.au/ebooks13/1302261h.html
+157738;Kai Lung Unrolls His Mat;Ernest Bramah;May;2013;http://gutenberg.net.au/ebooks13/1302251h.html
+157594;An African Millionaire;Grant Allen;May;2013;http://gutenberg.net.au/ebooks13/1302221h.html
+157562;Hilda Wade;Grant Allen;May;2013;http://gutenberg.net.au/ebooks13/1302201h.html
+157546;Miss Cayley's Adventures;Grant Allen;May;2013;http://gutenberg.net.au/ebooks13/1302191h.html
+157514;Paul Ferroll;Caroline Clive;May;2013;http://gutenberg.net.au/ebooks13/1302171h.html
+157290;Five Hundred Carats;George Griffith;May;2013;http://gutenberg.net.au/ebooks13/1302091h.html
+157274;The Star Chamber;William Harrison Ainsworth;May;2013;http://gutenberg.net.au/ebooks13/1302081h.html
+157226;Rookwood;William Harrison Ainsworth;May;2013;http://gutenberg.net.au/ebooks13/1302051h.html
+157210;Preston Fight;William Harrison Ainsworth;May;2013;http://gutenberg.net.au/ebooks13/1302041h.html
+157082;Guy Fawkes;William Harrison Ainsworth;May;2013;http://gutenberg.net.au/ebooks13/1302021h.html
+157002;The Revenge of the Robot;Otis Adelbert Kline;May;2013;http://gutenberg.net.au/ebooks13/1301971h.html
+156986;The Metal Monster;Otis Adelbert Kline;May;2013;http://gutenberg.net.au/ebooks13/1301961h.html
+156970;The Malignant Entity;Otis Adelbert Kline;May;2013;http://gutenberg.net.au/ebooks13/1301951h.html
+156954;Spawn of the Comet;Otis Adelbert Kline;May;2013;http://gutenberg.net.au/ebooks13/1301941h.html
+156810;The Ebony Stick;Earl Derr Biggers;Apr;2013;http://gutenberg.net.au/ebooks13/1301911h.html
+156794;General Crack;Marjorie Bowen;Apr;2013;http://gutenberg.net.au/ebooks13/1301901h.html
+156778;The Swordsman of Mars;Otis Adelbert Kline;Apr;2013;http://gutenberg.net.au/ebooks13/1301891h.html
+156762;The Harper's Stories;Marjorie Bowen;Apr;2013;http://gutenberg.net.au/ebooks13/1301881h.html
+156730;Fifty Candles;Earl Derr Biggers;Apr;2013;http://gutenberg.net.au/ebooks13/1301861h.html
+156714;Inside the Lines;Earl Derr Biggers;Apr;2013;http://gutenberg.net.au/ebooks13/1301851h.html
+156698;Love Insurance;Earl Derr Biggers;Apr;2013;http://gutenberg.net.au/ebooks13/1301841h.html
+156538;Nell Gwyn;Marjorie Bowen;Apr;2013;http://gutenberg.net.au/ebooks13/1301801h.html
+156522;Cambric Tea;Marjorie Bowen;Apr;2013;http://gutenberg.net.au/ebooks13/1301791h.html
+156490;Stuffing;Edgar Wallace;Apr;2013;http://gutenberg.net.au/ebooks13/1301771h.html
+156474;The Passionate Year;James Hilton;Apr;2013;http://gutenberg.net.au/ebooks13/1301761h.html
+156314;The Appetite of Tyranny;G. K. Chesterton;Apr;2013;http://gutenberg.net.au/ebooks13/1301721h.html
+156298;The Barbarism of Berlin;G. K. Chesterton;Apr;2013;http://gutenberg.net.au/ebooks13/1301711h.html
+156282;The Flying Inn;G. K. Chesterton;Apr;2013;http://gutenberg.net.au/ebooks13/1301701h.html
+156266;Mary Queen of Scots;Marjorie Bowen;Apr;2013;http://gutenberg.net.au/ebooks13/1301691h.html
+156250;The Dawn of Reckoning;James Hilton;Apr;2013;http://gutenberg.net.au/ebooks13/1301681h.html
+156234;The White Pillars Murder;G. K. Chesterton;Apr;2013;http://gutenberg.net.au/ebooks13/1301671h.html
+156218;The Well and the Shallows;G. K. Chesterton;Apr;2013;http://gutenberg.net.au/ebooks13/1301661h.html
+156186;Call from Hell;Emile C. Tepperman;Apr;2013;http://gutenberg.net.au/ebooks13/1301641h.html
+156058;The Song of the Cakes;Arthur Leo Zagat;Mar;2013;http://gutenberg.net.au/ebooks13/1301621h.html
+156042;The Revolt of the Machines;Arthur Leo Zagat;Mar;2013;http://gutenberg.net.au/ebooks13/1301611h.html
+156026;The Death-Cloud;Arthur Leo Zagat;Mar;2013;http://gutenberg.net.au/ebooks13/1301601h.html
+156010;When the Sleepers Woke;Arthur Leo Zagat;Mar;2013;http://gutenberg.net.au/ebooks13/1301591h.html
+155994;The Great Dome of Mercury;Arthur Leo Zagat;Mar;2013;http://gutenberg.net.au/ebooks13/1301581h.html
+155978;Collected Stories Vol. II;Rafael Sabatini;Mar;2013;http://gutenberg.net.au/ebooks13/1301571h.html
+153994;Tomb of Torture;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301411h.html
+153978;The Terror's Trademark;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301401h.html
+153962;The Eyes of Durga;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301391h.html
+153946;Taking No Chances;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301381h.html
+153930;Satan's Scalpel;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301371h.html
+153914;Paid in Slugs;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301361h.html
+153898;Considine Laughs;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301351h.html
+153882;Secret Agent X;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301341h.html
+153754;The Angel of the Assassination;Marjorie Bowen;Mar;2013;http://gutenberg.net.au/ebooks13/1301321h.html
+153738;The Defendant;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301311h.html
+153706;Varied Types;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301291h.html
+153690;Ben Hamed;Sylvanus Cobb;Mar;2013;http://gutenberg.net.au/ebooks13/1301281h.html
+153674;Greybeards at Play;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301271h.html
+153642;What's Wrong with the World;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301251h.html
+153626;The Ball and the Cross;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301241h.html
+153498;Orthodoxy;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301221h.html
+153482;Eugenics and Other Evils;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301211h.html
+153466;Autobiography;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301201h.html
+153450;Heretics;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301191h.html
+153434;A Miscellany of Men;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301181h.html
+153418;All Things Considered;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301171h.html
+153402;Alarms and Discursions;G. K. Chesterton;Mar;2013;http://gutenberg.net.au/ebooks13/1301161h.html
+153242;Miranda of the Balcony;A. E. W. Mason;Mar;2013;http://gutenberg.net.au/ebooks13/1301121h.html
+153226;Ferriby;Marjorie Bowen;Mar;2013;http://gutenberg.net.au/ebooks13/1301111h.html
+153178;Collected Short Stories Vol. XV;Fred M. White;Mar;2013;http://gutenberg.net.au/ebooks13/1301081h.html
+153114;Collected Short Stories Vol. XI;Fred M White;Mar;2013;http://gutenberg.net.au/ebooks13/1301041h.html
+152986;Collected Short Stories Vol. IX;Fred M. White;Mar;2013;http://gutenberg.net.au/ebooks13/1301021h.html
+152922;Collected Short Stories Vol. VI;Fred M. White;Mar;2013;http://gutenberg.net.au/ebooks13/1300981h.html
+152906;Collected Short Stories Vol. V;Fred M. White;Mar;2013;http://gutenberg.net.au/ebooks13/1300971h.html
+152890;Early Tasmania;James Backhouse Walker;Mar;2013;http://gutenberg.net.au/ebooks13/1300961h.html
+152730;The Golden Violet;Marjorie Bowen;Mar;2013;http://gutenberg.net.au/ebooks13/1300921h.html
+152698;The Missing Note;Fred Merrick White;Mar;2013;http://gutenberg.net.au/ebooks13/1300901h.html
+152682;The Third Estate;Marjorie Bowen;Mar;2013;http://gutenberg.net.au/ebooks13/1300891h.html
+152666;The Leopard and the Lily;Marjorie Bowen;Mar;2013;http://gutenberg.net.au/ebooks13/1300881h.html
+152650;The Governor of England;Marjorie Bowen;Feb;2013;http://gutenberg.net.au/ebooks13/1300871h.html
+152634;An Economic History of Australia;Edward Shann;Feb;2013;http://gutenberg.net.au/ebooks13/1300861h.html
+152618;Sword of Gimshai;James Anson Buck;Feb;2013;http://gutenberg.net.au/ebooks13/1300851h.html
+152602;Sargasso of Lost Safaris;James Anson Buck;Feb;2013;http://gutenberg.net.au/ebooks13/1300841h.html
+152458;Venetian Masque;Rafael Sabatini;Feb;2013;http://gutenberg.net.au/ebooks13/1300811h.html
+152442;The Gates of Doom;Rafael Sabatini;Feb;2013;http://gutenberg.net.au/ebooks13/1300801h.html
+152426;The Banner of the Bull;Rafael Sabatini;Feb;2013;http://gutenberg.net.au/ebooks13/1300791h.html
+152410;The King's Minion;Rafael Sabatini;Feb;2013;http://gutenberg.net.au/ebooks13/1300781h.html
+152394;The Hounds of God;Rafael Sabatini;Feb;2013;http://gutenberg.net.au/ebooks13/1300771h.html
+152362;The Debate Continues;Marjorie Bowen;Feb;2013;http://gutenberg.net.au/ebooks13/1300751h.html
+152346;Kings-at-Arms;Marjorie Bowen;Feb;2013;http://gutenberg.net.au/ebooks13/1300741h.html
+152202;God's Playthings;Marjorie Bowen;Jan;2013;http://gutenberg.net.au/ebooks13/1300711h.html
+152170;Julia Roseingrave;Marjorie Bowen;Jan;2013;http://gutenberg.net.au/ebooks13/1300691h.html
+152154;Pictures of Travel;William Mogford Hamlet;Jan;2013;http://gutenberg.net.au/ebooks13/1300681h.html
+152138;Landlopers;John Le Gay Brereton;Jan;2013;http://gutenberg.net.au/ebooks13/1300671h.html
+152106;The Watchers;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300651h.html
+152090;The Truants;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300641h.html
+151946;Parson Kelly;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300611h.html
+151930;Lawrence Clavering;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300601h.html
+151914;Green Stockings;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300591h.html
+151898;A Romance of Wastdale;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300581h.html
+151850;No Other Tiger;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300551h.html
+151834;Wreck of the Sydney Cove in 1797;Anonymous;Jan;2013;http://gutenberg.net.au/ebooks13/1300541h.html
+149898;The Burning Glass;Marjorie Bowen;Jan;2013;http://gutenberg.net.au/ebooks13/1300411h.html
+149786;Gleanings: 1903-1909;E. Phillips Oppenheim;Jan;2013;http://gutenberg.net.au/ebooks13/1300341h.html
+149658;The Man from Poonch;Talbot Mundy;Jan;2013;http://gutenberg.net.au/ebooks13/1300321h.html
+149626;Tennyson;G. K. Chesterton;Jan;2013;http://gutenberg.net.au/ebooks13/1300301h.html
+149562;Thackeray;G. K. Chesterton and Lewis Melville;Jan;2013;http://gutenberg.net.au/ebooks13/1300261h.html
+149386;Chaucer;G. K. Chesterton;Jan;2013;http://gutenberg.net.au/ebooks13/1300211h.html
+149370;Up the Ladder of Gold;E. Phillips Oppenheim;Jan;2013;http://gutenberg.net.au/ebooks13/1300201h.html
+149306;Witness for the Defence;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300161h.html
+149290;The Summons;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300151h.html
+149274;The Philanderers;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300141h.html
+149146;Running Water;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300121h.html
+149114;Clementina;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300101h.html
+149082;Selected Short Stories;Victor L. Whitechurch;Jan;2013;http://gutenberg.net.au/ebooks13/1300081h.html
+149050;They Wouldn't be Chessmen;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300061h.html
+149034;The Discovery of Bass Strait;George Bass;Jan;2013;http://gutenberg.net.au/ebooks13/1300051h.html
+149018;Selected Short Stories;Talbot Mundy;Jan;2013;http://gutenberg.net.au/ebooks13/1300041h.HTML
+148874;A Soldier and a Gentleman;Talbot Mundy;Jan;2013;http://gutenberg.net.au/ebooks13/1300011h.html
+148858;Thomas Carlyle;G. K. Chesterton;Dec;2012;http://gutenberg.net.au/ebooks12/1204431h.html
+148842;John Burnet of Barns;John Buchan;Dec;2012;http://gutenberg.net.au/ebooks12/1204421h.html
+148826;Journal and Letters;Daniel Southwell;Dec;2012;http://gutenberg.net.au/ebooks12/1204411h.html
+148810;Robert Browning;G. K. Chesterton;Dec;2012;http://gutenberg.net.au/ebooks12/1204401h.html
+148778;George Bernard Shaw;G. K. Chesterton;Dec;2012;http://gutenberg.net.au/ebooks12/1204381h.html
+148634;Montrose: A History;John Buchan;Dec;2012;http://gutenberg.net.au/ebooks12/1204351h.html
+148618;A Lost Lady of Old Years;John Buchan;Dec;2012;http://gutenberg.net.au/ebooks12/1204341h.html
+148602;The Soul of a Regiment;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204331h.html
+148586;The Pillar Of Light;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204321h.html
+148570;Making 10000 Pounds;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204311h.html
+148554;Kitty Burns Her Fingers;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204301h.html
+148538;MacHassan Ah;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204291h.html
+148522;The Middle Way;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204281h.html
+148506;Poems and Dicta;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204271h.html
+148378;For the Salt he had Eaten;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204251h.html
+148362;The Thunder Dragon Gate;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204241h.html
+148346;Mr. Mirakel;E. Phillips Oppenheim;Dec;2012;http://gutenberg.net.au/ebooks12/1204231h.html
+148330;Moses and Mrs Aintree;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204221h.html
+148314;A Secret Society;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204211h.html
+148298;The Lost Trooper;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204201h.html
+148106;Murder at the Pageant;Victor L Whitechurch;Nov;2012;http://gutenberg.net.au/ebooks12/1204141h.html
+148090;The White Drake;Ann Scott Moncrieff;Nov;2012;http://gutenberg.net.au/ebooks12/1204131h.html
+148074;The Way of Stars;Lily Adams Beck;Nov;2012;http://gutenberg.net.au/ebooks12/1204121h.html
+148058;The Voyage of the Endeavour;G. Arnold Wood;Nov;2012;http://gutenberg.net.au/ebooks12/1204111h.html
+148042;The Discovery of Australia;G. Arnold Wood;Nov;2012;http://gutenberg.net.au/ebooks12/1204101h.html
+147994;The Grassleyes Mystery;E. Phillips Oppenheim;Nov;2012;http://gutenberg.net.au/ebooks12/1204071h.html
+147866;The Golden Beast;E. Phillips Oppenheim;Nov;2012;http://gutenberg.net.au/ebooks12/1204051h.html
+147850;The Court of St. Simon;E. Phillips Oppenheim;Nov;2012;http://gutenberg.net.au/ebooks12/1204041h.html
+147818;The Man Without Nerves;E. Phillips Oppenheim;Nov;2012;http://gutenberg.net.au/ebooks12/1204021h.html
+147754;Lachlan Macquarie;Frederick Watson;Oct;2012;http://gutenberg.net.au/ebooks12/1203981h.html
+147738;Australian Discovery by Land;Ernest Scott;Oct;2012;http://gutenberg.net.au/ebooks12/1203971h.html
+145738;Walter Sickert: A Conversation;Virginia Woolf;Oct;2012;http://gutenberg.net.au/ebooks12/1203801h.html
+145690;The Cave Girl;Edgar Rice Burroughs;Oct;2012;http://gutenberg.net.au/ebooks12/1203771h.html
+145562;Looking Backward;Edward Bellamy;Oct;2012;http://gutenberg.net.au/ebooks12/1203751h.html
+145450;Who Travels Alone;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203681h.html
+145306;The World's Great Snare;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203651h.html
+145274;The Glenlitten Murder;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203631h.html
+145258;The Lady of Ascot;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203621h.html
+145242;Those Folk of Bulboro';Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203611h.html
+145226;The Feathered Serpent;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203601h.html
+145210;The Double;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203591h.html
+145178;The Kingdom of Earth;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203571h.html
+145050;The Squeaker;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203551h.html
+145034;Silinski—Master Criminal;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203541h.html
+145018;The Nine Bears;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203531h.html
+145002;Double Dan;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203521h.html
+144986;Seventy-three Short Stories;H. G. Wells;Sep;2012;http://gutenberg.net.au/ebooks12/1203511h.html
+144970;Earliest Writing;H. P. Lovecraf;Sep;2012;http://gutenberg.net.au/ebooks12/1203501h.html
+144954;Passers-by;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203491h.html
+144938;The Seven Conundrums;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203481h.html
+144922;Crooks in the Sunshine;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203471h.html
+144778;For the Queen;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203441h.html
+144666;The Passionate Quest;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203371h.html
+144538;Those Other Days;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203351h.html
+144522;The Lion and the Lamb;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203341h.html
+144474;A Daughter of Astrea;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203311h.html
+144458;The Pool of Memory;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203301h.html
+144426;Jennerton and Co;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203281h.html
+144410;Clowns and Criminals;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203271h.html
+144266;A Sleeping Memory;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203241h.html
+144250;Advice Ltd;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203231h.html
+144218;Grey Timothy;Edgar Wallace;Aug;2012;http://gutenberg.net.au/ebooks12/1203211h.html
+144170;The Yellow Crayon;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203181h.html
+144154;The Wicked Marquis;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203171h.html
+144026;The Malefactor;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203151h.html
+144010;The Betrayal;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203141h.html
+143978;A Monk of Cruta;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203121h.html
+143962;Anna the Adventuress;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203111h.html
+143946;The Vanished Messenger;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks18/1203101h.html
+143930;A Maker of History;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks17/1203091h.html
+143898;The Traitors;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks15/1203071h.html
+143770;The Profiteers;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks13/1203051h.html
+143754;The New Tenant;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203041h.html
+143738;The Moving Finger;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203031h.html
+143722;The Missioner;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203021.html
+143706;The Mischief-Maker;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203011.html
+143674;The Lighted Way;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1202991h.html
+143642;The Hillman;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1202971h.html
+141706;The Cinema Murder;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202841h.html
+141690;The Devil's Paw;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202831h.html
+141642;The Black Box;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202801h.html
+141610;The Lost World;Arthur Conan Doyle;Jul;2012;http://gutenberg.net.au/ebooks12/1202781h.html
+141594;Sir Walter Scott;John Buchan;Jul;2012;http://gutenberg.net.au/ebooks12/1202771h.html
+141434;The War in South Africa;Arthur Conan Doyle;Jul;2012;http://gutenberg.net.au/ebooks12/1202731h.html
+141418;The Great Boer War;Arthur Conan Doyle;Jul;2012;http://gutenberg.net.au/ebooks12/1202721h.html
+141402;The Crime of the Congo;Arthur Conan Doyle;Jul;2012;http://gutenberg.net.au/ebooks12/1202711h.html
+141370;A Visit to Three Fronts;Arthur Conan Doyle;Jul;2012;http://gutenberg.net.au/ebooks12/1202691h.html
+141354;A Glimpse of the Army;Arthur Conan Doyle;Jul;2012;http://gutenberg.net.au/ebooks12/1202681h.html
+141178;The Trial of Oscar Slater;William Roughead;Jul;2012;http://gutenberg.net.au/ebooks12/1202631h.html
+141162;Papuan Pictures;H. M. Dauncey;Jul;2012;http://gutenberg.net.au/ebooks12/1202621h.html
+140938;Picturesque New Guinea;John William Lindt;Jul;2012;http://gutenberg.net.au/ebooks12/1202541h.html
+140922;Papua or British New Guinea;J. H. P. Murray;Jul;2012;http://gutenberg.net.au/ebooks12/1202531h.html
+140906;Mr. Marx's Secret;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202521h.html
+140890;Mysterious Mr. Sabin;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202511h.html
+140874;Nobody's Man;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202501h.html
+140842;The Pawns Count;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202481h.html
+140122;Karma;Fred Merrick White;Jun;2012;http://gutenberg.net.au/ebooks12/1202211h.html
+140074;Jeanne of the Marshes;E. Phillips Oppenheim;Jun;2012;http://gutenberg.net.au/ebooks12/1202181h.html
+140058;Jacob's Ladder;E. Phillips Oppenheim;Jun;2012;http://gutenberg.net.au/ebooks12/1202171h.html
+139562;Crossed Swords;Fred Merrick White;Jun;2012;http://gutenberg.net.au/ebooks12/1201981h.html
+137514;Challenge;Sapper;Apr;2012;http://gutenberg.net.au/ebooks12/1201781h.html
+137498;Knock-out;Sapper;Apr;2012;http://gutenberg.net.au/ebooks12/1201771h.html
+137370;The Watcher by the Threshold;John Buchan;Apr;2012;http://gutenberg.net.au/ebooks12/1201751h.html
+137018;Icky of Oluk Lake;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201591h.html
+136810;The World Next Door;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201521h.html
+136794;The Witness;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201511h.html
+136778;The Waterwitch;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201501h.html
+136762;The Vital Spot;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201491h.html
+136746;The Unexpected;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201481h.html
+136730;The Throat of the Wolf;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201471h.html
+136602;The Superman;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201451h.html
+136586;The Real Dramatic Touch;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201441h.html
+136570;The Northern Light;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201431h.html
+136554;A Captious Critic;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201421h.html
+136522;The Midnight Call;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201401h.html
+136506;The Man Who Got Through;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201391h.html
+136490;The Luck of the Game;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201381h.html
+136474;The Emsdam Dispatches;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201371h.html
+136346;The Lonely Furrow;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201351h.html
+136330;The Language of Flowers;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201341h.html
+136314;The Heart of an Anarchist;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201331h.html
+136298;The Fourth Man;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201321h.html
+136282;The Eye of the Camera;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201311h.html
+136218;The Lesson The Ants Taught;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201271h.html
+136090;The Dawnstar;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201251h.html
+136074;The Charlatan;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201241h.html
+136058;The Buff Gauntlet;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201231h.html
+136042;The Broken Trail;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201221h.html
+136026;The Broken Lute;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201211h.html
+136010;The Balance Of Nature;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201201h.html
+135994;The Apple-Green Plate;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201191h.html
+135978;The Thirty-Seventh Month;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201181h.html
+135962;Sub Rosa;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201171h.html
+135834;Photo By Lesterre;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201151h.html
+135818;Pearls of Price;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201141h.html
+135802;Forget-Me-Not;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201131h.html
+135786;One Foggy Night;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201121h.html
+135770;Not on the Records;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201111h.html
+135754;Nerves;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201101h.html
+135738;Made in England;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201091h.html
+135722;Love in Aether;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201081h.html
+135706;Full Fathoms Deep;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201071h.html
+135578;A Single Hair;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201051h.html
+135562;The Salmon Poachers;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201041h.html
+135546;The Last Drive;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201031h.html
+135530;A Record Round;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201021h.html
+135514;Applied Mechanics;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201011h.html
+135498;A Place in the Sun;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201001h.html
+135482;A Parrot Cry;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200991h.html
+135466;An Ally;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200981h.html
+135450;A Matter Of Habit;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200971h.html
+104826;The House on the Island;Arthur Gask;Nov;2011;http://gutenberg.net.au/ebooks11/1100751.txt
+104810;A Popular Novelist;Fred Merrick White;Nov;2011;http://gutenberg.net.au/ebooks11/1100741.txt
+104570;Damon Runyon Omnibus;Damon Runyon;Nov;2011;http://gutenberg.net.au/ebooks11/1100651h.html
+104026;Slade;Warwick Deeping;May;2011;http://gutenberg.net.au/ebooks11/1100431h.html
+102954;On the Iron at Big Cloud;Frank L. Packard;Dec;2010;http://gutenberg.net.au/ebooks10/1000911h.html
+102714;Pawned;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000821h.html
+100762;The Romantic Prince;Rafael Sabatini;Nov;2010;http://gutenberg.net.au/ebooks10/1000681h.html
+100746;Free and Other Stories;Theodore Dresiser;Nov;2010;http://gutenberg.net.au/ebooks10/1000671h.html
+100730;The Impudence of Youth;Warwick Deeping;Nov;2010;http://gutenberg.net.au/ebooks10/1000661h.html
+100714;The Sin that was His;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000651h.html
+99610;Bones of the River;Edgar Wallace;Apr;2010;http://gutenberg.net.au/ebooks10/1000201.txt
+96074;The Passenger from Scotland Yard;H Freeman Wood;Jul;2009;http://gutenberg.net.au/ebooks09/0900511.txt
+94842;Letters to a Young Woman;Rainer Maria Rilke;Jan;2009;http://gutenberg.net.au/ebooks09/0900041h.html
+94570;Anglo-Karen Dictionary;Jonathan Wade;Nov;2008;http://gutenberg.net.au/ebooks08/0801341p.pdf
+94490;A Self-Made Thief;Hulbert Footner;Nov;2008;http://gutenberg.net.au/ebooks08/0801291.txt
+90714;Bulldog Drummond;Sapper;Jun;2008;http://gutenberg.net.au/ebooks08/0800431h.html
+87712;Thomas Mitchell;J. H. L. Cumpston;Apr;2007;http://gutenberg.net.au/ebooks07/0700531h.html
+84298;Mother Goose Rhymes;Kendall Banning;Mar;2007;http://gutenberg.net.au/ebooks07/0700411h.html
+84090;Stories of the Foreign Legion;P. C. Wren;Mar;2007;http://gutenberg.net.au/ebooks07/0700341h.html
+74634;Killed At Resaca;Ambrose Bierce;Sep;2006;http://gutenberg.net.au/ebooks06/0607201.txt
+79008;Australian Discovery;Ernest Scott;Nov;2002;http://gutenberg.net.au/ebooks02/0201001h.zip
+88576;A Scots Quair;Lewis Grassic Gibbon;Apr;2007;http://gutenberg.net.au/ebooks07/0700471h.html
+92576;Lost on Venus;Edgar Rice Burroughs;Feb;2003;http://gutenberg.net.au/ebooks03/0300201h.html
+92320;Escape on Venus;Edgar Rice Burroughs;Feb;2003;http://gutenberg.net.au/ebooks03/0300191h.html
+92064;Carson of Venus;Edgar Rice Burroughs;Feb;2003;http://gutenberg.net.au/ebooks03/0300181h.html
+94880;Edgar Wallace by Himself;Edgar Wallace;Oct;2008;http://gutenberg.net.au/ebooks08/0801201.txt
+96768;Pirates of Venus;Edgar Rice Burroughs;Feb;2003;http://gutenberg.net.au/ebooks03/0300211h.html
+102816;The Maid of Sker;Richard Doddridge Blackmore;Nov;2010;http://gutenberg.net.au/ebooks10/1000701h.html
+103072;Christowell;Richard Doddridge Blackmore;Nov;2010;http://gutenberg.net.au/ebooks10/1000711h.html
+104960;The Night Operator;Frank L. Packard;Nov;2010;http://gutenberg.net.au/ebooks10/1000691h.html
+135584;A Question Of Money;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200961h.html
+135840;Below Zero;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201061h.html
+136096;Second In The Field;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201161h.html
+136352;The Desert Ship;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201261h.html
+136608;A Masked Battery;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201361h.html
+136864;The Sword of Justice;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1201461h.html
+137120;A Draught Of Life;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200931h.html
+137376;One Of The Old Guard;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200941h.html
+137632;A Garden Of Pearls;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200951h.html
+140704;A King by Night;Edgar Wallace;Jan;2012;http://gutenberg.net.au/ebooks12/1200111h.html
+140448;Niels Lyhne;Jens Peter Jacobsen;Apr;2003;http://gutenberg.net.au/ebooks03/0300751h.zip
+140192;Views and Reviews;Havelock Ellis;Apr;2003;http://gutenberg.net.au/ebooks03/0300741h.zip
+140960;Reports From the Boer War;Edgar Wallace;Jan;2012;http://gutenberg.net.au/ebooks12/1200121h.html
+141216;Red Pages from Tsardom;Edgar Wallace;Jan;2012;http://gutenberg.net.au/ebooks12/1200131h.html
+141472;Spain;Canada and Other Topics, Edgar Wallace;Jan;2012;http://gutenberg.net.au/ebooks12/1200141h.html
+141728;Art Critics;Fred Merrick White;May;2012;http://gutenberg.net.au/ebooks12/1201951h.html
+143776;The Illustrious Prince;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1202961h.html
+144032;The Midnight Guest;Fred Merrick White;Jan;2012;http://gutenberg.net.au/ebooks12/1200181h.html
+144288;The Master Mummer;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203161h.html
+144544;Michael's Evil Deeds;E. Phillips Oppenheim;Aug;2012;http://gutenberg.net.au/ebooks12/1203261h.html
+144800;The Evil Shepherd;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202911h.html
+145056;The Way of These Women;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203461h.html
+145312;Private Selby;Edgar Wallace;Sep;2012;http://gutenberg.net.au/ebooks12/1203561h.html
+145568;False Evidence;E. Phillips Oppenheim;Sep;2012;http://gutenberg.net.au/ebooks12/1203661h.html
+145920;The Double Four;E. Phillips Oppenheim;Jul;2012;http://gutenberg.net.au/ebooks12/1202861h.html
+145824;By Woman's Wit;Fred Merrick White;Jan;2012;http://gutenberg.net.au/ebooks12/1200251h.html
+147872;Australian Discovery by Sea;Ernest Scott;Oct;2012;http://gutenberg.net.au/ebooks12/1203961h.html
+148128;The Almedi Concession;Fred Merrick White;Jan;2012;http://gutenberg.net.au/ebooks12/1200281h.html
+148384;The Interloper;E. Phillips Oppenheim;Nov;2012;http://gutenberg.net.au/ebooks12/1204161h.html
+148640;Hookum Hai;Talbot Mundy;Dec;2012;http://gutenberg.net.au/ebooks12/1204261h.html
+148896;Sir Quixote of the Moors;John Buchan;Oct;2012;http://gutenberg.net.au/ebooks12/1203911h.html
+149152;Queen Cleopatra;Talbot Mundy;Jan;2013;http://gutenberg.net.au/ebooks13/1300031h.html
+149408;The Broken Road;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300131h.html
+149664;Robert Louis Stevenson;G. K. Chesterton;Jan;2013;http://gutenberg.net.au/ebooks13/1300231h.html
+149920;Full Moon;Talbot Mundy;Jan;2013;http://gutenberg.net.au/ebooks13/1300331h.html
+150016;Simple Peter Cradd;E. Phillips Oppenheim;Oct;2012;http://gutenberg.net.au/ebooks12/1203861h.html
+151968;The Dean's Elbow;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300531h.html
+152224;The Four Corners of The World;A. E. W. Mason;Jan;2013;http://gutenberg.net.au/ebooks13/1300631h.html
+152480;The Edgar Wallace Reader;Edgar Wallace;Jan;2013;http://gutenberg.net.au/ebooks13/1300461h.html
+152992;The Prison Breakers;Edgar Wallace;Jan;2013;http://gutenberg.net.au/ebooks13/1300481h.html
+153248;Collected Short Stories Vol. X;Fred M. White;Mar;2013;http://gutenberg.net.au/ebooks13/1301031h.html
+153504;The Turnstile;A. E. W. Mason;Mar;2013;http://gutenberg.net.au/ebooks13/1301131h.html
+153760;Gleanings: 1910-1914;E. Phillips Oppenheim;Jan;2013;http://gutenberg.net.au/ebooks13/1300511h.html
+154016;With Swag and Billy;Henry James Tompkins;Mar;2013;http://gutenberg.net.au/ebooks13/1301331h.html
+154112;Fighting Snub Reilly;Edgar Wallace;Jan;2013;http://gutenberg.net.au/ebooks13/1300431h.html
+156064;Kate Plus Ten;Edgar Wallace;Mar;2013;http://gutenberg.net.au/ebooks13/1301441h.html
+156320;The Adventures of Heine;Edgar Wallace;Mar;2013;http://gutenberg.net.au/ebooks13/1301451h.html
+156576;Magic;G. K. Chesterton;Apr;2013;http://gutenberg.net.au/ebooks13/1301731h.html
+156832;Seven Keys to Baldpate;Earl Derr Biggers;Apr;2013;http://gutenberg.net.au/ebooks13/1301831h.html
+157088;A Vision of Venus;Otis Adelbert Kline;May;2013;http://gutenberg.net.au/ebooks13/1301931h.html
+157344;Ovingdean Grange;William Harrison Ainsworth;May;2013;http://gutenberg.net.au/ebooks13/1302031h.html
+157600;The Avenger Collection;Emile C. Tepperman;Mar;2013;http://gutenberg.net.au/ebooks13/1301501h.html
+157856;Twelve Tales;Grant Allen;May;2013;http://gutenberg.net.au/ebooks13/1302231h.html
+158112;Defender of the Faith;Marjorie Bowen;Mar;2013;http://gutenberg.net.au/ebooks13/1301521h.html
+158208;The Admirable Carfew;Edgar Wallace;Mar;2013;http://gutenberg.net.au/ebooks13/1301431h.html
+160160;Acres of Unrest;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302531h.html
+160416;The Rangeland Avenger;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302631h.html
+160672;His Name His Fortune;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302731h.html
+160928;Red Devil of the Range;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302831h.html
+161184;The Great White Moth;Fred Merrick White;Jan;2012;http://gutenberg.net.au/ebooks12/1200611h.html
+161440;The Ten-Foot Chain;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302491h.html
+161696;The Wonderful Visit;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303131h.html
+161952;The Seventh Man;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302511h.html
+162208;Valley Thieves;Max Brand;May;2013;http://gutenberg.net.au/ebooks13/1302521h.html
+162304;Crysoline Limited;Fred Merrick White;Jan;2012;http://gutenberg.net.au/ebooks12/1200561h.html
+164256;God the Invisible King;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303531.html
+164512;The Future in America;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303631h.html
+164768;World Brain;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303731h.html
+165024;Five-Star Frameup;Emile C. Tepperman;Jun;2013;http://gutenberg.net.au/ebooks13/1303831h.html
+165280;Swords of Shahrazar;Robert E. Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1303931h.html
+165536;Dig Me No Grave;Robert Ervin Howard;Jul;2013;http://gutenberg.net.au/ebooks13/1304031h.html
+165792;The Stalking-Horse;Rafael Sabatini;Jul;2013;http://gutenberg.net.au/ebooks13/1304131h.html
+166048;Experiment in Autobiography;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303511.html
+166304;First and Last Things;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303521.html
+166400;The Undying Fire;H. G. Wells;Jun;2013;http://gutenberg.net.au/ebooks13/1303431h.html
+168352;Death Lives in Our House;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304531h.html
+168608;Death Lands a Cargo;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304631h.html
+168864;Terror Beneath the Streets;Arthur Leo Zagat;Aug;2013;http://gutenberg.net.au/ebooks13/1304731h.html
+169120;Satan's Scalpel;Arthur Leo Zagat;Jul;2013;http://gutenberg.net.au/ebooks13/1304471h.html
+169376;Thirst of the Damned;Arthur Leo Zagat;Jul;2013;http://gutenberg.net.au/ebooks13/1304481h.html
+169632;The Unpremeditated Curtain;Fred Merrick White;Feb;2012;http://gutenberg.net.au/ebooks12/1200821h.html
+169888;The Black and Other Stories;Edgar Wallace;Aug;2013;http://gutenberg.net.au/ebooks13/1305131h.html
+170144;Educated Evans;Edgar Wallace;Sep;2013;http://gutenberg.net.au/ebooks13/1305231h.html
+170400;Michael Cassidy;Sergeant (US Edition), Sapper;Sep;2013;http://gutenberg.net.au/ebooks13/1305331h.html
+201120;The Magic Walking-Stick;John Buchan;Sep;2013;http://gutenberg.net.au/ebooks13/1305541h.html
+201376;Flight of the Silver Eagle;Arthur Leo Zagat;Sep;2013;http://gutenberg.net.au/ebooks13/1305551h.html
+201632;The Death Room;Edgar Wallace;Dec;2013;http://gutenberg.net.au/ebooks13/1306731h.html
+201888;Mr. Miller and the Kaiser;Edgar Wallace;Nov;2013;http://gutenberg.net.au/ebooks13/1306471h.html
+202144;A Lodge in the Wilderness;John Buchan;Dec;2013;http://gutenberg.net.au/ebooks13/1306931h.html
+202400;John Walters;Sapper;Jan;2014;http://gutenberg.net.au/ebooks14/1400021h.html
+202656;Herbert Armstrong Poisoner;Edgar Wallace;Jan;2014;http://gutenberg.net.au/ebooks14/1400121h.html
+202912;God Wills It;William Stearns Davis;Jan;2014;http://gutenberg.net.au/ebooks14/1400221h.html
+203168;Cleopatra;H. Rider Haggard;Nov;2013;http://gutenberg.net.au/ebooks13/1306521h.html
+203264;The Man Called McGinnice;Edgar Wallace;Sep;2013;http://gutenberg.net.au/ebooks13/1305531h.html
+205216;King Alfred of England;Jacob Abbott;Jan;2014;http://gutenberg.net.au/ebooks14/1400521h.html
+205472;A Case for Angel Esquire;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400621h.html
+205728;The Art of Thinking;Ernest Dimnet;Jan;2014;http://gutenberg.net.au/ebooks14/1400451h.html
+205984;My Hollywood Diary;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1400821h.html
+206240;Locked in with Death;Arthur Leo Zagat;Feb;2014;http://gutenberg.net.au/ebooks14/1400921.html
+206496;When the Armanic Sank;Edgar Wallace;Feb;2014;http://gutenberg.net.au/ebooks14/1401021h.html
+206752;It's a Crazy World;James Hilton;Mar;2014;http://gutenberg.net.au/ebooks14/1401121h.html
+207008;Mary Queen of Scots;Jacob Abbott;Jan;2014;http://gutenberg.net.au/ebooks14/1400501h.html
+207264;The Martyr of the Catacombs;James de Mille;Mar;2014;http://gutenberg.net.au/ebooks14/1401321h.html
+207360;The Last Adventure;Edgar Wallace;Oct;2013;http://gutenberg.net.au/ebooks13/1305631h.html
+209312;Richard the First;Jacob Abbott;Apr;2014;http://gutenberg.net.au/ebooks14/1401521h.html
+209568;The Vanishing Trick;Malcolm Afford;Apr;2014;http://gutenberg.net.au/ebooks14/1401621h.html
+209824;The Girl Who Got There;James Hilton;Apr;2014;http://gutenberg.net.au/ebooks14/1401721h.html
+210080;Salammbo;Gustave Flaubert;Apr;2014;http://gutenberg.net.au/ebooks14/1401461h.html
+210336;The Planet of Doubt;Stanley G. Weinbaum;Apr;2014;http://gutenberg.net.au/ebooks14/1401921.html
+210592;The Wheel Spins;Ethel Lina White;May;2014;http://gutenberg.net.au/ebooks14/1402021h.html
+210848;The Soldier from Virginia;Marjorie Bowen;Apr;2014;http://gutenberg.net.au/ebooks14/1401491h.html
+211104;The Man Who Held the Wires;Randolph Bedford;May;2014;http://gutenberg.net.au/ebooks14/1402221h.html
+211360;Valerius - A Roman Story;John Gibson Lockhart;Apr;2014;http://gutenberg.net.au/ebooks14/1401511h.html
+211456;The Luckiest Young Man;E. Phillips Oppenheim;Mar;2014;http://gutenberg.net.au/ebooks14/1401421h.html
+213408;The Seven Deadly Sins;Marjorie Bowen;Sep;2014;http://gutenberg.net.au/ebooks14/1402521h.html
+213664;Nightcap and Plume;Marjorie Bowen;Aug;2014;http://gutenberg.net.au/ebooks14/1402441h.html
+213920;The Silver Stream;Fred Merrick White;Oct;2014;http://gutenberg.net.au/ebooks14/1402721h.html
+214176;Aunt Mary;Fred Merrick White;Aug;2014;http://gutenberg.net.au/ebooks14/1402461h.html
+214432;Dr Thorndykes Case-Book;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1402921.html
+214688;By the Black Deep;R. Austin Freeman;Nov;2014;http://gutenberg.net.au/ebooks14/1403021h.html
+214944;Whilomville Stories;Stephen Crane;Dec;2014;http://gutenberg.net.au/ebooks14/1403121h.html
+215200;Chronicles of Martin Hewitt;Arthur Morrison;Dec;2014;http://gutenberg.net.au/ebooks14/1403221h.html
+215456;First Russia Then Tibet;Robert Byron;Dec;2014;http://gutenberg.net.au/ebooks14/1403321h.html
+215552;Boundless Water;Marjorie Bowen;Aug;2014;http://gutenberg.net.au/ebooks14/1402421h.html
+217504;Divers Vanities;Arthur Morrison;Jan;2014;http://gutenberg.net.au/ebooks14/1403431h.html
+217760;Orchids to Murder;Hulbert Footner;Mar;2015;http://gutenberg.net.au/ebooks15/1500181h.html
+218016;Trails Meet;B. M. Bower;Mar;2015;http://gutenberg.net.au/ebooks15/1500281h.html
+218272;A Novel Without A Name;Aubrey Burnage;Apr;2015;http://gutenberg.net.au/ebooks15/1500381.txt
+218528;Nyarlathotep;H. P. Lovecraft;May;2015;http://gutenberg.net.au/ebooks15/1500481h.html
+218784;Hands Up;Frederick Niven;Jan;2015;http://gutenberg.net.au/ebooks15/1500041h.html
+219040;The Gilt Mask;Marjorie Bowen;Jun;2015;http://gutenberg.net.au/ebooks15/1500681h.html
+219296;Twin Sombreros;Zane Grey;Jul;2015;http://gutenberg.net.au/ebooks15/1500781h.html
+219552;Madame Storey;Hulbert Footner;Jan;2015;http://gutenberg.net.au/ebooks15/1500071h.html
+219648;The Works of Julius Caesar;Julius Caesar;Oct;2013;http://gutenberg.net.au/ebooks13/1305931h.html
+220220;PBL - Tristeza e decep��o;Samuel da Costa Araujo Nunes;fev;2000;wwww.google.com
+221600;The Adventures Of Tyler Tatlock;Dick Donovan;Nov;2015;http://gutenberg.net.au/ebooks15/1501081h.html
+221856;The Abbey Court Murder;Annie Haynes;Nov;2015;http://gutenberg.net.au/ebooks15/1501181h.html
+222112;The Stolen Stallion;Max Brand;Sep;2015;http://gutenberg.net.au/ebooks15/1501011h.html
+222368;A Game of Billiards;Arthur Morrison;Feb;2016;http://gutenberg.net.au/ebooks16/1600091h.html
+222624;The Substitute;Fred Merrick White;Feb;2016;http://gutenberg.net.au/ebooks16/1600191h.html
+222880;Sweet Coz;Josephine Tey;Mar;2016;http://gutenberg.net.au/ebooks16/1600291h.html
+223136;Herodias;Gustave Flaubert;Mar;2016;http://gutenberg.net.au/ebooks16/1600391h.html
+223392;Aunt Sarah's Brooch;Arthur Morrison;Mar;2016;http://gutenberg.net.au/ebooks16/1600491h.html
+223648;A Gilded Serpent;Dick Donovan;Nov;2015;http://gutenberg.net.au/ebooks15/1501071h.html
+223744;Silvertip's Strike;Max Brand;Sep;2015;http://gutenberg.net.au/ebooks15/1500981h.html
+225696;Ten Puppet Plays;Musette Morell;Jun;2016;http://gutenberg.net.au/ebooks16/1600701h.html
+225952;The Pie and the Pirate;Albert Lee;Aug;2016;http://gutenberg.net.au/ebooks16/1600891h.html
+226208;He She and They;Albert Lee;Oct;2016;http://gutenberg.net.au/ebooks16/1600991h.html
+226464;The Diamond Pin;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601091h.html
+226720;The Gordon Elopement;Carolyn Wells;Nov;2016;http://gutenberg.net.au/ebooks16/1601191h.html
+226976;One Touch O' Nature;George S. Beeby;Jul;2016;http://gutenberg.net.au/ebooks16/1600751h.html
+227232;The Poisoners;Edgar Wallace;Nov;2013;http://gutenberg.net.au/ebooks13/1306201h.html
+227488;The Huddle;Carolyn Wells;Feb;2017;http://gutenberg.net.au/ebooks17/1700091h.html
+227744;The Man Who Loved Lions;Ethel Lina White;Mar;2017;http://gutenberg.net.au/ebooks17/1700191h.html
+227840;The Banner;George S. Beeby;May;2016;http://gutenberg.net.au/ebooks16/1600691h.html
+229792;Hand and Ring;Anna Katharine Green;May;2017;http://gutenberg.net.au/ebooks17/1700391h.html
+230048;One of My Sons;Anna Katharine Green;Jun;2017;http://gutenberg.net.au/ebooks17/1700491h.html
+230304;Moving Forward;Henry Ford;Apr;2017;http://gutenberg.net.au/ebooks17/1700321h.html
+230560;The Yellow Holly;Fergus Hume;Aug;2017;http://gutenberg.net.au/ebooks17/1700691h.html
+230816;The Mayor's Wife;Anna Katharine Green;Aug;2017;http://gutenberg.net.au/ebooks17/1700791h.html
+231072;A Difficult Problem;Anna Katharine Green;Sep;2017;http://gutenberg.net.au/ebooks17/1700891h.html
+231328;The Green Pearl;Aidan de Brune;Oct;2017;http://gutenberg.net.au/ebooks17/1700991h.html
+231584;To the Minute;Anna Katharine Green;Oct;2017;http://gutenberg.net.au/ebooks17/1701091h.html
+231840;The Spider;Fergus Hume;Nov;2017;http://gutenberg.net.au/ebooks17/1701191h.html
+231936;A Son of Perdition;Fergus Hume;Apr;2017;http://gutenberg.net.au/ebooks17/1700291h.html
+233888;The Unbidden Guest;E. W. Hornung;Dec;2017;http://gutenberg.net.au/ebooks17/1701391h.html
+234144;Monk's Mark;Mary Fortune;Jan;2018;http://gutenberg.net.au/ebooks18/1800101h.html
+234400;The Crime Doctor;E. W. Hornung;Mar;2018;http://gutenberg.net.au/ebooks18/1800201h.html
+234656;The Mystery of the Nine Stars;Aidan de Brune;May;2018;http://gutenberg.net.au/ebooks18/1800301h.html
+234912;Strange Sanctuary;F. Scott Fitzgerald;May;2018;http://gutenberg.net.au/ebooks18/1800401h.html
+235168;The White Prior;Fergus Hume;Jun;2018;http://gutenberg.net.au/ebooks18/1800501h.html
+235424;Collected Short Stories;E. W. Hornung;Jul;2018;http://gutenberg.net.au/ebooks18/1800601h.html
+235680;The Purple Fern;Fergus Hume;Aug;2018;http://gutenberg.net.au/ebooks18/1800701h.html
+235936;Morag the Seal;J. W. Brodie-Innes;Sep;2018;http://gutenberg.net.au/ebooks18/1800801h.html
+236032;Ben-Hur;Lew Wallace;Nov;2013;http://gutenberg.net.au/ebooks13/1306331h.html
+266656;The Daughter of the House;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900801h.html
+266912;The Doorstep Murders;Carolyn Wells;Aug;2019;http://gutenberg.net.au/ebooks19/1900901h.html
+267168;The Soul of Countess Adrian;Rosa Praed;Sep;2019;http://gutenberg.net.au/ebooks19/1901001h.html
+267424;Never Again;Frank L Packard;Nov;2019;http://gutenberg.net.au/ebooks19/1901101h.html
+268704;Action by Night;Ernest Haycox;Aug;2019;http://gutenberg.net.au/ebooks19/1900791h.html
+268448;The Broken O;Carolyn Wells;Jul;2019;http://gutenberg.net.au/ebooks19/1900781h.html
+268192;The Silver Desert;Ernest Haycox;Jul;2019;http://gutenberg.net.au/ebooks19/1900771h.html
+267936;The Omnibus Fleming Stone;Carolyn Wells;Jul;2019;http://gutenberg.net.au/ebooks19/1900761h.html
+267680;Murder in the Bookshop;Carolyn Wells;Jul;2019;http://gutenberg.net.au/ebooks19/1900751h.html
+268800;The Tall House Mystery;A. Fielding;Jul;2019;http://gutenberg.net.au/ebooks19/1900701h.html
+301472;The Furthest Fury;Carolyn Wells;Jul;2019;http://gutenberg.net.au/ebooks19/1900691h.html
+301216;The Beautiful Derelict;Carolyn Wells;Jul;2019;http://gutenberg.net.au/ebooks19/1900681h.html
+300704;Wheels Within Wheels;Carolyn Wells;Jul;2019;http://gutenberg.net.au/ebooks19/1900661h.html
+300448;Scarecrow;A. Fielding;Jul;2019;http://gutenberg.net.au/ebooks19/1900651h.html
+299936;The Affair at Flower Acres;Carolyn Wells;Jun;2019;http://gutenberg.net.au/ebooks19/1900631h.html
+299680;Bugles in the Afternoon;Ernest Haycox;Jun;2019;http://gutenberg.net.au/ebooks19/1900621h.html
+297376;Rethinking Athenian Democracy;Stuart E Dawson;Jun;2019;http://gutenberg.net.au/ebooks19/1900591p.pdf
+296864;Mystery at the Rectory;A. Fielding;Jun;2019;http://gutenberg.net.au/ebooks19/1900571h.html
+296608;Big Brother and Other Stories;Rex Beach;Jun;2019;http://gutenberg.net.au/ebooks19/1900561h.html
+296096;Long Storm;Ernest Haycox;May;2019;http://gutenberg.net.au/ebooks19/1900541h.html
+295840;The Winds of Chance;Rex Beach;May;2019;http://gutenberg.net.au/ebooks19/1900531h.html
+295584;Rainbow's End;Rex Beach;May;2019;http://gutenberg.net.au/ebooks19/1900521h.html
+295328;The Auction Block;Rex Beach;May;2019;http://gutenberg.net.au/ebooks19/1900511h.html
+293280;Starlight Rider;Ernest Haycox;Apr;2019;http://gutenberg.net.au/ebooks19/1900491h.html
+293024;The Clifford Affair;A. Fielding;Apr;2019;http://gutenberg.net.au/ebooks19/1900481h.html
+292768;The Footsteps that Stopped;A. Fielding;Apr;2019;http://gutenberg.net.au/ebooks19/1900471h.html
+292512;The Iron Trail;Rex Beach;Apr;2019;http://gutenberg.net.au/ebooks19/1900461h.html
+292256;The Cluny Problem;A. Fielding;Apr;2019;http://gutenberg.net.au/ebooks19/1900451h.html
+292000;The Eames-Erskine Case;A. Fielding;Apr;2019;http://gutenberg.net.au/ebooks19/1900441h.html
+291744;The Vengeance of Durand;Rex Beach;Apr;2019;http://gutenberg.net.au/ebooks19/1900431h.html
+291488;Jaragu and the Lost Islands;Rex Beach;Apr;2019;http://gutenberg.net.au/ebooks19/1900421h.html
+291232;The Net;Rex Beach;Apr;2019;http://gutenberg.net.au/ebooks19/1900411h.html
+289184;The Ne'er-Do-Well;Rex Beach;Apr;2019;http://gutenberg.net.au/ebooks19/1900391h.html
+288416;The Great Sioux Festival;Rex Beach;Mar;2019;http://gutenberg.net.au/ebooks19/1900361h.html
+288160;Man in the Saddle;Ernest Haycox;Mar;2019;http://gutenberg.net.au/ebooks19/1900351h.html
+287904;Flowing Gold;Rex Beach;Mar;2019;http://gutenberg.net.au/ebooks19/1900341h.html
+287648;Woman in Ambush;Rex Beach;Mar;2019;http://gutenberg.net.au/ebooks19/1900331h.html
+287392;Jaragu of the Jungle;Rex Beach;Mar;2019;http://gutenberg.net.au/ebooks19/1900321h.html
+287136;The Barrier;Rex Beach;Mar;2019;http://gutenberg.net.au/ebooks19/1900311h.html
+285088;Infallibility;Anonymous;Mar;2019;http://gutenberg.net.au/ebooks19/1900291h.html
+284576;The Silver Horde;Rex Beach;Mar;2019;http://gutenberg.net.au/ebooks19/1900271h.html
+284320;Alder Gulch;Ernest Haycox;Mar;2019;http://gutenberg.net.au/ebooks19/1900261h.html
+284064;Too Fat to Fight;Rex Beach;Feb;2019;http://gutenberg.net.au/ebooks19/1900251h.html
+283808;Going Some;Rex Beach;Feb;2019;http://gutenberg.net.au/ebooks19/1900241h.html
+283552;The King of No-Land;Benjamin Leopold Farjeon;Feb;2019;http://gutenberg.net.au/ebooks19/1900231h.html
+283296;The Black Coat;John Galsworthy;Feb;2019;http://gutenberg.net.au/ebooks19/1900221h.html
+283040;The Electric Gun;Harold Johnston;Feb;2019;http://gutenberg.net.au/ebooks19/1900211h.html
+280992;The Emu's Head;Carlton Dawe;Feb;2019;http://gutenberg.net.au/ebooks19/1900191h.html
+280736;The Land of Wherisit;H. E. Boote;Feb;2019;http://gutenberg.net.au/ebooks19/1900181h.html
+280224;The Looting of Alaska;Rex Beach;Jan;2019;http://gutenberg.net.au/ebooks19/1900161h.html
+279968;The Sixth Thing;Ben Ames Williams;Jan;2019;http://gutenberg.net.au/ebooks19/1900151h.html
+279712;The Alster Case;Rufus H Gillmore;Jan;2019;http://gutenberg.net.au/ebooks19/1900141h.html
+279456;Trouble Shooter;Ernest Haycox;Jan;2019;http://gutenberg.net.au/ebooks19/1900131h.html
+279200;The Ranch on the Beaver;Andy Adams;Jan;2019;http://gutenberg.net.au/ebooks19/1900121h.html
+278944;The Spoilers;Rex Beach;Jan;2019;http://gutenberg.net.au/ebooks19/1900111h.html
+276896;What Doth It Profit;Ben Ames Williams;Jan;2019;http://gutenberg.net.au/ebooks19/1900091h.html
+276640;My Only Murder;Ernest Favenc;Jan;2019;http://gutenberg.net.au/ebooks19/1900081h.html
+276384;The Voyage of the Pulo Way;Carlton Dawe;Jan;2019;http://gutenberg.net.au/ebooks19/1900071h.html
+276128;Across Papua;Kenneth Mackay;Jan;2019;http://gutenberg.net.au/ebooks19/1900061h.html
+275872;A Voice from the Fog;Ben Ames Williams;Jan;2019;http://gutenberg.net.au/ebooks19/1900051h.html
+275616;Riddles Read;Dick Donovan;Jan;2019;http://gutenberg.net.au/ebooks19/1900041h.html
+275360;Found and Fettered;Dick Donovan;Jan;2019;http://gutenberg.net.au/ebooks19/1900031h.html
+275104;Riders West;Ernest Haycox;Jan;2019;http://gutenberg.net.au/ebooks19/1900021h.html
+274848;The Lady Ermetta;Ernest Favenc;Jan;2019;http://gutenberg.net.au/ebooks19/1900011h.html
+272800;The Hole in the Glass;Melville D. Post;Dec;2018;http://gutenberg.net.au/ebooks18/1801191h.html
+272544;The Garden in Asia;Melville D. Post;Dec;2018;http://gutenberg.net.au/ebooks18/1801181h.html
+272288;The Blackmailer;Melville D. Post;Dec;2018;http://gutenberg.net.au/ebooks18/1801171h.html
+272032;The Stolen Treasure;Melville D. Post;Dec;2018;http://gutenberg.net.au/ebooks18/1801161h.html
+271776;Saddle and Ride;Ernest Haycox;Dec;2018;http://gutenberg.net.au/ebooks18/1801151h.html
+271520;The Cuneiform Inscription;Melville D. Post;Dec;2018;http://gutenberg.net.au/ebooks18/1801141h.html
+271264;The Bradmoor Murder;Melville D. Post;Dec;2018;http://gutenberg.net.au/ebooks18/1801131h.html
+271008;Dust;Fred Merrick White;Dec;2018;http://gutenberg.net.au/ebooks18/1801121h.html
+270752;The Specimen Case;Ernest Bramah;Nov;2018;http://gutenberg.net.au/ebooks18/1801111h.html
+272896;Head of the Mountain;Ernest Haycox;Nov;2018;http://gutenberg.net.au/ebooks18/1801101h.html
+276992;The Phantom Woman;Melville D. Post;Dec;2018;http://gutenberg.net.au/ebooks18/1801201h.html
+281088;When I Lived in Bohemia;Fergus Hume;Jan;2019;http://gutenberg.net.au/ebooks19/1900101h.html
+285184;The Noble Lord;Ben Ames Williams;Feb;2019;http://gutenberg.net.au/ebooks19/1900201h.html
+289280;Pardners;Rex Beach;Mar;2019;http://gutenberg.net.au/ebooks19/1900301h.html
+293376;Settlers and Convicts;Alexander Harris;Apr;2019;http://gutenberg.net.au/ebooks19/1900401h.html
+297472;The Craig Poisoning Mystery;A. Fielding;May;2019;http://gutenberg.net.au/ebooks19/1900501h.html
+300960;Benno and Some of the Push;Edward Dyson;Oct;2005;http://gutenberg.net.au/ebooks05/0501021.txt
+301568;The Border Trumpet;Ernest Haycox;Jun;2019;http://gutenberg.net.au/ebooks19/1900601h.html
+303104;The Mikado Jewel;Fergus Hume;Oct;2018;http://gutenberg.net.au/ebooks18/1800901h.html
+481696;The White Cliffs;Alice Duer Miller;Jul;2006;http://gutenberg.net.au/ebooks06/0602411.txt
+464544;The War with the Newts;Karel Capek;Jun;2006;http://gutenberg.net.au/ebooks06/0601981h.html
+410784;Beau Sabreur;Percival Christopher Wren;Jun;2006;http://gutenberg.net.au/ebooks06/0601261h.html
+406944;Pharos the Egyptian;Guy Boothby;Jun;2006;http://gutenberg.net.au/ebooks06/0601171h.html
+360864;The First Discovery of Australia;T. D. Mutch;May;2006;http://gutenberg.net.au/ebooks06/0600631h.html
+344480;Beau Geste;Percival Christopher Wren;Mar;2006;http://gutenberg.net.au/ebooks06/0600231h.html
+337568;Shorter Poems;W. J. Alexander(Editor);Jan;2006;http://gutenberg.net.au/ebooks06/0600081p.pdf
+334336;The Way of the Spirit;H. Rider Haggard;Nov;2005;http://gutenberg.net.au/ebooks05/0501061.txt
+342528;The Avenger;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501081.txt
+338432;The Survivor;E. Phillips Oppenheim;Nov;2005;http://gutenberg.net.au/ebooks05/0501071.txt
+358912;The Sinister Man;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501121.txt
+354816;The People of the River;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501111.txt
+350720;The Man who Bought London;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501101.txt
+346624;The Face in the Night;Edgar Wallace;Nov;2005;http://gutenberg.net.au/ebooks05/0501091.txt
+408064;Cass Timberlane;Sinclair Lewis;Apr;2002;http://gutenberg.net.au/ebooks02/0200291.txt
+612864;Dr Nikola's Experiment;Guy Boothby;Sep;2002;http://gutenberg.net.au/ebooks02/0200611h.zip
+563712;Mark Twain's Autobiography Vol 2;Mark Twain;Aug;2002;http://gutenberg.net.au/ebooks02/0200551h.zip
+630784;Mark Twain's Autobiography Vol 1;Mark Twain;Aug;2002;http://gutenberg.net.au/ebooks02/0200561h.zip
